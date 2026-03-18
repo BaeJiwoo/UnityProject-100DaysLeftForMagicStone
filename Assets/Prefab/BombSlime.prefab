@@ -178,6 +178,11 @@ MonoBehaviour:
   healthFill: {fileID: 5391437977936143309}
   floatingDamagePrefab: {fileID: 4683603888397219697, guid: a4af78cd557fd854794f5915a0beb1d3, type: 3}
   knockbackResistance: 0.9
+  coinPrefab: {fileID: 7544076320209938545, guid: 2bea9b2be33ff2d40a90dd42d189a1df, type: 3}
+  coinDropChance: 1
+  minCoinCount: 1
+  maxCoinCount: 3
+  coinValuePerItem: 10
   explosionFXPrefab: {fileID: 2433282508537954060, guid: 3ef3ae421f71c5c4e97fe12dc2fc6312, type: 3}
   detonationTime: 1.5
   initialFlashSpeed: 0.2

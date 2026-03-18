@@ -4414,7 +4414,7 @@ GameObject:
   - component: {fileID: 1617742926}
   m_Layer: 7
   m_Name: LongDistanceAlly
-  m_TagString: Player
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4445,7 +4445,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!70 &1617742922
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -4987,7 +4987,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1881324179
 Transform:
   m_ObjectHideFlags: 0
@@ -6330,6 +6330,11 @@ MonoBehaviour:
   healthFill: {fileID: 1423468859123873970}
   floatingDamagePrefab: {fileID: 4683603888397219697, guid: a4af78cd557fd854794f5915a0beb1d3, type: 3}
   knockbackResistance: 0
+  coinPrefab: {fileID: 0}
+  coinDropChance: 0.5
+  minCoinCount: 1
+  maxCoinCount: 3
+  coinValuePerItem: 10
 --- !u!224 &7536423079180609736
 RectTransform:
   m_ObjectHideFlags: 0

@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a2685b1021d3fb478e33e004a257220, type: 3}
   m_Name: Stage Data_2
   m_EditorClassIdentifier: 
-  enemyHpMultiplier: 2
-  enemyDamageMultiplier: 1
+  enemyHpMultiplier: 1.2
+  enemyDamageMultiplier: 1.1
   backgroundBundleIndex: 1
   spawnerSetups:
   - spawnerID: 1

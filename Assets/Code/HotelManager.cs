@@ -108,6 +108,12 @@ public class HotelManager : MonoBehaviour
 
     public void GoToNextStage()
     {
+        // [추가] 씬을 넘어가기(또는 게임을 끄기) 전에 변경된 능력치와 코인을 하드디스크에 확정 저장합니다.
+        if (DataManager.Instance != null)
+        {
+            DataManager.Instance.SaveGame();
+        }
+
         UnityEngine.SceneManagement.SceneManager.LoadScene("BattleScene");
     }
 }

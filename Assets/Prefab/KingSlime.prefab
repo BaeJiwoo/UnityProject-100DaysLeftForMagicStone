@@ -432,6 +432,11 @@ MonoBehaviour:
   healthFill: {fileID: 3048773890280410241}
   floatingDamagePrefab: {fileID: 4683603888397219697, guid: a4af78cd557fd854794f5915a0beb1d3, type: 3}
   knockbackResistance: 0.8
+  coinPrefab: {fileID: 7544076320209938545, guid: 2bea9b2be33ff2d40a90dd42d189a1df, type: 3}
+  coinDropChance: 1
+  minCoinCount: 3
+  maxCoinCount: 5
+  coinValuePerItem: 20
 --- !u!1 &6731361488476530922
 GameObject:
   m_ObjectHideFlags: 0

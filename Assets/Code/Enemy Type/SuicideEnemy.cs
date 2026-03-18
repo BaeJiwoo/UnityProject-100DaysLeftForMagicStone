@@ -122,6 +122,9 @@ public class SuicideEnemy : BaseAI
             // 원래 색으로 돌려놓기 (사망 연출을 위해)
             sr.color = Color.white;
 
+            // [핵심 변경] 스스로 자폭할 때는 코인을 주지 않도록 드랍 확률을 0으로 만듭니다!
+            coinDropChance = 0f;
+
             // 3. 자폭 즉사 처리 (9999 데미지)
             TakeDamage(maxHealth + 9999f);
         }

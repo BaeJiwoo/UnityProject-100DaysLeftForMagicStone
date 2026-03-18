@@ -28,6 +28,20 @@ public abstract class BaseAI : MonoBehaviour
     [Range(0f, 1f)]
     public float knockbackResistance = 0f;
 
+    [Header("보상(코인) 설정")]
+    public GameObject coinPrefab;
+
+    [Tooltip("코인 드랍 확률 (0 = 0%, 1 = 100%)")]
+    [Range(0f, 1f)]
+    public float coinDropChance = 0.5f;
+
+    [Tooltip("드랍될 코인의 최소~최대 개수")]
+    public int minCoinCount = 1;
+    public int maxCoinCount = 3;
+
+    [Tooltip("코인 1개당 가치(가격)")]
+    public int coinValuePerItem = 10;
+
     // 상태 관리 변수
     protected AIState currentState = AIState.Idle;
     protected bool isKnockedBack = false;
@@ -218,7 +232,36 @@ public abstract class BaseAI : MonoBehaviour
             rb.gravityScale = -0.5f;
         }
 
+        // [추가] 죽을 때 코인 드랍 함수 호출!
+        DropCoin();
+
         StartCoroutine(FadeOutAndDestroy());
+    }
+
+    protected void DropCoin()
+    {
+        if (coinPrefab == null) return;
+
+        // 1. 드랍 확률 체크
+        if (Random.value <= coinDropChance)
+        {
+            // 2. 생성할 코인 개수 결정 (max에 +1을 해야 최대치까지 정상 포함됨)
+            int dropCount = Random.Range(minCoinCount, maxCoinCount + 1);
+
+            // 3. 결정된 개수만큼 반복해서 코인 생성
+            for (int i = 0; i < dropCount; i++)
+            {
+                Vector3 spawnPos = transform.position + new Vector3(0, 0.5f, 0);
+                GameObject spawnedCoin = Instantiate(coinPrefab, spawnPos, Quaternion.identity);
+
+                Coin coinScript = spawnedCoin.GetComponent<Coin>();
+                if (coinScript != null)
+                {
+                    // 코인 1개의 가치를 넘겨줌
+                    coinScript.Setup(coinValuePerItem);
+                }
+            }
+        }
     }
 
     protected IEnumerator FadeOutAndDestroy()
