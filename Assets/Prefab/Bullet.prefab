@@ -12,8 +12,8 @@ GameObject:
   - component: {fileID: 279389691450430835}
   - component: {fileID: -2715071678718634489}
   - component: {fileID: -1142110267856540309}
-  - component: {fileID: 4678977603410854683}
-  m_Layer: 0
+  - component: {fileID: 5753745630128553957}
+  m_Layer: 8
   m_Name: Bullet
   m_TagString: Projectile
   m_Icon: {fileID: 0}
@@ -29,8 +29,8 @@ Transform:
   m_GameObject: {fileID: 6572157233175404128}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 2, z: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -79,7 +79,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 75f5f34dc1b5347e0b8351032682f224, type: 3}
+  m_Sprite: {fileID: 4404682609424559887, guid: ba51634a390e8a2458974c921ef82552, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -106,11 +106,14 @@ MonoBehaviour:
   fireDelay: 0.2
   speed: 25
   damage: 10
-  lifeTime: 10
+  lifeTime: 0.5
+  maxPierceCount: 1
+  knockbackForce: 3
   spreadAngleHip: 50
   spreadAngleAim: 20
   aimSlowdownRatio: 0.5
-  rotationOffset: -90
+  rotationOffset: 0
+  explosionFXPrefab: {fileID: 2504214343621411470, guid: 3ed0d324122d7b24eaec75c55c74aafc, type: 3}
 --- !u!50 &-1142110267856540309
 Rigidbody2D:
   serializedVersion: 5
@@ -138,7 +141,7 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!58 &4678977603410854683
+--- !u!58 &5753745630128553957
 CircleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -172,5 +175,5 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0.21133333}
-  m_Radius: 0.5
+  m_Offset: {x: 0.26, y: 0}
+  m_Radius: 0.45

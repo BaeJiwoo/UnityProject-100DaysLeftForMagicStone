@@ -1,0 +1,135 @@
+using System.Collections.Generic;
+using System.Runtime.InteropServices;
+using UnityEngine;
+using UnityEngine.Pool;
+public class ProjectileBehavior : MonoBehaviour
+{
+    [Header("투사체 기본 스펙")]
+    public float manaCost = 10f;
+    public float fireDelay = 0.2f;
+    public float speed = 15f;
+    public float damage = 10f;
+    public float lifeTime = 3f;
+
+    // ==========================================
+    // [추가] 관통 및 넉백 설정
+    [Header("관통 및 타격 설정")]
+    [Tooltip("총알이 최대로 관통할 수 있는 적의 수 (1이면 단일 타겟)")]
+    public int maxPierceCount = 1;
+    public float knockbackForce = 3f; // 적을 밀어내는 힘
+
+    private int _currentHits = 0;
+    // 동일한 적(콜라이더 2개 등)을 중복해서 때리는 것을 방지하기 위한 명단
+    private HashSet<GameObject> _hitEnemies = new HashSet<GameObject>();
+    // ==========================================
+
+    [Header("탄퍼짐 설정 (도 단위)")]
+    public float spreadAngleHip = 15f;
+    public float spreadAngleAim = 2f;
+
+    [Header("조준 특성")]
+    [Range(0f, 1f)]
+    public float aimSlowdownRatio = 0.5f;
+    public float rotationOffset = 0f;
+
+    [Header("시각 효과")]
+    public GameObject explosionFXPrefab;
+
+    private Rigidbody2D rb;
+    private IObjectPool<GameObject> _pool;
+    private float _timer;
+    private bool _isReleased = false;
+
+    void Awake() => rb = GetComponent<Rigidbody2D>();
+    public void SetPool(IObjectPool<GameObject> pool) => _pool = pool;
+
+    void OnEnable()
+    {
+        _timer = 0f;
+        rb.angularVelocity = 0f;
+        _isReleased = false;
+
+        // [추가] 총알이 새로 발사될 때 타격 명단과 횟수 초기화
+        _currentHits = 0;
+        _hitEnemies.Clear();
+    }
+
+    void Update()
+    {
+        _timer += Time.deltaTime;
+        if (_timer >= lifeTime)
+        {
+            ReturnToPool(true);
+            return;
+        }
+        RotateInDirection();
+    }
+
+    void RotateInDirection()
+    {
+        if (rb.linearVelocity.sqrMagnitude > 0.05f)
+        {
+            float angle = Mathf.Atan2(rb.linearVelocity.y, rb.linearVelocity.x) * Mathf.Rad2Deg;
+            transform.rotation = Quaternion.Euler(0, 0, angle + rotationOffset);
+        }
+    }
+
+    public void Launch(Vector2 direction)
+    {
+        rb.linearVelocity = direction * speed;
+        RotateInDirection();
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (_isReleased) return;
+        if (collision.CompareTag("Player") || collision.CompareTag("Projectile") || collision.isTrigger) return;
+
+        if (collision.CompareTag("Enemy"))
+        {
+            // 이미 때린 적이면 무시 (관통 총알이 같은 적을 여러 번 때리는 것 방지)
+            if (_hitEnemies.Contains(collision.gameObject)) return;
+
+            _hitEnemies.Add(collision.gameObject); // 명단에 추가
+            _currentHits++; // 타격 횟수 증가
+
+            // 적 데미지 및 넉백 처리
+            //EnemyController enemy = collision.GetComponent<EnemyController>();
+            BaseAI enemy = collision.GetComponent<BaseAI>();
+
+
+            if (enemy != null)
+            {
+                // 총알이 날아가는 방향(정규화)을 계산하여 넉백 방향으로 전달
+                Vector2 knockbackDir = rb.linearVelocity.normalized;
+                enemy.TakeDamage(damage, knockbackDir, knockbackForce);
+            }
+
+            // 설정한 최대 관통 수에 도달했다면 총알 삭제
+            if (_currentHits >= maxPierceCount)
+            {
+                ReturnToPool(true);
+            }
+        }
+        else
+        {
+            // 적이 아닌 벽이나 바닥에 맞았을 때는 즉시 삭제
+            ReturnToPool(true);
+        }
+    }
+
+    private void ReturnToPool(bool spawnFX = false)
+    {
+        if (_isReleased) return;
+        _isReleased = true;
+
+        if (spawnFX && explosionFXPrefab != null)
+        {
+            Instantiate(explosionFXPrefab, transform.position, transform.rotation);
+        }
+
+        rb.linearVelocity = Vector2.zero;
+        if (_pool != null) _pool.Release(gameObject);
+        else Destroy(gameObject);
+    }
+}

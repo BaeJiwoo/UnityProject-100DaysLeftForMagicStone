@@ -6,16 +6,19 @@ TagManager:
   tags:
   - Projectile
   - Ground
+  - FxTemporaire
+  - Enemy
+  - MagicStone
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Enemy
   - Water
   - UI
-  - 
-  - 
-  - 
+  - MagicStone
+  - Player
+  - Projectile
   - 
   - 
   - 
@@ -42,6 +45,15 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: MagicStone
+    uniqueID: 807807573
+    locked: 0
+  - name: Player
+    uniqueID: 3004874273
+    locked: 0
+  - name: Projectile
+    uniqueID: 1864135191
     locked: 0
   m_RenderingLayers:
   - Default

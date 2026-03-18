@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a2685b1021d3fb478e33e004a257220, type: 3}
+  m_Name: Stage Data_2
+  m_EditorClassIdentifier: 
+  enemyHpMultiplier: 2
+  enemyDamageMultiplier: 1
+  backgroundBundleIndex: 1
+  spawnerSetups:
+  - spawnerID: 1
+    spawnWaves:
+    - groupName: "\uD0B9\uC2AC\uB77C\uC784"
+      enemyPrefab: {fileID: 1523315096661743986, guid: c0a2c9c027025e84f92ca2dc2ef67942, type: 3}
+      spawnCount: 1
+      delayBeforeStart: 10
+      spawnInterval: 0
+    - groupName: "\uC790\uD3ED"
+      enemyPrefab: {fileID: 3484530289909621976, guid: f26602f3381693c49a7c84e40a6d4127, type: 3}
+      spawnCount: 2
+      delayBeforeStart: 13
+      spawnInterval: 0
+    - groupName: "\uC77C\uBC18 \uC2AC\uB77C\uC784"
+      enemyPrefab: {fileID: 1054058185081009967, guid: 24f291289515c4948b7b7c925ca33e7f, type: 3}
+      spawnCount: 5
+      delayBeforeStart: 0
+      spawnInterval: 1
+    - groupName: "\uC790\uD3ED"
+      enemyPrefab: {fileID: 3484530289909621976, guid: f26602f3381693c49a7c84e40a6d4127, type: 3}
+      spawnCount: 2
+      delayBeforeStart: 13
+      spawnInterval: 3
+  - spawnerID: 2
+    spawnWaves:
+    - groupName: "\uC790\uD3ED"
+      enemyPrefab: {fileID: 3484530289909621976, guid: f26602f3381693c49a7c84e40a6d4127, type: 3}
+      spawnCount: 2
+      delayBeforeStart: 13
+      spawnInterval: 3
+    - groupName: "\uD0B9\uC2AC\uB77C\uC784"
+      enemyPrefab: {fileID: 1523315096661743986, guid: c0a2c9c027025e84f92ca2dc2ef67942, type: 3}
+      spawnCount: 1
+      delayBeforeStart: 10
+      spawnInterval: 0
+    - groupName: "\uC77C\uBC18 \uC2AC\uB77C\uC784"
+      enemyPrefab: {fileID: 1054058185081009967, guid: 24f291289515c4948b7b7c925ca33e7f, type: 3}
+      spawnCount: 7
+      delayBeforeStart: 0
+      spawnInterval: 1
