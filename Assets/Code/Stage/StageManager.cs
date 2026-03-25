@@ -18,6 +18,13 @@ public class StageManager : MonoBehaviour
 
     public GameObject stageClearPanel;
 
+    [Header("디버그 설정 (테스트용)")]
+    [Tooltip("체크하면 아래 지정한 스테이지 번호로 강제 시작합니다.")]
+    public bool useDebugStage = false;
+
+    [Tooltip("테스트할 스테이지 인덱스 (0 = 1스테이지, 1 = 2스테이지)")]
+    public int debugStageIndex = 0;
+
     private void Awake()
     {
         if (Instance == null) Instance = this;
@@ -38,6 +45,13 @@ public class StageManager : MonoBehaviour
 
     public void StartCurrentStage()
     {
+        // [추가] 디버그 모드가 켜져 있다면, DataManager의 현재 스테이지 값을 강제로 바꿉니다.
+        if (useDebugStage && DataManager.Instance != null)
+        {
+            DataManager.Instance.currentStageIndex = debugStageIndex;
+            Debug.LogWarning($"[디버그 모드 작동 중] 강제로 DAY {debugStageIndex + 1} 스테이지를 로드합니다!");
+        }
+
         // DataManager에 저장된 진짜 스테이지 번호를 가져옵니다.
         int stageIndex = DataManager.Instance.currentStageIndex;
 

@@ -15,7 +15,7 @@ public class DataManager : MonoBehaviour
     [Header("재화")]
     public int coins = 1000; // 테스트용 초기 자금
 
-    [Header("플레이어 능력치 (여관 업그레이드용)")]
+    [Header("플레이어 능력치")]
     public float playerMaxSpeed = 8f;
     public float playerMaxMana = 100f;
     public float playerManaRegenRate = 15f;

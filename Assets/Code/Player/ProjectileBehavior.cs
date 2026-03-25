@@ -83,29 +83,41 @@ public class ProjectileBehavior : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (_isReleased) return;
-        if (collision.CompareTag("Player") || collision.CompareTag("Projectile") || collision.isTrigger) return;
 
-        if (collision.CompareTag("Enemy"))
+        // 1. 플레이어 자신이나, 아군 총알끼리는 무시하고 통과
+        if (collision.CompareTag("Player") || collision.CompareTag("Projectile")) return;
+
+        // 2. 부딪힌 대상이 '적 본체' 이거나 '적 총알'일 경우
+        if (collision.CompareTag("Enemy") || collision.CompareTag("EnemyProjectile"))
         {
-            // 이미 때린 적이면 무시 (관통 총알이 같은 적을 여러 번 때리는 것 방지)
+            // 이미 때린 적/총알이면 무시 (관통 총알 중복 타격 방지)
             if (_hitEnemies.Contains(collision.gameObject)) return;
 
             _hitEnemies.Add(collision.gameObject); // 명단에 추가
-            _currentHits++; // 타격 횟수 증가
+            _currentHits++; // 타격(관통) 횟수 증가
 
-            // 적 데미지 및 넉백 처리
-            //EnemyController enemy = collision.GetComponent<EnemyController>();
-            BaseAI enemy = collision.GetComponent<BaseAI>();
-
-
-            if (enemy != null)
+            // [A] 적 본체를 맞췄을 때
+            if (collision.CompareTag("Enemy"))
             {
-                // 총알이 날아가는 방향(정규화)을 계산하여 넉백 방향으로 전달
-                Vector2 knockbackDir = rb.linearVelocity.normalized;
-                enemy.TakeDamage(damage, knockbackDir, knockbackForce);
+                BaseAI enemy = collision.GetComponent<BaseAI>();
+                if (enemy != null)
+                {
+                    Vector2 knockbackDir = rb.linearVelocity.normalized;
+                    enemy.TakeDamage(damage, knockbackDir, knockbackForce);
+                }
+            }
+            // [B] 적 총알을 맞췄을 때 (요격!)
+            else if (collision.CompareTag("EnemyProjectile"))
+            {
+                EnemyProjectile enemyBullet = collision.GetComponent<EnemyProjectile>();
+                if (enemyBullet != null)
+                {
+                    // 적 총알에 데미지 전달 (넉백은 필요 없으므로 데미지만 줍니다)
+                    enemyBullet.TakeDamage(damage);
+                }
             }
 
-            // 설정한 최대 관통 수에 도달했다면 총알 삭제
+            // 설정한 최대 관통 수에 도달했다면 플레이어 총알 삭제(회수)
             if (_currentHits >= maxPierceCount)
             {
                 ReturnToPool(true);
@@ -113,7 +125,10 @@ public class ProjectileBehavior : MonoBehaviour
         }
         else
         {
-            // 적이 아닌 벽이나 바닥에 맞았을 때는 즉시 삭제
+            // 3. 적/적총알이 아닌 다른 Trigger(예: 바닥의 코인, 적의 탐지 범위 등)는 무시하고 통과
+            if (collision.isTrigger) return;
+
+            // 4. 진짜 물리적인 벽이나 바닥(!isTrigger)에 맞았을 때는 즉시 삭제
             ReturnToPool(true);
         }
     }

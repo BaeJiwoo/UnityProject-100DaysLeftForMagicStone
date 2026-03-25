@@ -7,7 +7,8 @@ public class MeleeAttackCondition : IActionCondition
     public bool CanExecute(BaseAI self, Transform target)
     {
         float distance = 0f;
-        Collider2D targetCol = MagicStoneManager.Instance.StoneCollider;
+        Collider2D targetCol = target.GetComponent<Collider2D>();
+        //Collider2D targetCol = MagicStoneManager.Instance.StoneCollider;
 
         // 타겟의 콜라이더 표면(가장자리)까지의 거리 계산
         if (targetCol != null)

@@ -9,7 +9,7 @@ public abstract class BaseAI : MonoBehaviour
     [Header("스탯")]
     public float maxHealth = 50f;
     public float moveSpeed = 3f;
-    protected float currentHealth;
+    [HideInInspector] public float currentHealth;
 
     [Header("공격 설정")]
     public float attackPower = 10f;
@@ -31,9 +31,7 @@ public abstract class BaseAI : MonoBehaviour
     [Header("보상(코인) 설정")]
     public GameObject coinPrefab;
 
-    [Tooltip("코인 드랍 확률 (0 = 0%, 1 = 100%)")]
-    [Range(0f, 1f)]
-    public float coinDropChance = 0.5f;
+    
 
     [Tooltip("드랍될 코인의 최소~최대 개수")]
     public int minCoinCount = 1;
@@ -45,11 +43,18 @@ public abstract class BaseAI : MonoBehaviour
     // 상태 관리 변수
     protected AIState currentState = AIState.Idle;
     protected bool isKnockedBack = false;
-    protected bool isDead = false;
+    [HideInInspector] public bool isDead = false;
+
+    [Header("타겟 설정")]
+    public TargetType targetType = TargetType.MagicStone;
 
     // 전략 패턴 인터페이스 (자식 클래스에서 주입)
     protected IActionCondition actionCondition;
     protected IActionStrategy actionStrategy;
+    protected ITargetFinder targetFinder;       // [추가] 누구를 찾을 것인가?
+
+    // [추후 애니메이션용 캐싱 변수]
+    // protected Animator anim;
 
     protected virtual void Awake()
     {
@@ -57,13 +62,29 @@ public abstract class BaseAI : MonoBehaviour
         currentHealth = maxHealth;
 
         if (sr == null) sr = GetComponent<SpriteRenderer>();
+
+        // anim = GetComponent<Animator>(); // 애니메이션 추가 시 주석 해제
     }
 
     protected virtual void Start()
     {
        // currentHealth = maxHealth;
         if (healthBarCanvas != null) healthBarCanvas.SetActive(false);
-       // if (sr == null) sr = GetComponent<SpriteRenderer>();
+        // if (sr == null) sr = GetComponent<SpriteRenderer>();
+        // [추가] 인스펙터에서 선택한 타겟 타입(Enum)에 따라 
+        // 알맞은 타겟 탐색 전략을 자동으로 주입(장착)해 줍니다.
+        switch (targetType)
+        {
+            case TargetType.MagicStone:
+                targetFinder = new MagicStoneTargetFinder();
+                break;
+            case TargetType.Player:
+                targetFinder = new PlayerTargetFinder();
+                break;
+            case TargetType.EnemyAlly:
+                targetFinder = new AllyTargetFinder();
+                break;
+        }
     }
 
     protected virtual void Update()
@@ -94,40 +115,82 @@ public abstract class BaseAI : MonoBehaviour
         Debug.Log($"[{gameObject.name}] 스폰됨! |배율({hpMult}x) 적용 ➡ 최종 체력: {maxHealth}");
     }
 
+    // [추가] 거리 계산을 쉽게 하기 위한 도우미 함수
+    // ==========================================
+    protected float GetDistanceFromTarget(Transform target)
+    {
+        Collider2D targetCol = target.GetComponent<Collider2D>();
+        if (targetCol != null)
+        {
+            Vector2 edgePoint = targetCol.ClosestPoint(transform.position);
+            return Vector2.Distance(transform.position, edgePoint);
+        }
+        return Vector2.Distance(transform.position, target.position);
+    }
+
     // FSM (상태 기계) 로직
     protected virtual void UpdateState()
     {
-        // MagicStoneManager를 통해 타겟을 O(1)로 가져옴
-        if (MagicStoneManager.Instance == null) return;
-        Transform target = MagicStoneManager.Instance.StoneTransform;
-        if (target == null) return;
+        Transform target = null;
+        if (targetFinder != null) target = targetFinder.GetTarget(this);
 
+        // 1. 타겟이 없으면 무조건 대기
+        if (target == null)
+        {
+            currentState = AIState.Idle;
+            // if (anim != null) anim.SetBool("isMoving", false);
+            return;
+        }
+
+        float distance = GetDistanceFromTarget(target);
+        bool isInRange = distance <= attackRange;
+
+        // 2. 상태 기계 로직
         switch (currentState)
         {
             case AIState.Idle:
-                // 타겟이 존재하므로 바로 이동 상태로 전환
-                currentState = AIState.Move;
+                // [애니메이션] 멈춤 상태 재생
+                // if (anim != null) anim.SetBool("isMoving", false);
+
+                if (!isInRange)
+                {
+                    // 타겟이 범위 밖으로 나가면 다시 추적 시작
+                    currentState = AIState.Move;
+                }
+                else if (actionCondition != null && actionCondition.CanExecute(this, target))
+                {
+                    // 범위 안이고, 공격 쿨타임이 준비되었으면 공격 실행!
+                    currentState = AIState.Action;
+                }
+                // (범위 안인데 쿨타임 중이면 계속 Idle 상태로 제자리에 멈춰서 대기합니다)
                 break;
 
             case AIState.Move:
-                // 조건이 충족되었는지 매 프레임 확인
-                if (actionCondition != null && actionCondition.CanExecute(this, target))
+                // [애니메이션] 걷기/뛰기 상태 재생
+                // if (anim != null) anim.SetBool("isMoving", true);
+
+                if (isInRange)
                 {
-                    currentState = AIState.Action;
+                    // 범위 안으로 들어오면 이동을 멈추고 판단하기 위해 Idle로 전환
+                    currentState = AIState.Idle;
                 }
                 else
                 {
+                    // 아직 멀었다면 타겟을 향해 이동
                     MoveTowardsTarget(target);
                 }
                 break;
 
             case AIState.Action:
-                // 조건이 충족되어 공격 등의 행동 실행
+                // [애니메이션] 공격 트리거 발동
+                // if (anim != null) anim.SetTrigger("Attack");
+
                 if (actionStrategy != null)
                 {
                     actionStrategy.Execute(this, target);
                 }
-                // 행동을 마친 후 다시 판별하기 위해 Idle 상태로 복귀
+
+                // 공격을 마친 직후에는 쿨타임을 기다려야 하므로 강제로 Idle(대기)로 돌아감
                 currentState = AIState.Idle;
                 break;
         }
@@ -243,24 +306,28 @@ public abstract class BaseAI : MonoBehaviour
         if (coinPrefab == null) return;
 
         // 1. 드랍 확률 체크
-        if (Random.value <= coinDropChance)
+        if (coinPrefab == null) return;
+
+        // 1. 최소~최대 개수 사이에서 무작위로 하나를 뽑습니다. (각 숫자별 동일 확률)
+        // (Random.Range의 최대값은 포함되지 않으므로 +1을 해줍니다)
+        int dropCount = Random.Range(minCoinCount, maxCoinCount + 1);
+
+        // 2. 만약 뽑힌 개수가 0 이하라면 코인을 만들지 않고 함수를 종료합니다.
+        if (dropCount <= 0) return;
+
+        // 3. 당첨된 개수만큼 반복해서 코인 생성
+        for (int i = 0; i < dropCount; i++)
         {
-            // 2. 생성할 코인 개수 결정 (max에 +1을 해야 최대치까지 정상 포함됨)
-            int dropCount = Random.Range(minCoinCount, maxCoinCount + 1);
+            Vector3 spawnPos = transform.position + new Vector3(0, 0.5f, 0);
+            GameObject spawnedCoin = Instantiate(coinPrefab, spawnPos, Quaternion.identity);
 
-            // 3. 결정된 개수만큼 반복해서 코인 생성
-            for (int i = 0; i < dropCount; i++)
+            Coin coinScript = spawnedCoin.GetComponent<Coin>();
+            if (coinScript != null)
             {
-                Vector3 spawnPos = transform.position + new Vector3(0, 0.5f, 0);
-                GameObject spawnedCoin = Instantiate(coinPrefab, spawnPos, Quaternion.identity);
-
-                Coin coinScript = spawnedCoin.GetComponent<Coin>();
-                if (coinScript != null)
-                {
-                    // 코인 1개의 가치를 넘겨줌
-                    coinScript.Setup(coinValuePerItem);
-                }
+                // 코인 1개의 가치를 넘겨줌
+                coinScript.Setup(coinValuePerItem);
             }
+        
         }
     }
 
