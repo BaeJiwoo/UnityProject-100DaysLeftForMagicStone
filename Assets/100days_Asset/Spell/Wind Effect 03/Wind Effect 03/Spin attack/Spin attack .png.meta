@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 89e8cb6a272a20f458d441992890ec11
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7565081223393711296
+    second: Spin attack _0
+  - first:
+      213: -6128885602105742339
+    second: Spin attack _1
+  - first:
+      213: -6405991384374222242
+    second: Spin attack _2
+  - first:
+      213: 6017749157960721747
+    second: Spin attack _3
+  - first:
+      213: -6575966942257596573
+    second: Spin attack _4
+  - first:
+      213: 6622934684853692395
+    second: Spin attack _5
+  - first:
+      213: -3151668628925716833
+    second: Spin attack _6
+  - first:
+      213: -5751309836323390381
+    second: Spin attack _7
+  - first:
+      213: -1422427524830244219
+    second: Spin attack _8
+  - first:
+      213: 6792416863734416793
+    second: Spin attack _9
+  - first:
+      213: 2707102369273386154
+    second: Spin attack _10
+  - first:
+      213: 5224862779041372236
+    second: Spin attack _11
+  - first:
+      213: -3544061605826039451
+    second: Spin attack _12
+  - first:
+      213: -1946781943577238138
+    second: Spin attack _13
+  - first:
+      213: -9143676348477832681
+    second: Spin attack _14
+  - first:
+      213: -8208752009096304625
+    second: Spin attack _15
+  - first:
+      213: 4714451044014925748
+    second: Spin attack _16
+  - first:
+      213: 1924808154166991322
+    second: Spin attack _17
+  - first:
+      213: 3992472801479464608
+    second: Spin attack _18
+  - first:
+      213: 28543565701440094
+    second: Spin attack _19
+  - first:
+      213: -1546448632130132695
+    second: Spin attack _20
+  - first:
+      213: 1275943909382409186
+    second: Spin attack _21
+  - first:
+      213: 893276995209547553
+    second: Spin attack _22
+  - first:
+      213: 4351785230813865305
+    second: Spin attack _23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spin attack _0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 110
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04be3a675be630790800000000000000
+      internalID: -7565081223393711296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin attack _1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 108
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb2b716403d1faa0800000000000000
+      internalID: -6128885602105742339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin attack _2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 108
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52692cb6c85917a0800000000000000
+      internalID: -6405991384374222242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin attack _3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 108
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355a7abc9f6538350800000000000000
+      internalID: 6017749157960721747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin attack _4
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 118
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367360038e87db4a0800000000000000
+      internalID: -6575966942257596573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin attack _5
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 114
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7615d810469eb50800000000000000
+      internalID: 6622934684853692395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin attack _6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 119
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96e32b84160344d0800000000000000
+      internalID: -3151668628925716833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin attack _7
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 120
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cfbb4fc2e3f20b0800000000000000
+      internalID: -5751309836323390381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin attack _8
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 109
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58251c7d3b5824ce0800000000000000
+      internalID: -1422427524830244219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin attack _9
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 7
+        width: 98
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99543495623834e50800000000000000
+      internalID: 6792416863734416793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin attack _10
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 108
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa49823134f819520800000000000000
+      internalID: 2707102369273386154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin attack _11
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 108
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48dbe8d301728840800000000000000
+      internalID: 5224862779041372236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin attack _12
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 108
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56173aa2fb6f0dec0800000000000000
+      internalID: -3544061605826039451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin attack _13
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 108
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6852fe50324abf4e0800000000000000
+      internalID: -1946781943577238138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin attack _14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 60
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71286db6ec22b1180800000000000000
+      internalID: -9143676348477832681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin attack _15
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 60
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f086a802a87a41e80800000000000000
+      internalID: -8208752009096304625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin attack _16
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 60
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7aa7d0f381d6140800000000000000
+      internalID: 4714451044014925748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin attack _17
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 12
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad916e171da46ba10800000000000000
+      internalID: 1924808154166991322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin attack _18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 11
+        width: 58
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a697932cdc186730800000000000000
+      internalID: 3992472801479464608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin attack _19
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 25
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52e146c838656000800000000000000
+      internalID: 28543565701440094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin attack _20
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 22
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925ae7a9929e98ae0800000000000000
+      internalID: -1546448632130132695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin attack _21
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 10
+        width: 53
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebcf00b93015b110800000000000000
+      internalID: 1275943909382409186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin attack _22
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 27
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f4e71c1be856c00800000000000000
+      internalID: 893276995209547553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin attack _23
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 8
+        width: 112
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955a3755c95a46c30800000000000000
+      internalID: 4351785230813865305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spin attack _0: -7565081223393711296
+      Spin attack _1: -6128885602105742339
+      Spin attack _10: 2707102369273386154
+      Spin attack _11: 5224862779041372236
+      Spin attack _12: -3544061605826039451
+      Spin attack _13: -1946781943577238138
+      Spin attack _14: -9143676348477832681
+      Spin attack _15: -8208752009096304625
+      Spin attack _16: 4714451044014925748
+      Spin attack _17: 1924808154166991322
+      Spin attack _18: 3992472801479464608
+      Spin attack _19: 28543565701440094
+      Spin attack _2: -6405991384374222242
+      Spin attack _20: -1546448632130132695
+      Spin attack _21: 1275943909382409186
+      Spin attack _22: 893276995209547553
+      Spin attack _23: 4351785230813865305
+      Spin attack _3: 6017749157960721747
+      Spin attack _4: -6575966942257596573
+      Spin attack _5: 6622934684853692395
+      Spin attack _6: -3151668628925716833
+      Spin attack _7: -5751309836323390381
+      Spin attack _8: -1422427524830244219
+      Spin attack _9: 6792416863734416793
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

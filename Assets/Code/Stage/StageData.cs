@@ -18,6 +18,8 @@ public class StageData : ScriptableObject
     [Header("스테이지 난이도 설정")]
     public float enemyHpMultiplier = 1.0f;      // 적 체력 증가 배율 (예: 1.5면 150%)
     public float enemyDamageMultiplier = 1.0f;  // 적 공격력 증가 배율
+    [Tooltip("적들이 떨어뜨리는 코인의 가치 증가 배율 (예: 1.5면 150%)")]
+    public float coinValueMultiplier = 1.0f;
 
     // [추가] 배경 묶음 설정
     [Header("배경 설정")]

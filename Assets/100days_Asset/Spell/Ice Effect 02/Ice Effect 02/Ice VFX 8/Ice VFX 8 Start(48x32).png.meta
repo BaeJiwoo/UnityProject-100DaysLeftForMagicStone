@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: bfd842a435917d9458f518a352aed76e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1092614746822052811
+    second: Ice VFX 8 Start(48x32)_0
+  - first:
+      213: 5403457047415796113
+    second: Ice VFX 8 Start(48x32)_1
+  - first:
+      213: 3544786152285122148
+    second: Ice VFX 8 Start(48x32)_2
+  - first:
+      213: -1872880092732807909
+    second: Ice VFX 8 Start(48x32)_3
+  - first:
+      213: -1207889953677256362
+    second: Ice VFX 8 Start(48x32)_4
+  - first:
+      213: 5488361629797583056
+    second: Ice VFX 8 Start(48x32)_5
+  - first:
+      213: -2435882331751950290
+    second: Ice VFX 8 Start(48x32)_6
+  - first:
+      213: -5245769701320923450
+    second: Ice VFX 8 Start(48x32)_7
+  - first:
+      213: 1192217374876863247
+    second: Ice VFX 8 Start(48x32)_8
+  - first:
+      213: -7434077653836570974
+    second: Ice VFX 8 Start(48x32)_9
+  - first:
+      213: 7370409902125288351
+    second: Ice VFX 8 Start(48x32)_10
+  - first:
+      213: 8197192117738003233
+    second: Ice VFX 8 Start(48x32)_11
+  - first:
+      213: -4240484342296512020
+    second: Ice VFX 8 Start(48x32)_12
+  - first:
+      213: -2593574873751512788
+    second: Ice VFX 8 Start(48x32)_13
+  - first:
+      213: -8702433323240497652
+    second: Ice VFX 8 Start(48x32)_14
+  - first:
+      213: 2087360143461538110
+    second: Ice VFX 8 Start(48x32)_15
+  - first:
+      213: 4951855648911600338
+    second: Ice VFX 8 Start(48x32)_16
+  - first:
+      213: 5393709235109930663
+    second: Ice VFX 8 Start(48x32)_17
+  - first:
+      213: 697352291690188908
+    second: Ice VFX 8 Start(48x32)_18
+  - first:
+      213: 1277279018595383918
+    second: Ice VFX 8 Start(48x32)_19
+  - first:
+      213: -3878103869216710007
+    second: Ice VFX 8 Start(48x32)_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ice VFX 8 Start(48x32)_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 16
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534715b3da046d0f0800000000000000
+      internalID: -1092614746822052811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 8 Start(48x32)_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 7
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191bc4e4e8fecfa40800000000000000
+      internalID: 5403457047415796113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 8 Start(48x32)_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 7
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46eada3793c913130800000000000000
+      internalID: 3544786152285122148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 8 Start(48x32)_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 24
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15a2c58a713206e0800000000000000
+      internalID: -1872880092732807909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 8 Start(48x32)_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659dd4f9c76bc3fe0800000000000000
+      internalID: -1207889953677256362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 8 Start(48x32)_5
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 4
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d808fed2d39a2c40800000000000000
+      internalID: 5488361629797583056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 8 Start(48x32)_6
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e285645dce1023ed0800000000000000
+      internalID: -2435882331751950290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 8 Start(48x32)_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 5
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6624bff384337b0800000000000000
+      internalID: -5245769701320923450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 8 Start(48x32)_8
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 7
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b8594c26b9b8010800000000000000
+      internalID: 1192217374876863247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 8 Start(48x32)_9
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aed662e2c9d4d890800000000000000
+      internalID: -7434077653836570974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 8 Start(48x32)_10
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 11
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b033181c4f84660800000000000000
+      internalID: 7370409902125288351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 8 Start(48x32)_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 5
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bd76decc642c170800000000000000
+      internalID: 8197192117738003233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 8 Start(48x32)_12
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 7
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce97fcd25f5c625c0800000000000000
+      internalID: -4240484342296512020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 8 Start(48x32)_13
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 12
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2999a7c465c10cd0800000000000000
+      internalID: -2593574873751512788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 8 Start(48x32)_14
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 11
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e5abefffeba3780800000000000000
+      internalID: -8702433323240497652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 8 Start(48x32)_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 5
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39555dbdfac7fc10800000000000000
+      internalID: 2087360143461538110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 8 Start(48x32)_16
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 12
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da23640a7688b440800000000000000
+      internalID: 4951855648911600338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 8 Start(48x32)_17
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 11
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6a874e8fd4ada40800000000000000
+      internalID: 5393709235109930663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 8 Start(48x32)_18
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 12
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c609f7de63e7da900800000000000000
+      internalID: 697352291690188908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 8 Start(48x32)_19
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 8
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6aff66008ec9b110800000000000000
+      internalID: 1277279018595383918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 8 Start(48x32)_20
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 2
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9822549f3153e2ac0800000000000000
+      internalID: -3878103869216710007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ice VFX 8 Start(48x32)_0: -1092614746822052811
+      Ice VFX 8 Start(48x32)_1: 5403457047415796113
+      Ice VFX 8 Start(48x32)_10: 7370409902125288351
+      Ice VFX 8 Start(48x32)_11: 8197192117738003233
+      Ice VFX 8 Start(48x32)_12: -4240484342296512020
+      Ice VFX 8 Start(48x32)_13: -2593574873751512788
+      Ice VFX 8 Start(48x32)_14: -8702433323240497652
+      Ice VFX 8 Start(48x32)_15: 2087360143461538110
+      Ice VFX 8 Start(48x32)_16: 4951855648911600338
+      Ice VFX 8 Start(48x32)_17: 5393709235109930663
+      Ice VFX 8 Start(48x32)_18: 697352291690188908
+      Ice VFX 8 Start(48x32)_19: 1277279018595383918
+      Ice VFX 8 Start(48x32)_2: 3544786152285122148
+      Ice VFX 8 Start(48x32)_20: -3878103869216710007
+      Ice VFX 8 Start(48x32)_3: -1872880092732807909
+      Ice VFX 8 Start(48x32)_4: -1207889953677256362
+      Ice VFX 8 Start(48x32)_5: 5488361629797583056
+      Ice VFX 8 Start(48x32)_6: -2435882331751950290
+      Ice VFX 8 Start(48x32)_7: -5245769701320923450
+      Ice VFX 8 Start(48x32)_8: 1192217374876863247
+      Ice VFX 8 Start(48x32)_9: -7434077653836570974
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

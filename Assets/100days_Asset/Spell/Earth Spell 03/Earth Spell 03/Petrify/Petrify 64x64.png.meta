@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: dd52562c90bc62840a7e41c7c5b59a4c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8649404706460705112
+    second: Petrify 64x64_0
+  - first:
+      213: -7534583811777107478
+    second: Petrify 64x64_1
+  - first:
+      213: -2453445851397754059
+    second: Petrify 64x64_2
+  - first:
+      213: -4743207007460209520
+    second: Petrify 64x64_3
+  - first:
+      213: -3380388010902631734
+    second: Petrify 64x64_4
+  - first:
+      213: 1453935760706106018
+    second: Petrify 64x64_5
+  - first:
+      213: -8931782635274451032
+    second: Petrify 64x64_6
+  - first:
+      213: -1724172680630554349
+    second: Petrify 64x64_7
+  - first:
+      213: 5068319951748180226
+    second: Petrify 64x64_8
+  - first:
+      213: -1125751534973623579
+    second: Petrify 64x64_9
+  - first:
+      213: 6954277345581070404
+    second: Petrify 64x64_10
+  - first:
+      213: 4346640427207086530
+    second: Petrify 64x64_11
+  - first:
+      213: -2242550620777645059
+    second: Petrify 64x64_12
+  - first:
+      213: 7100079330689940364
+    second: Petrify 64x64_13
+  - first:
+      213: -8987390749539483555
+    second: Petrify 64x64_14
+  - first:
+      213: -4296921862210086110
+    second: Petrify 64x64_15
+  - first:
+      213: -3039249718030566326
+    second: Petrify 64x64_16
+  - first:
+      213: -693362920893568794
+    second: Petrify 64x64_17
+  - first:
+      213: -4869488127890114904
+    second: Petrify 64x64_18
+  - first:
+      213: -4015224964515468508
+    second: Petrify 64x64_19
+  - first:
+      213: -81292564305588588
+    second: Petrify 64x64_20
+  - first:
+      213: 7141639274379428072
+    second: Petrify 64x64_21
+  - first:
+      213: -8852684045469511931
+    second: Petrify 64x64_22
+  - first:
+      213: 3717659972959664464
+    second: Petrify 64x64_23
+  - first:
+      213: 3044669109550969173
+    second: Petrify 64x64_24
+  - first:
+      213: 1126986062979154612
+    second: Petrify 64x64_25
+  - first:
+      213: 333643852436516467
+    second: Petrify 64x64_26
+  - first:
+      213: 981808096175074256
+    second: Petrify 64x64_27
+  - first:
+      213: 6541966935150682628
+    second: Petrify 64x64_28
+  - first:
+      213: -8138749420136803764
+    second: Petrify 64x64_29
+  - first:
+      213: -4774080687717700423
+    second: Petrify 64x64_30
+  - first:
+      213: 2173322945149795147
+    second: Petrify 64x64_31
+  - first:
+      213: -1867336077537234970
+    second: Petrify 64x64_32
+  - first:
+      213: -3935982376570927662
+    second: Petrify 64x64_33
+  - first:
+      213: -3370686163286749695
+    second: Petrify 64x64_34
+  - first:
+      213: 2496226236048896557
+    second: Petrify 64x64_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Petrify 64x64_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 25
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851ae2701cbd80870800000000000000
+      internalID: 8649404706460705112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Petrify 64x64_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 18
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9ed9071f7cf6790800000000000000
+      internalID: -7534583811777107478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Petrify 64x64_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 16
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533f7cf3ffb93fdd0800000000000000
+      internalID: -2453445851397754059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Petrify 64x64_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 15
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cc0387b5ebc2eb0800000000000000
+      internalID: -4743207007460209520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Petrify 64x64_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 10
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acac82f93037611d0800000000000000
+      internalID: -3380388010902631734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Petrify 64x64_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 11
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2ff1ffeda6d2410800000000000000
+      internalID: 1453935760706106018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Petrify 64x64_6
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 6
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7c67d040feb0480800000000000000
+      internalID: -8931782635274451032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Petrify 64x64_7
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 22
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311359ff4128218e0800000000000000
+      internalID: -1724172680630554349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Petrify 64x64_8
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 28
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209a9fb942a465640800000000000000
+      internalID: 5068319951748180226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Petrify 64x64_9
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 22
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2eb8481f68060f0800000000000000
+      internalID: -1125751534973623579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Petrify 64x64_10
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 35
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448f7e4866e828060800000000000000
+      internalID: 6954277345581070404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Petrify 64x64_11
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 42
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1d706607e525c30800000000000000
+      internalID: 4346640427207086530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Petrify 64x64_12
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 42
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb77b9871cd0e0e0800000000000000
+      internalID: -2242550620777645059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Petrify 64x64_13
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 33
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bfdde888c888260800000000000000
+      internalID: 7100079330689940364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Petrify 64x64_14
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 12
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5041140bbf564380800000000000000
+      internalID: -8987390749539483555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Petrify 64x64_15
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 12
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b9b5715544e54c0800000000000000
+      internalID: -4296921862210086110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Petrify 64x64_16
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 42
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cf41deb7a62d5d0800000000000000
+      internalID: -3039249718030566326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Petrify 64x64_17
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 46
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e826b7d81ea066f0800000000000000
+      internalID: -693362920893568794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Petrify 64x64_18
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 21
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6b02be85a1c6cb0800000000000000
+      internalID: -4869488127890114904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Petrify 64x64_19
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 32
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b66c81b2e0748c0800000000000000
+      internalID: -4015224964515468508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Petrify 64x64_20
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 50
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e4fade7d03fdef0800000000000000
+      internalID: -81292564305588588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Petrify 64x64_21
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 42
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e04d5ff4133c1360800000000000000
+      internalID: 7141639274379428072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Petrify 64x64_22
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 32
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f8501a3c2f42580800000000000000
+      internalID: -8852684045469511931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Petrify 64x64_23
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 53
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059f2f36c08c79330800000000000000
+      internalID: 3717659972959664464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Petrify 64x64_24
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 43
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551f36d7c66d04a20800000000000000
+      internalID: 3044669109550969173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Petrify 64x64_25
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 33
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b240be6adbd3af00800000000000000
+      internalID: 1126986062979154612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Petrify 64x64_26
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 44
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ea8f9e05751a400800000000000000
+      internalID: 333643852436516467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Petrify 64x64_27
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 21
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db2e1af24510ad00800000000000000
+      internalID: 981808096175074256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Petrify 64x64_28
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 6
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402e106444cb9ca50800000000000000
+      internalID: 6541966935150682628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Petrify 64x64_29
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 7
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4254d8f58a5d0f80800000000000000
+      internalID: -8138749420136803764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Petrify 64x64_30
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 6
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bca88f98ee0fbdb0800000000000000
+      internalID: -4774080687717700423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Petrify 64x64_31
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 0
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bfbdf24b1392e10800000000000000
+      internalID: 2173322945149795147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Petrify 64x64_32
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef2f162bb3e516e0800000000000000
+      internalID: -1867336077537234970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Petrify 64x64_33
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 7
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5ca4ad1e49069c0800000000000000
+      internalID: -3935982376570927662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Petrify 64x64_34
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e08fb0bcae831d0800000000000000
+      internalID: -3370686163286749695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Petrify 64x64_35
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 0
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2274be398064a220800000000000000
+      internalID: 2496226236048896557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Petrify 64x64_0: 8649404706460705112
+      Petrify 64x64_1: -7534583811777107478
+      Petrify 64x64_10: 6954277345581070404
+      Petrify 64x64_11: 4346640427207086530
+      Petrify 64x64_12: -2242550620777645059
+      Petrify 64x64_13: 7100079330689940364
+      Petrify 64x64_14: -8987390749539483555
+      Petrify 64x64_15: -4296921862210086110
+      Petrify 64x64_16: -3039249718030566326
+      Petrify 64x64_17: -693362920893568794
+      Petrify 64x64_18: -4869488127890114904
+      Petrify 64x64_19: -4015224964515468508
+      Petrify 64x64_2: -2453445851397754059
+      Petrify 64x64_20: -81292564305588588
+      Petrify 64x64_21: 7141639274379428072
+      Petrify 64x64_22: -8852684045469511931
+      Petrify 64x64_23: 3717659972959664464
+      Petrify 64x64_24: 3044669109550969173
+      Petrify 64x64_25: 1126986062979154612
+      Petrify 64x64_26: 333643852436516467
+      Petrify 64x64_27: 981808096175074256
+      Petrify 64x64_28: 6541966935150682628
+      Petrify 64x64_29: -8138749420136803764
+      Petrify 64x64_3: -4743207007460209520
+      Petrify 64x64_30: -4774080687717700423
+      Petrify 64x64_31: 2173322945149795147
+      Petrify 64x64_32: -1867336077537234970
+      Petrify 64x64_33: -3935982376570927662
+      Petrify 64x64_34: -3370686163286749695
+      Petrify 64x64_35: 2496226236048896557
+      Petrify 64x64_4: -3380388010902631734
+      Petrify 64x64_5: 1453935760706106018
+      Petrify 64x64_6: -8931782635274451032
+      Petrify 64x64_7: -1724172680630554349
+      Petrify 64x64_8: 5068319951748180226
+      Petrify 64x64_9: -1125751534973623579
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

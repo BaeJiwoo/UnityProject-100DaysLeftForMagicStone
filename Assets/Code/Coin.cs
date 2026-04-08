@@ -9,7 +9,7 @@ public class Coin : MonoBehaviour
 
     [Header("획득 설정")]
     [Tooltip("이 원 안에 플레이어가 들어오면 획득됩니다.")]
-    public float pickupRadius = 2f; // 기본값을 조금 더 넓혔습니다.
+    public float pickupRadius = 2f; 
 
     private int _coinValue;
     private SpriteRenderer sr;

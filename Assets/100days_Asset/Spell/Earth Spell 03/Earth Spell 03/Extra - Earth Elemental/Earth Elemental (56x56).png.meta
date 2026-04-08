@@ -1,0 +1,2405 @@
+fileFormatVersion: 2
+guid: 5a1aa117bf2dcea4d88970d1d29feffc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1350137002586733911
+    second: Earth Elemental (56x56)_0
+  - first:
+      213: 5707780269122269862
+    second: Earth Elemental (56x56)_1
+  - first:
+      213: -4235050163693626176
+    second: Earth Elemental (56x56)_2
+  - first:
+      213: -3398566655999747973
+    second: Earth Elemental (56x56)_3
+  - first:
+      213: -8231924682638489491
+    second: Earth Elemental (56x56)_4
+  - first:
+      213: 6501393831877740881
+    second: Earth Elemental (56x56)_5
+  - first:
+      213: 2923876775351860844
+    second: Earth Elemental (56x56)_6
+  - first:
+      213: 205746118889321368
+    second: Earth Elemental (56x56)_7
+  - first:
+      213: -3478992413142260665
+    second: Earth Elemental (56x56)_8
+  - first:
+      213: 1640853455956827956
+    second: Earth Elemental (56x56)_9
+  - first:
+      213: -1525648485699524011
+    second: Earth Elemental (56x56)_10
+  - first:
+      213: 2876503889780871131
+    second: Earth Elemental (56x56)_11
+  - first:
+      213: 924001107520006327
+    second: Earth Elemental (56x56)_12
+  - first:
+      213: -5888998957809297784
+    second: Earth Elemental (56x56)_13
+  - first:
+      213: -2942364393655072992
+    second: Earth Elemental (56x56)_14
+  - first:
+      213: 6927169427502104267
+    second: Earth Elemental (56x56)_15
+  - first:
+      213: 4471170527703974407
+    second: Earth Elemental (56x56)_16
+  - first:
+      213: 908444078930959356
+    second: Earth Elemental (56x56)_17
+  - first:
+      213: 3088285202502302838
+    second: Earth Elemental (56x56)_18
+  - first:
+      213: 212280786502568277
+    second: Earth Elemental (56x56)_19
+  - first:
+      213: -7806608393996759607
+    second: Earth Elemental (56x56)_20
+  - first:
+      213: 2283147974508791682
+    second: Earth Elemental (56x56)_21
+  - first:
+      213: 4468713134879856316
+    second: Earth Elemental (56x56)_22
+  - first:
+      213: -8157476008905484351
+    second: Earth Elemental (56x56)_23
+  - first:
+      213: -1261013136843372144
+    second: Earth Elemental (56x56)_24
+  - first:
+      213: 4212942308776007834
+    second: Earth Elemental (56x56)_25
+  - first:
+      213: 1747998897642268424
+    second: Earth Elemental (56x56)_26
+  - first:
+      213: -155068340314328630
+    second: Earth Elemental (56x56)_27
+  - first:
+      213: -509816818756628298
+    second: Earth Elemental (56x56)_28
+  - first:
+      213: -1277672446682507087
+    second: Earth Elemental (56x56)_29
+  - first:
+      213: -397198595534687526
+    second: Earth Elemental (56x56)_30
+  - first:
+      213: 6181079138942391862
+    second: Earth Elemental (56x56)_31
+  - first:
+      213: 1721788034988831929
+    second: Earth Elemental (56x56)_32
+  - first:
+      213: 1175143967010784398
+    second: Earth Elemental (56x56)_33
+  - first:
+      213: 2167020004920645121
+    second: Earth Elemental (56x56)_34
+  - first:
+      213: 3173296762632143412
+    second: Earth Elemental (56x56)_35
+  - first:
+      213: 6628028179447792326
+    second: Earth Elemental (56x56)_36
+  - first:
+      213: 4750127862792601860
+    second: Earth Elemental (56x56)_37
+  - first:
+      213: -832553448160329110
+    second: Earth Elemental (56x56)_38
+  - first:
+      213: -890984574338670148
+    second: Earth Elemental (56x56)_39
+  - first:
+      213: 6011198029993263954
+    second: Earth Elemental (56x56)_40
+  - first:
+      213: 8874651014558617874
+    second: Earth Elemental (56x56)_41
+  - first:
+      213: 6234043801759187521
+    second: Earth Elemental (56x56)_42
+  - first:
+      213: -5175800985414434355
+    second: Earth Elemental (56x56)_43
+  - first:
+      213: -2416508611133385551
+    second: Earth Elemental (56x56)_44
+  - first:
+      213: -9082025845014291915
+    second: Earth Elemental (56x56)_45
+  - first:
+      213: 3470369488366291412
+    second: Earth Elemental (56x56)_46
+  - first:
+      213: 3133627503624423108
+    second: Earth Elemental (56x56)_47
+  - first:
+      213: -3098473216195273775
+    second: Earth Elemental (56x56)_48
+  - first:
+      213: 4261547972436091842
+    second: Earth Elemental (56x56)_49
+  - first:
+      213: -9223112681212969424
+    second: Earth Elemental (56x56)_50
+  - first:
+      213: -2227853845005956709
+    second: Earth Elemental (56x56)_51
+  - first:
+      213: -2753006827011670575
+    second: Earth Elemental (56x56)_52
+  - first:
+      213: -8211556248349635998
+    second: Earth Elemental (56x56)_53
+  - first:
+      213: -9016905297252911660
+    second: Earth Elemental (56x56)_54
+  - first:
+      213: 3720412190926185284
+    second: Earth Elemental (56x56)_55
+  - first:
+      213: 5854371289694799112
+    second: Earth Elemental (56x56)_56
+  - first:
+      213: 3907683215994906669
+    second: Earth Elemental (56x56)_57
+  - first:
+      213: 5460220353578395163
+    second: Earth Elemental (56x56)_58
+  - first:
+      213: 67984195666116644
+    second: Earth Elemental (56x56)_59
+  - first:
+      213: -5952103834202952677
+    second: Earth Elemental (56x56)_60
+  - first:
+      213: 5884685852611381033
+    second: Earth Elemental (56x56)_61
+  - first:
+      213: -373510773197868766
+    second: Earth Elemental (56x56)_62
+  - first:
+      213: 4935269718715703531
+    second: Earth Elemental (56x56)_63
+  - first:
+      213: -6743145875012097581
+    second: Earth Elemental (56x56)_64
+  - first:
+      213: 2757650439936833107
+    second: Earth Elemental (56x56)_65
+  - first:
+      213: 2736197228349924235
+    second: Earth Elemental (56x56)_66
+  - first:
+      213: -8598553928930081039
+    second: Earth Elemental (56x56)_67
+  - first:
+      213: 7024377035275054918
+    second: Earth Elemental (56x56)_68
+  - first:
+      213: -6762831886727382834
+    second: Earth Elemental (56x56)_69
+  - first:
+      213: 821964889189711310
+    second: Earth Elemental (56x56)_70
+  - first:
+      213: -3186860520781545632
+    second: Earth Elemental (56x56)_71
+  - first:
+      213: -8332332716332186373
+    second: Earth Elemental (56x56)_72
+  - first:
+      213: 4712855563479373892
+    second: Earth Elemental (56x56)_73
+  - first:
+      213: 619895267541045456
+    second: Earth Elemental (56x56)_74
+  - first:
+      213: -2100403136092420403
+    second: Earth Elemental (56x56)_75
+  - first:
+      213: -2189586717630374149
+    second: Earth Elemental (56x56)_76
+  - first:
+      213: 3111126271584667256
+    second: Earth Elemental (56x56)_77
+  - first:
+      213: 2302848304404285501
+    second: Earth Elemental (56x56)_78
+  - first:
+      213: -2642898739609682576
+    second: Earth Elemental (56x56)_79
+  - first:
+      213: 318052457382240119
+    second: Earth Elemental (56x56)_80
+  - first:
+      213: 1107693008604734627
+    second: Earth Elemental (56x56)_81
+  - first:
+      213: -6477191533549728248
+    second: Earth Elemental (56x56)_82
+  - first:
+      213: -6112140192715528809
+    second: Earth Elemental (56x56)_83
+  - first:
+      213: 1125888680118269899
+    second: Earth Elemental (56x56)_84
+  - first:
+      213: 2681029570868409350
+    second: Earth Elemental (56x56)_85
+  - first:
+      213: 5357979497315599334
+    second: Earth Elemental (56x56)_86
+  - first:
+      213: 4585377088556600295
+    second: Earth Elemental (56x56)_87
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 288
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a205baac89534de0800000000000000
+      internalID: -1350137002586733911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 295
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a23405e9eb163f40800000000000000
+      internalID: 5707780269122269862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 289
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccd41b70541a35c0800000000000000
+      internalID: -4235050163693626176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 297
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78d5abf1add5d0d0800000000000000
+      internalID: -3398566655999747973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_4
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 290
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d680091ad1452cd80800000000000000
+      internalID: -8231924682638489491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 295
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1590df58e37993a50800000000000000
+      internalID: 6501393831877740881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 290
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ebcd19f62b39820800000000000000
+      internalID: 2923876775351860844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_7
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 292
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893305a4105fad200800000000000000
+      internalID: 205746118889321368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_8
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 290
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744606e25d228bfc0800000000000000
+      internalID: -3478992413142260665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_9
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 292
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f57ca468b75c610800000000000000
+      internalID: 1640853455956827956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_10
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 289
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a64c519cec3dae0800000000000000
+      internalID: -1525648485699524011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_11
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 294
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf0b612c056be720800000000000000
+      internalID: 2876503889780871131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 231
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b82cc99c16b2dc00800000000000000
+      internalID: 924001107520006327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 233
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886912d26a2164ea0800000000000000
+      internalID: -5888998957809297784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_14
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 230
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0278e6c5c2f9a27d0800000000000000
+      internalID: -2942364393655072992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_15
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 228
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce753184ef322060800000000000000
+      internalID: 6927169427502104267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_16
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 230
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702cdf9d7e9cc0e30800000000000000
+      internalID: 4471170527703974407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_17
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 179
+        width: 59
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb9cfe93117b9c00800000000000000
+      internalID: 908444078930959356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_18
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 188
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cbe3c770bcbda20800000000000000
+      internalID: 3088285202502302838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_19
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 208
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5594028204c22f200800000000000000
+      internalID: 212280786502568277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_20
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 207
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd8d3fd60b59a390800000000000000
+      internalID: -7806608393996759607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_21
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 210
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287cf367cfe5faf10800000000000000
+      internalID: 2283147974508791682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_22
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 210
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6d2af7bee040e30800000000000000
+      internalID: 4468713134879856316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_23
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 179
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7da614ac2dace80800000000000000
+      internalID: -8157476008905484351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_24
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 178
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0998951bb3bff7ee0800000000000000
+      internalID: -1261013136843372144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_25
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 178
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98decd65b0677a30800000000000000
+      internalID: 4212942308776007834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_26
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 177
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807edb17cb3224810800000000000000
+      internalID: 1747998897642268424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_27
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 178
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1b7a38a2619ddf0800000000000000
+      internalID: -155068340314328630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_28
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 188
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0dd71fd44cce8f0800000000000000
+      internalID: -509816818756628298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_29
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 179
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b85f2cddabc44ee0800000000000000
+      internalID: -1277672446682507087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_30
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 179
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2fed75bfddc7af0800000000000000
+      internalID: -397198595534687526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_31
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 179
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6361d356aba97c550800000000000000
+      internalID: 6181079138942391862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_32
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 179
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4f60c681505e710800000000000000
+      internalID: 1721788034988831929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_33
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 188
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e840f993633fe4010800000000000000
+      internalID: 1175143967010784398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_34
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 179
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106d57e863dc21e10800000000000000
+      internalID: 2167020004920645121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_35
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 186
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432069fb790d90c20800000000000000
+      internalID: 3173296762632143412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_36
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 187
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2c34d238c7bfb50800000000000000
+      internalID: 6628028179447792326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_37
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 184
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401407bbf18dbe140800000000000000
+      internalID: 4750127862792601860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_38
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 122
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6280e9cc0d2274f0800000000000000
+      internalID: -832553448160329110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_39
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 123
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1e032104692a3f0800000000000000
+      internalID: -890984574338670148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_40
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 124
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253c64472c01c6350800000000000000
+      internalID: 6011198029993263954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_41
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 125
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211935ce318192b70800000000000000
+      internalID: 8874651014558617874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_42
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 125
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142051eeec5c38650800000000000000
+      internalID: 6234043801759187521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_43
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 125
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc181442d6cdb28b0800000000000000
+      internalID: -5175800985414434355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_44
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 144
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4d8bca836d67ed0800000000000000
+      internalID: -2416508611133385551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_45
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 134
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a9103dc9926f180800000000000000
+      internalID: -9082025845014291915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_46
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 125
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d94d61b9aa392030800000000000000
+      internalID: 3470369488366291412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_47
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 116
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c68de3ac91ec7b20800000000000000
+      internalID: 3133627503624423108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_48
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 119
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db5e9ab6030005d0800000000000000
+      internalID: -3098473216195273775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_49
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 121
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3e6526d4f042b30800000000000000
+      internalID: 4261547972436091842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_50
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 122
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e76e0f1ebe00080800000000000000
+      internalID: -9223112681212969424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_51
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 123
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b998eec4bb21511e0800000000000000
+      internalID: -2227853845005956709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_52
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 125
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd7ebb70ea5bc9d0800000000000000
+      internalID: -2753006827011670575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_53
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 75
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a0bfb4911ba0e80800000000000000
+      internalID: -8211556248349635998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_54
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 64
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5f6efd7648dd280800000000000000
+      internalID: -9016905297252911660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_55
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 71
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44320321d2f81a330800000000000000
+      internalID: 3720412190926185284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_56
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 64
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80501819ba7ee3150800000000000000
+      internalID: 5854371289694799112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_57
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 63
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28e1206e21ea3630800000000000000
+      internalID: 3907683215994906669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_58
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 62
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16e56a6b7996cb40800000000000000
+      internalID: 5460220353578395163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_59
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 59
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4200509044781f000800000000000000
+      internalID: 67984195666116644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_60
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 58
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ca7103911e56da0800000000000000
+      internalID: -5952103834202952677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_61
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 63
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9270ba3ca9a9aa150800000000000000
+      internalID: 5884685852611381033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_62
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 69
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22172c34ee501daf0800000000000000
+      internalID: -373510773197868766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_63
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 62
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0aac639a99d7440800000000000000
+      internalID: 4935269718715703531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_64
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 75
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9634bad888b62a0800000000000000
+      internalID: -6743145875012097581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_65
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 77
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3567227e674254620800000000000000
+      internalID: 2757650439936833107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_66
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 65
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83a437d1ece8f520800000000000000
+      internalID: 2736197228349924235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_67
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 78
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6451c32cccba880800000000000000
+      internalID: -8598553928930081039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_68
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 69
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f2bf362b99b7160800000000000000
+      internalID: 7024377035275054918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_69
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 67
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8fde3ea389522a0800000000000000
+      internalID: -6762831886727382834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_70
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 77
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdfef536b4386b00800000000000000
+      internalID: 821964889189711310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_71
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 57
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f7916bd3ff5c3d0800000000000000
+      internalID: -3186860520781545632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_72
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 59
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf487a48a8b9d5c80800000000000000
+      internalID: -8332332716332186373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_73
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 67
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44859ea4a2d676140800000000000000
+      internalID: 4712855563479373892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_74
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 59
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0dab3267f4a9800800000000000000
+      internalID: 619895267541045456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_75
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 10
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc64814e97ed9d2e0800000000000000
+      internalID: -2100403136092420403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_76
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 42
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe5ab23b760d91e0800000000000000
+      internalID: -2189586717630374149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_77
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 47
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876803d4cd0fc2b20800000000000000
+      internalID: 3111126271584667256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_78
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 10
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38c0a3f45c55ff10800000000000000
+      internalID: 2302848304404285501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_79
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 47
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07dbc385999825bd0800000000000000
+      internalID: -2642898739609682576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_80
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 8
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f553e5603f96400800000000000000
+      internalID: 318052457382240119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_81
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 16
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4a11a2ce05f5f00800000000000000
+      internalID: 1107693008604734627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_82
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 9
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ec99c2e946c16a0800000000000000
+      internalID: -6477191533549728248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_83
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 23
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795adc3d0e05d2ba0800000000000000
+      internalID: -6112140192715528809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_84
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 10
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc735131ac5ff9f00800000000000000
+      internalID: 1125888680118269899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_85
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 9
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604fde3a03ee43520800000000000000
+      internalID: 2681029570868409350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_86
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 9
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3825b07fd5b5a40800000000000000
+      internalID: 5357979497315599334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Elemental (56x56)_87
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 9
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb81acea2882af30800000000000000
+      internalID: 4585377088556600295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Earth Elemental (56x56)_0: -1350137002586733911
+      Earth Elemental (56x56)_1: 5707780269122269862
+      Earth Elemental (56x56)_10: -1525648485699524011
+      Earth Elemental (56x56)_11: 2876503889780871131
+      Earth Elemental (56x56)_12: 924001107520006327
+      Earth Elemental (56x56)_13: -5888998957809297784
+      Earth Elemental (56x56)_14: -2942364393655072992
+      Earth Elemental (56x56)_15: 6927169427502104267
+      Earth Elemental (56x56)_16: 4471170527703974407
+      Earth Elemental (56x56)_17: 908444078930959356
+      Earth Elemental (56x56)_18: 3088285202502302838
+      Earth Elemental (56x56)_19: 212280786502568277
+      Earth Elemental (56x56)_2: -4235050163693626176
+      Earth Elemental (56x56)_20: -7806608393996759607
+      Earth Elemental (56x56)_21: 2283147974508791682
+      Earth Elemental (56x56)_22: 4468713134879856316
+      Earth Elemental (56x56)_23: -8157476008905484351
+      Earth Elemental (56x56)_24: -1261013136843372144
+      Earth Elemental (56x56)_25: 4212942308776007834
+      Earth Elemental (56x56)_26: 1747998897642268424
+      Earth Elemental (56x56)_27: -155068340314328630
+      Earth Elemental (56x56)_28: -509816818756628298
+      Earth Elemental (56x56)_29: -1277672446682507087
+      Earth Elemental (56x56)_3: -3398566655999747973
+      Earth Elemental (56x56)_30: -397198595534687526
+      Earth Elemental (56x56)_31: 6181079138942391862
+      Earth Elemental (56x56)_32: 1721788034988831929
+      Earth Elemental (56x56)_33: 1175143967010784398
+      Earth Elemental (56x56)_34: 2167020004920645121
+      Earth Elemental (56x56)_35: 3173296762632143412
+      Earth Elemental (56x56)_36: 6628028179447792326
+      Earth Elemental (56x56)_37: 4750127862792601860
+      Earth Elemental (56x56)_38: -832553448160329110
+      Earth Elemental (56x56)_39: -890984574338670148
+      Earth Elemental (56x56)_4: -8231924682638489491
+      Earth Elemental (56x56)_40: 6011198029993263954
+      Earth Elemental (56x56)_41: 8874651014558617874
+      Earth Elemental (56x56)_42: 6234043801759187521
+      Earth Elemental (56x56)_43: -5175800985414434355
+      Earth Elemental (56x56)_44: -2416508611133385551
+      Earth Elemental (56x56)_45: -9082025845014291915
+      Earth Elemental (56x56)_46: 3470369488366291412
+      Earth Elemental (56x56)_47: 3133627503624423108
+      Earth Elemental (56x56)_48: -3098473216195273775
+      Earth Elemental (56x56)_49: 4261547972436091842
+      Earth Elemental (56x56)_5: 6501393831877740881
+      Earth Elemental (56x56)_50: -9223112681212969424
+      Earth Elemental (56x56)_51: -2227853845005956709
+      Earth Elemental (56x56)_52: -2753006827011670575
+      Earth Elemental (56x56)_53: -8211556248349635998
+      Earth Elemental (56x56)_54: -9016905297252911660
+      Earth Elemental (56x56)_55: 3720412190926185284
+      Earth Elemental (56x56)_56: 5854371289694799112
+      Earth Elemental (56x56)_57: 3907683215994906669
+      Earth Elemental (56x56)_58: 5460220353578395163
+      Earth Elemental (56x56)_59: 67984195666116644
+      Earth Elemental (56x56)_6: 2923876775351860844
+      Earth Elemental (56x56)_60: -5952103834202952677
+      Earth Elemental (56x56)_61: 5884685852611381033
+      Earth Elemental (56x56)_62: -373510773197868766
+      Earth Elemental (56x56)_63: 4935269718715703531
+      Earth Elemental (56x56)_64: -6743145875012097581
+      Earth Elemental (56x56)_65: 2757650439936833107
+      Earth Elemental (56x56)_66: 2736197228349924235
+      Earth Elemental (56x56)_67: -8598553928930081039
+      Earth Elemental (56x56)_68: 7024377035275054918
+      Earth Elemental (56x56)_69: -6762831886727382834
+      Earth Elemental (56x56)_7: 205746118889321368
+      Earth Elemental (56x56)_70: 821964889189711310
+      Earth Elemental (56x56)_71: -3186860520781545632
+      Earth Elemental (56x56)_72: -8332332716332186373
+      Earth Elemental (56x56)_73: 4712855563479373892
+      Earth Elemental (56x56)_74: 619895267541045456
+      Earth Elemental (56x56)_75: -2100403136092420403
+      Earth Elemental (56x56)_76: -2189586717630374149
+      Earth Elemental (56x56)_77: 3111126271584667256
+      Earth Elemental (56x56)_78: 2302848304404285501
+      Earth Elemental (56x56)_79: -2642898739609682576
+      Earth Elemental (56x56)_8: -3478992413142260665
+      Earth Elemental (56x56)_80: 318052457382240119
+      Earth Elemental (56x56)_81: 1107693008604734627
+      Earth Elemental (56x56)_82: -6477191533549728248
+      Earth Elemental (56x56)_83: -6112140192715528809
+      Earth Elemental (56x56)_84: 1125888680118269899
+      Earth Elemental (56x56)_85: 2681029570868409350
+      Earth Elemental (56x56)_86: 5357979497315599334
+      Earth Elemental (56x56)_87: 4585377088556600295
+      Earth Elemental (56x56)_9: 1640853455956827956
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

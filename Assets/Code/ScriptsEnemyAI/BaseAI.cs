@@ -39,7 +39,7 @@ public abstract class BaseAI : MonoBehaviour
 
     [Tooltip("코인 1개당 가치(가격)")]
     public int coinValuePerItem = 10;
-
+    protected float currentCoinMultiplier = 1.0f;
     // 상태 관리 변수
     protected AIState currentState = AIState.Idle;
     protected bool isKnockedBack = false;
@@ -96,11 +96,12 @@ public abstract class BaseAI : MonoBehaviour
     }
 
     // [추가] 스포너가 적을 소환하자마자 호출할 스탯 초기화 함수
-    public void ApplyStatMultipliers(float hpMult, float dmgMult)
+    public void ApplyStatMultipliers(float hpMult, float dmgMult, float coinMult)
     {
         // 1. 배율 적용
         maxHealth *= hpMult;
         attackPower *= dmgMult;
+        currentCoinMultiplier = coinMult; // 코인 배율 저장
 
         // 2. 최대 체력이 변경되었으므로, 현재 체력도 꽉 채워줍니다. (매우 중요!)
         currentHealth = maxHealth;
@@ -315,6 +316,9 @@ public abstract class BaseAI : MonoBehaviour
         // 2. 만약 뽑힌 개수가 0 이하라면 코인을 만들지 않고 함수를 종료합니다.
         if (dropCount <= 0) return;
 
+        // [추가] 스테이지 배율이 곱해진 최종 코인 1개의 가치를 계산합니다. (반올림 처리)
+        int finalCoinValue = Mathf.RoundToInt(coinValuePerItem * currentCoinMultiplier);
+
         // 3. 당첨된 개수만큼 반복해서 코인 생성
         for (int i = 0; i < dropCount; i++)
         {
@@ -324,8 +328,8 @@ public abstract class BaseAI : MonoBehaviour
             Coin coinScript = spawnedCoin.GetComponent<Coin>();
             if (coinScript != null)
             {
-                // 코인 1개의 가치를 넘겨줌
-                coinScript.Setup(coinValuePerItem);
+                // [수정] 기본 가치가 아닌, 배율이 곱해진 최종 가치를 넘겨줌
+                coinScript.Setup(finalCoinValue);
             }
         
         }

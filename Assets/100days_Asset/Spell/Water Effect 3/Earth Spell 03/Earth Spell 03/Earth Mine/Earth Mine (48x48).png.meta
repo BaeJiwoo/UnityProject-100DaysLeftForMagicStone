@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 385b1ede62c0f0d4b9f881df5c2dd13f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3212284478048790992
+    second: Earth Mine (48x48)_0
+  - first:
+      213: 5628128410688711697
+    second: Earth Mine (48x48)_1
+  - first:
+      213: -7362017855590867232
+    second: Earth Mine (48x48)_2
+  - first:
+      213: 4184875446709750650
+    second: Earth Mine (48x48)_3
+  - first:
+      213: -1779277049284053274
+    second: Earth Mine (48x48)_4
+  - first:
+      213: 1763970813710315571
+    second: Earth Mine (48x48)_5
+  - first:
+      213: -3637074527168388566
+    second: Earth Mine (48x48)_6
+  - first:
+      213: -7939148207360368153
+    second: Earth Mine (48x48)_7
+  - first:
+      213: 5427538023307676687
+    second: Earth Mine (48x48)_8
+  - first:
+      213: -359816495067737066
+    second: Earth Mine (48x48)_9
+  - first:
+      213: 5627152809404724762
+    second: Earth Mine (48x48)_10
+  - first:
+      213: -836676469947654397
+    second: Earth Mine (48x48)_11
+  - first:
+      213: -4212432079162990699
+    second: Earth Mine (48x48)_12
+  - first:
+      213: 3244508935387741795
+    second: Earth Mine (48x48)_13
+  - first:
+      213: 8305905641067978917
+    second: Earth Mine (48x48)_14
+  - first:
+      213: 4525843948549924095
+    second: Earth Mine (48x48)_15
+  - first:
+      213: -862328399093413799
+    second: Earth Mine (48x48)_16
+  - first:
+      213: -685200545072682946
+    second: Earth Mine (48x48)_17
+  - first:
+      213: -829260091986902418
+    second: Earth Mine (48x48)_18
+  - first:
+      213: 868567587955012422
+    second: Earth Mine (48x48)_19
+  - first:
+      213: -963682172438906490
+    second: Earth Mine (48x48)_20
+  - first:
+      213: 7910981953875563379
+    second: Earth Mine (48x48)_21
+  - first:
+      213: -4105891456703247090
+    second: Earth Mine (48x48)_22
+  - first:
+      213: 9008767675277516151
+    second: Earth Mine (48x48)_23
+  - first:
+      213: 3890800447437188968
+    second: Earth Mine (48x48)_24
+  - first:
+      213: 2073737877824313268
+    second: Earth Mine (48x48)_25
+  - first:
+      213: -6413049520659872934
+    second: Earth Mine (48x48)_26
+  - first:
+      213: 9000418884845442886
+    second: Earth Mine (48x48)_27
+  - first:
+      213: 4810133600753910699
+    second: Earth Mine (48x48)_28
+  - first:
+      213: 6784287152305822370
+    second: Earth Mine (48x48)_29
+  - first:
+      213: -7987517531016995452
+    second: Earth Mine (48x48)_30
+  - first:
+      213: -65457231644253178
+    second: Earth Mine (48x48)_31
+  - first:
+      213: 2668409518531502728
+    second: Earth Mine (48x48)_32
+  - first:
+      213: -5553859841344482507
+    second: Earth Mine (48x48)_33
+  - first:
+      213: -5840085558393917080
+    second: Earth Mine (48x48)_34
+  - first:
+      213: 591690356561470254
+    second: Earth Mine (48x48)_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Earth Mine (48x48)_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 64
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9699f96b3549c20800000000000000
+      internalID: 3212284478048790992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Mine (48x48)_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 77
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c626d68f02b1e40800000000000000
+      internalID: 5628128410688711697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Mine (48x48)_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 61
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee5c6714cbd4d990800000000000000
+      internalID: -7362017855590867232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Mine (48x48)_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 61
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b836edb0aa31a30800000000000000
+      internalID: 4184875446709750650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Mine (48x48)_4
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 61
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e63b6063fcbe47e0800000000000000
+      internalID: -1779277049284053274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Mine (48x48)_5
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 61
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3303c51fb12ea7810800000000000000
+      internalID: 1763970813710315571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Mine (48x48)_6
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 61
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22a182dcf3868dc0800000000000000
+      internalID: -3637074527168388566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Mine (48x48)_7
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 61
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e12b11d4ca72d190800000000000000
+      internalID: -7939148207360368153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Mine (48x48)_8
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 61
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c0e2c631d725b40800000000000000
+      internalID: 5427538023307676687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Mine (48x48)_9
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 61
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614592bddcca10bf0800000000000000
+      internalID: -359816495067737066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Mine (48x48)_10
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1
+        width: 66
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16f86d8aa9a71e40800000000000000
+      internalID: 5627152809404724762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Mine (48x48)_11
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 61
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f97d8fe278364f0800000000000000
+      internalID: -836676469947654397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Mine (48x48)_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 62
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f9709a75f6a85c0800000000000000
+      internalID: -4212432079162990699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Mine (48x48)_13
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 14
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36efd54cfafc60d20800000000000000
+      internalID: 3244508935387741795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Mine (48x48)_14
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 15
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a025c98c21844370800000000000000
+      internalID: 8305905641067978917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Mine (48x48)_15
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 15
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff46b2e97170fce30800000000000000
+      internalID: 4525843948549924095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Mine (48x48)_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9584e4cc3e46804f0800000000000000
+      internalID: -862328399093413799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Mine (48x48)_17
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 5
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38e90f0cbdad76f0800000000000000
+      internalID: -685200545072682946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Mine (48x48)_18
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 8
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6286b60750ed74f0800000000000000
+      internalID: -829260091986902418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Mine (48x48)_19
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 23
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643f97f8e95cd0c00800000000000000
+      internalID: 868567587955012422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Mine (48x48)_20
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 4
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689f6638b2050a2f0800000000000000
+      internalID: -963682172438906490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Mine (48x48)_21
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 29
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37357414c2479cd60800000000000000
+      internalID: 7910981953875563379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Mine (48x48)_22
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 25
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d44ec5971f407c0800000000000000
+      internalID: -4105891456703247090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Mine (48x48)_23
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 23
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d10fc5872950d70800000000000000
+      internalID: 9008767675277516151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Mine (48x48)_24
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 26
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fac618466eef530800000000000000
+      internalID: 3890800447437188968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Mine (48x48)_25
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 17
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b79dfcdc9567cc10800000000000000
+      internalID: 2073737877824313268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Mine (48x48)_26
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53441250754007a0800000000000000
+      internalID: -6413049520659872934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Mine (48x48)_27
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 4
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6471eec1a49e7ec70800000000000000
+      internalID: 9000418884845442886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Mine (48x48)_28
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 27
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba38b13560701c240800000000000000
+      internalID: 4810133600753910699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Mine (48x48)_29
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa5f676831a62e50800000000000000
+      internalID: 6784287152305822370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Mine (48x48)_30
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 12
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48dd68e0023a62190800000000000000
+      internalID: -7987517531016995452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Mine (48x48)_31
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 9
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6042ddf9ef2771ff0800000000000000
+      internalID: -65457231644253178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Mine (48x48)_32
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 3
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882675bb158180520800000000000000
+      internalID: 2668409518531502728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Mine (48x48)_33
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 8
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533da5066e9bce2b0800000000000000
+      internalID: -5553859841344482507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Mine (48x48)_34
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 5
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861ba027029d3fea0800000000000000
+      internalID: -5840085558393917080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Mine (48x48)_35
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 12
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23eedf8e3b163800800000000000000
+      internalID: 591690356561470254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Earth Mine (48x48)_0: 3212284478048790992
+      Earth Mine (48x48)_1: 5628128410688711697
+      Earth Mine (48x48)_10: 5627152809404724762
+      Earth Mine (48x48)_11: -836676469947654397
+      Earth Mine (48x48)_12: -4212432079162990699
+      Earth Mine (48x48)_13: 3244508935387741795
+      Earth Mine (48x48)_14: 8305905641067978917
+      Earth Mine (48x48)_15: 4525843948549924095
+      Earth Mine (48x48)_16: -862328399093413799
+      Earth Mine (48x48)_17: -685200545072682946
+      Earth Mine (48x48)_18: -829260091986902418
+      Earth Mine (48x48)_19: 868567587955012422
+      Earth Mine (48x48)_2: -7362017855590867232
+      Earth Mine (48x48)_20: -963682172438906490
+      Earth Mine (48x48)_21: 7910981953875563379
+      Earth Mine (48x48)_22: -4105891456703247090
+      Earth Mine (48x48)_23: 9008767675277516151
+      Earth Mine (48x48)_24: 3890800447437188968
+      Earth Mine (48x48)_25: 2073737877824313268
+      Earth Mine (48x48)_26: -6413049520659872934
+      Earth Mine (48x48)_27: 9000418884845442886
+      Earth Mine (48x48)_28: 4810133600753910699
+      Earth Mine (48x48)_29: 6784287152305822370
+      Earth Mine (48x48)_3: 4184875446709750650
+      Earth Mine (48x48)_30: -7987517531016995452
+      Earth Mine (48x48)_31: -65457231644253178
+      Earth Mine (48x48)_32: 2668409518531502728
+      Earth Mine (48x48)_33: -5553859841344482507
+      Earth Mine (48x48)_34: -5840085558393917080
+      Earth Mine (48x48)_35: 591690356561470254
+      Earth Mine (48x48)_4: -1779277049284053274
+      Earth Mine (48x48)_5: 1763970813710315571
+      Earth Mine (48x48)_6: -3637074527168388566
+      Earth Mine (48x48)_7: -7939148207360368153
+      Earth Mine (48x48)_8: 5427538023307676687
+      Earth Mine (48x48)_9: -359816495067737066
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

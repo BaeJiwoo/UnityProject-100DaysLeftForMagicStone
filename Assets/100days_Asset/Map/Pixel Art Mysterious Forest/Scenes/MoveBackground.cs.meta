@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: eea2b43c2eb1b2443909d2d77fc45496
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 265468
+  packageName: Pixel Art Mysterious Forest
+  packageVersion: 1.0
+  assetPath: Assets/Pixel Art Mysterious Forest/Scenes/MoveBackground.cs
+  uploadId: 613692

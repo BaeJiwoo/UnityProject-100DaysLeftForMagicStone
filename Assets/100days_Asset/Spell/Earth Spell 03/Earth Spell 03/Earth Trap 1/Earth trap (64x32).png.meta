@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 22786e1914c1bc9498b48cb45810c475
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5084601266339157303
+    second: Earth trap (64x32)_0
+  - first:
+      213: 5055335046161150095
+    second: Earth trap (64x32)_1
+  - first:
+      213: -8063025750565532632
+    second: Earth trap (64x32)_2
+  - first:
+      213: -7114155695045144978
+    second: Earth trap (64x32)_3
+  - first:
+      213: 1299093914825779514
+    second: Earth trap (64x32)_4
+  - first:
+      213: -6800718637800852925
+    second: Earth trap (64x32)_5
+  - first:
+      213: -381663489906497436
+    second: Earth trap (64x32)_6
+  - first:
+      213: 7755340245529695110
+    second: Earth trap (64x32)_7
+  - first:
+      213: -8232156137472130701
+    second: Earth trap (64x32)_8
+  - first:
+      213: 1349327012828682495
+    second: Earth trap (64x32)_9
+  - first:
+      213: -1017673956588291276
+    second: Earth trap (64x32)_10
+  - first:
+      213: -9134313289523656489
+    second: Earth trap (64x32)_11
+  - first:
+      213: -4971851528142528603
+    second: Earth trap (64x32)_12
+  - first:
+      213: 3500878090419581447
+    second: Earth trap (64x32)_13
+  - first:
+      213: 6996957638465526482
+    second: Earth trap (64x32)_14
+  - first:
+      213: 2103540492799570265
+    second: Earth trap (64x32)_15
+  - first:
+      213: -5422931543838287807
+    second: Earth trap (64x32)_16
+  - first:
+      213: 5370525941444036677
+    second: Earth trap (64x32)_17
+  - first:
+      213: 5268179932355894442
+    second: Earth trap (64x32)_18
+  - first:
+      213: -1698872639091291183
+    second: Earth trap (64x32)_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Earth trap (64x32)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca6a5f661edf69b0800000000000000
+      internalID: -5084601266339157303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth trap (64x32)_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 448
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80b40fa078282640800000000000000
+      internalID: 5055335046161150095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth trap (64x32)_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cc6b2bcc06a1090800000000000000
+      internalID: -8063025750565532632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth trap (64x32)_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 416
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e03087611754d90800000000000000
+      internalID: -7114155695045144978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth trap (64x32)_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39ef0b580f470210800000000000000
+      internalID: 1299093914825779514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth trap (64x32)_5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 384
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34270804e6efe91a0800000000000000
+      internalID: -6800718637800852925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth trap (64x32)_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468236cf31f04baf0800000000000000
+      internalID: -381663489906497436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth trap (64x32)_7
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 352
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683961f1dd080ab60800000000000000
+      internalID: 7755340245529695110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth trap (64x32)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3710c6adb9181cd80800000000000000
+      internalID: -8232156137472130701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth trap (64x32)_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 320
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff81e75e4c5c9b210800000000000000
+      internalID: 1349327012828682495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth trap (64x32)_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 289
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b7368adee70e1f0800000000000000
+      internalID: -1017673956588291276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth trap (64x32)_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 288
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d800d675766c3180800000000000000
+      internalID: -9134313289523656489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth trap (64x32)_12
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 255
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afd41d806f600bb0800000000000000
+      internalID: -4971851528142528603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth trap (64x32)_13
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 223
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7023865231e959030800000000000000
+      internalID: 3500878090419581447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth trap (64x32)_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 192
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da913596ef2a1160800000000000000
+      internalID: 6996957638465526482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth trap (64x32)_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 162
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951f7f3eee6413d10800000000000000
+      internalID: 2103540492799570265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth trap (64x32)_16
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 133
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14812482e70edb4b0800000000000000
+      internalID: -5422931543838287807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth trap (64x32)_17
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 103
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548cac4b3e0f78a40800000000000000
+      internalID: 5370525941444036677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth trap (64x32)_18
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 73
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac1ae88cb55c1940800000000000000
+      internalID: 5268179932355894442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth trap (64x32)_19
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 13
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db4554f5546c68e0800000000000000
+      internalID: -1698872639091291183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Earth trap (64x32)_0: -5084601266339157303
+      Earth trap (64x32)_1: 5055335046161150095
+      Earth trap (64x32)_10: -1017673956588291276
+      Earth trap (64x32)_11: -9134313289523656489
+      Earth trap (64x32)_12: -4971851528142528603
+      Earth trap (64x32)_13: 3500878090419581447
+      Earth trap (64x32)_14: 6996957638465526482
+      Earth trap (64x32)_15: 2103540492799570265
+      Earth trap (64x32)_16: -5422931543838287807
+      Earth trap (64x32)_17: 5370525941444036677
+      Earth trap (64x32)_18: 5268179932355894442
+      Earth trap (64x32)_19: -1698872639091291183
+      Earth trap (64x32)_2: -8063025750565532632
+      Earth trap (64x32)_3: -7114155695045144978
+      Earth trap (64x32)_4: 1299093914825779514
+      Earth trap (64x32)_5: -6800718637800852925
+      Earth trap (64x32)_6: -381663489906497436
+      Earth trap (64x32)_7: 7755340245529695110
+      Earth trap (64x32)_8: -8232156137472130701
+      Earth trap (64x32)_9: 1349327012828682495
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

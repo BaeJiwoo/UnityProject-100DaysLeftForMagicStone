@@ -1,0 +1,3471 @@
+fileFormatVersion: 2
+guid: 39488c49eeffa81448770f8deb847dc8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1325200336453834671
+    second: RogueGoblin-Sheet#1_0
+  - first:
+      213: 4792034633278321358
+    second: RogueGoblin-Sheet#1_1
+  - first:
+      213: 6859409126816328640
+    second: RogueGoblin-Sheet#1_2
+  - first:
+      213: -2085812106684740496
+    second: RogueGoblin-Sheet#1_3
+  - first:
+      213: -3520705211796304251
+    second: RogueGoblin-Sheet#1_4
+  - first:
+      213: -7980386661445916851
+    second: RogueGoblin-Sheet#1_5
+  - first:
+      213: 1841771385065558756
+    second: RogueGoblin-Sheet#1_6
+  - first:
+      213: 7172753752648392408
+    second: RogueGoblin-Sheet#1_7
+  - first:
+      213: 8682515648749859950
+    second: RogueGoblin-Sheet#1_8
+  - first:
+      213: 4466914942493536425
+    second: RogueGoblin-Sheet#1_9
+  - first:
+      213: 863726855264480769
+    second: RogueGoblin-Sheet#1_10
+  - first:
+      213: 6358134493251373240
+    second: RogueGoblin-Sheet#1_11
+  - first:
+      213: 716734245538877946
+    second: RogueGoblin-Sheet#1_12
+  - first:
+      213: -3161247578067449348
+    second: RogueGoblin-Sheet#1_13
+  - first:
+      213: -2902982657599068338
+    second: RogueGoblin-Sheet#1_14
+  - first:
+      213: -415806215322814545
+    second: RogueGoblin-Sheet#1_15
+  - first:
+      213: 7937049874534133862
+    second: RogueGoblin-Sheet#1_16
+  - first:
+      213: -4330316703447958258
+    second: RogueGoblin-Sheet#1_17
+  - first:
+      213: -4641855640303650971
+    second: RogueGoblin-Sheet#1_18
+  - first:
+      213: -1449473424931174008
+    second: RogueGoblin-Sheet#1_19
+  - first:
+      213: -9027814543943062721
+    second: RogueGoblin-Sheet#1_20
+  - first:
+      213: 7031717994008714741
+    second: RogueGoblin-Sheet#1_21
+  - first:
+      213: 8068300298588790774
+    second: RogueGoblin-Sheet#1_22
+  - first:
+      213: 9185227865556546676
+    second: RogueGoblin-Sheet#1_23
+  - first:
+      213: -5041832052922402397
+    second: RogueGoblin-Sheet#1_24
+  - first:
+      213: 3840406437374162041
+    second: RogueGoblin-Sheet#1_25
+  - first:
+      213: -4728360099548021918
+    second: RogueGoblin-Sheet#1_26
+  - first:
+      213: 356862744509164678
+    second: RogueGoblin-Sheet#1_27
+  - first:
+      213: 2564801154743389207
+    second: RogueGoblin-Sheet#1_28
+  - first:
+      213: -4533442039379606527
+    second: RogueGoblin-Sheet#1_29
+  - first:
+      213: 4552848756916825180
+    second: RogueGoblin-Sheet#1_30
+  - first:
+      213: -930666738467407974
+    second: RogueGoblin-Sheet#1_31
+  - first:
+      213: 593803518551856835
+    second: RogueGoblin-Sheet#1_32
+  - first:
+      213: -3704031291768634428
+    second: RogueGoblin-Sheet#1_33
+  - first:
+      213: -7666832601956180830
+    second: RogueGoblin-Sheet#1_34
+  - first:
+      213: 2262771568366101485
+    second: RogueGoblin-Sheet#1_35
+  - first:
+      213: -1222620320062743506
+    second: RogueGoblin-Sheet#1_36
+  - first:
+      213: -8822343867817263731
+    second: RogueGoblin-Sheet#1_37
+  - first:
+      213: -2095941993166985664
+    second: RogueGoblin-Sheet#1_38
+  - first:
+      213: -2813080034222413211
+    second: RogueGoblin-Sheet#1_39
+  - first:
+      213: -5983711403580644987
+    second: RogueGoblin-Sheet#1_40
+  - first:
+      213: -4404633241520346551
+    second: RogueGoblin-Sheet#1_41
+  - first:
+      213: 2788648422292572905
+    second: RogueGoblin-Sheet#1_42
+  - first:
+      213: 7334235973385833554
+    second: RogueGoblin-Sheet#1_43
+  - first:
+      213: -909375804191197695
+    second: RogueGoblin-Sheet#1_44
+  - first:
+      213: -5892767463697908906
+    second: RogueGoblin-Sheet#1_45
+  - first:
+      213: 5671960866794039435
+    second: RogueGoblin-Sheet#1_46
+  - first:
+      213: 3052078203502999732
+    second: RogueGoblin-Sheet#1_47
+  - first:
+      213: 2103517602554968336
+    second: RogueGoblin-Sheet#1_48
+  - first:
+      213: 227949302912560582
+    second: RogueGoblin-Sheet#1_49
+  - first:
+      213: -8679382922568234841
+    second: RogueGoblin-Sheet#1_50
+  - first:
+      213: -6217145081944890375
+    second: RogueGoblin-Sheet#1_51
+  - first:
+      213: -8594318587341777617
+    second: RogueGoblin-Sheet#1_52
+  - first:
+      213: -916227700129174730
+    second: RogueGoblin-Sheet#1_53
+  - first:
+      213: -7029255678974047505
+    second: RogueGoblin-Sheet#1_54
+  - first:
+      213: 3410626096743814254
+    second: RogueGoblin-Sheet#1_55
+  - first:
+      213: 3851809269125874351
+    second: RogueGoblin-Sheet#1_56
+  - first:
+      213: 1475789234925065418
+    second: RogueGoblin-Sheet#1_57
+  - first:
+      213: 5019487548070845325
+    second: RogueGoblin-Sheet#1_58
+  - first:
+      213: 5899372689721441237
+    second: RogueGoblin-Sheet#1_59
+  - first:
+      213: 5086706314563236220
+    second: RogueGoblin-Sheet#1_60
+  - first:
+      213: 6363242088059151413
+    second: RogueGoblin-Sheet#1_61
+  - first:
+      213: 8782203054345153544
+    second: RogueGoblin-Sheet#1_62
+  - first:
+      213: 1446010110590736597
+    second: RogueGoblin-Sheet#1_63
+  - first:
+      213: 1882348876863582581
+    second: RogueGoblin-Sheet#1_64
+  - first:
+      213: 6264742321087397627
+    second: RogueGoblin-Sheet#1_65
+  - first:
+      213: 4461428771987604501
+    second: RogueGoblin-Sheet#1_66
+  - first:
+      213: -4670030630811110574
+    second: RogueGoblin-Sheet#1_67
+  - first:
+      213: 4296190517268319675
+    second: RogueGoblin-Sheet#1_68
+  - first:
+      213: -3743391879584366089
+    second: RogueGoblin-Sheet#1_69
+  - first:
+      213: -356764546969259619
+    second: RogueGoblin-Sheet#1_70
+  - first:
+      213: -4738666185598740212
+    second: RogueGoblin-Sheet#1_71
+  - first:
+      213: 6019379522734946823
+    second: RogueGoblin-Sheet#1_72
+  - first:
+      213: -4005862745330530955
+    second: RogueGoblin-Sheet#1_73
+  - first:
+      213: -5441269305513466983
+    second: RogueGoblin-Sheet#1_74
+  - first:
+      213: 4053933795273200203
+    second: RogueGoblin-Sheet#1_75
+  - first:
+      213: -3371098737029777452
+    second: RogueGoblin-Sheet#1_76
+  - first:
+      213: 6292251039054523576
+    second: RogueGoblin-Sheet#1_77
+  - first:
+      213: -8815681973166465977
+    second: RogueGoblin-Sheet#1_78
+  - first:
+      213: -325729628091400451
+    second: RogueGoblin-Sheet#1_79
+  - first:
+      213: -1723571132743208097
+    second: RogueGoblin-Sheet#1_80
+  - first:
+      213: -7943945303707915803
+    second: RogueGoblin-Sheet#1_81
+  - first:
+      213: 1926812719695570524
+    second: RogueGoblin-Sheet#1_82
+  - first:
+      213: -1110842897248928787
+    second: RogueGoblin-Sheet#1_83
+  - first:
+      213: 3629586525876716738
+    second: RogueGoblin-Sheet#1_84
+  - first:
+      213: 178986862143366490
+    second: RogueGoblin-Sheet#1_85
+  - first:
+      213: 8235313539498738330
+    second: RogueGoblin-Sheet#1_86
+  - first:
+      213: -2611276740966472025
+    second: RogueGoblin-Sheet#1_87
+  - first:
+      213: -3943406063120083784
+    second: RogueGoblin-Sheet#1_88
+  - first:
+      213: 4285876044653089364
+    second: RogueGoblin-Sheet#1_89
+  - first:
+      213: 3550376999612660029
+    second: RogueGoblin-Sheet#1_90
+  - first:
+      213: -5421458696449223677
+    second: RogueGoblin-Sheet#1_91
+  - first:
+      213: 5885417545265694315
+    second: RogueGoblin-Sheet#1_92
+  - first:
+      213: 7239225387171448400
+    second: RogueGoblin-Sheet#1_93
+  - first:
+      213: 1625685933948811409
+    second: RogueGoblin-Sheet#1_94
+  - first:
+      213: 6160680997595831207
+    second: RogueGoblin-Sheet#1_95
+  - first:
+      213: -4744412313143248999
+    second: RogueGoblin-Sheet#1_96
+  - first:
+      213: 6428861085783241142
+    second: RogueGoblin-Sheet#1_97
+  - first:
+      213: 2454821269810280221
+    second: RogueGoblin-Sheet#1_98
+  - first:
+      213: -3678036985908229044
+    second: RogueGoblin-Sheet#1_99
+  - first:
+      213: 3579601823440616068
+    second: RogueGoblin-Sheet#1_100
+  - first:
+      213: 5535609925980437664
+    second: RogueGoblin-Sheet#1_101
+  - first:
+      213: 5916147112677891669
+    second: RogueGoblin-Sheet#1_102
+  - first:
+      213: -7685576231215664659
+    second: RogueGoblin-Sheet#1_103
+  - first:
+      213: -8519846151878025643
+    second: RogueGoblin-Sheet#1_104
+  - first:
+      213: 5407225994998302793
+    second: RogueGoblin-Sheet#1_105
+  - first:
+      213: -2872098649910435161
+    second: RogueGoblin-Sheet#1_106
+  - first:
+      213: 4376749040932269831
+    second: RogueGoblin-Sheet#1_107
+  - first:
+      213: 5872020492451857042
+    second: RogueGoblin-Sheet#1_108
+  - first:
+      213: 1693352818766095070
+    second: RogueGoblin-Sheet#1_109
+  - first:
+      213: 7177130174970741911
+    second: RogueGoblin-Sheet#1_110
+  - first:
+      213: -8098293041610648125
+    second: RogueGoblin-Sheet#1_111
+  - first:
+      213: 4571425945933548995
+    second: RogueGoblin-Sheet#1_112
+  - first:
+      213: -1248128242700520161
+    second: RogueGoblin-Sheet#1_113
+  - first:
+      213: 5667863780726540778
+    second: RogueGoblin-Sheet#1_114
+  - first:
+      213: -3876351841437388354
+    second: RogueGoblin-Sheet#1_115
+  - first:
+      213: 6590906617897101355
+    second: RogueGoblin-Sheet#1_116
+  - first:
+      213: -5305299204438466364
+    second: RogueGoblin-Sheet#1_117
+  - first:
+      213: -2414703664874120553
+    second: RogueGoblin-Sheet#1_118
+  - first:
+      213: -7151387334806057998
+    second: RogueGoblin-Sheet#1_119
+  - first:
+      213: 8312058099515121089
+    second: RogueGoblin-Sheet#1_120
+  - first:
+      213: 3270970493023606027
+    second: RogueGoblin-Sheet#1_121
+  - first:
+      213: -1284814913552673436
+    second: RogueGoblin-Sheet#1_122
+  - first:
+      213: 2418676404769758368
+    second: RogueGoblin-Sheet#1_123
+  - first:
+      213: 2017416088392492980
+    second: RogueGoblin-Sheet#1_124
+  - first:
+      213: -2716954179808155568
+    second: RogueGoblin-Sheet#1_125
+  - first:
+      213: 7624262149200237353
+    second: RogueGoblin-Sheet#1_126
+  - first:
+      213: 4469718583653216237
+    second: RogueGoblin-Sheet#1_127
+  - first:
+      213: -369653836951995784
+    second: RogueGoblin-Sheet#1_128
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 367
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa71f8e4fae046210800000000000000
+      internalID: 1325200336453834671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 367
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec27ce31c1ab08240800000000000000
+      internalID: 4792034633278321358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_2
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 367
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cba5f41244813f50800000000000000
+      internalID: 6859409126816328640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_3
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 367
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cc8d8a0f4bd03e0800000000000000
+      internalID: -2085812106684740496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_4
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 367
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ec30c6341f32fc0800000000000000
+      internalID: -3520705211796304251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_5
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 367
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4720420d98ff3190800000000000000
+      internalID: -7980386661445916851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_6
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 367
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2df4c01594f8910800000000000000
+      internalID: 1841771385065558756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_7
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 367
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de15fff88dba8360800000000000000
+      internalID: 7172753752648392408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_8
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 367
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6471880bfd7e7870800000000000000
+      internalID: 8682515648749859950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_9
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 367
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a03635397badfd30800000000000000
+      internalID: 4466914942493536425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_10
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 367
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e2107aff29cfb00800000000000000
+      internalID: 863726855264480769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_11
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 307
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8086082a1ac3850800000000000000
+      internalID: 6358134493251373240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_12
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 307
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1d3b7bff952f900800000000000000
+      internalID: 716734245538877946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_13
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 307
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9c936a31ef024d0800000000000000
+      internalID: -3161247578067449348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_14
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 309
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4720b057a886b7d0800000000000000
+      internalID: -2902982657599068338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_15
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 307
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7b8404372ca3af0800000000000000
+      internalID: -415806215322814545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_16
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 307
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6607a200fc0162e60800000000000000
+      internalID: 7937049874534133862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_17
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 307
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d3b06b6ef97e3c0800000000000000
+      internalID: -4330316703447958258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_18
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 310
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567be0583e0d49fb0800000000000000
+      internalID: -4641855640303650971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_19
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 308
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889cb93899f62ebe0800000000000000
+      internalID: -1449473424931174008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_20
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 307
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b2b22f082c6b280800000000000000
+      internalID: -9027814543943062721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_21
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 307
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd9c99824ea59160800000000000000
+      internalID: 7031717994008714741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_22
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 306
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff1096bf5c58ff60800000000000000
+      internalID: 8068300298588790774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_23
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 307
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474748b041c787f70800000000000000
+      internalID: 9185227865556546676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_24
+      rect:
+        serializedVersion: 2
+        x: 2301
+        y: 307
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9b16ce570d70ab0800000000000000
+      internalID: -5041832052922402397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_25
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 244
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9747fc4be4ddb4530800000000000000
+      internalID: 3840406437374162041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_26
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 249
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b3f489a8d716eb0800000000000000
+      internalID: -4728360099548021918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_27
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 246
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c2a0086c4d3f400800000000000000
+      internalID: 356862744509164678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_28
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 246
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ccdf3bf01089320800000000000000
+      internalID: 2564801154743389207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_29
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 253
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104c4f00c7af511c0800000000000000
+      internalID: -4533442039379606527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_30
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 255
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c2b1882d7fe2f30800000000000000
+      internalID: 4552848756916825180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_31
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 249
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97f061488b9513f0800000000000000
+      internalID: -930666738467407974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_32
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 249
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c619ad672d9d3800800000000000000
+      internalID: 593803518551856835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_33
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 249
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c303393a23a89cc0800000000000000
+      internalID: -3704031291768634428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_34
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 249
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac94008e50f99590800000000000000
+      internalID: -7666832601956180830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_35
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 249
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3a054b0caf66f10800000000000000
+      internalID: 2262771568366101485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_36
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 246
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c5c7feb41680fe0800000000000000
+      internalID: -1222620320062743506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_37
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 247
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8df768befcb09580800000000000000
+      internalID: -8822343867817263731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_38
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 247
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046257bacd7b9e2e0800000000000000
+      internalID: -2095941993166985664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_39
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 246
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56aed6bfc9ee5f8d0800000000000000
+      internalID: -2813080034222413211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_40
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 187
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5812f177e2695fca0800000000000000
+      internalID: -5983711403580644987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_41
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 187
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a6d4157699fd2c0800000000000000
+      internalID: -4404633241520346551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_42
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 187
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eac33617f443b620800000000000000
+      internalID: 2788648422292572905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_43
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 187
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ccd8462c078c560800000000000000
+      internalID: 7334235973385833554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_44
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 187
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10639df268f3163f0800000000000000
+      internalID: -909375804191197695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_45
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 187
+        width: 57
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b7e46863fa83ea0800000000000000
+      internalID: -5892767463697908906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_46
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 215
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88ec256b5ad6be40800000000000000
+      internalID: 5671960866794039435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_47
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 187
+        width: 63
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8328a94f82b5a20800000000000000
+      internalID: 3052078203502999732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_48
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 187
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019f1175d12313d10800000000000000
+      internalID: 2103517602554968336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_49
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 187
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cda6eaeea6d92300800000000000000
+      internalID: 227949302912560582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_50
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 186
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a88abe9733ac8780800000000000000
+      internalID: -8679382922568234841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_51
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 185
+        width: 57
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3ab91ec7348b9a0800000000000000
+      internalID: -6217145081944890375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_52
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 185
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25d4fa87c8dab880800000000000000
+      internalID: -8594318587341777617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_53
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 187
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b6d68d2c7e843f0800000000000000
+      internalID: -916227700129174730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_54
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 187
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feaca5bd331137e90800000000000000
+      internalID: -7029255678974047505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_55
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 188
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64971e5d5af45f20800000000000000
+      internalID: 3410626096743814254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_56
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 127
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa20ecc5f10647530800000000000000
+      internalID: 3851809269125874351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_57
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 127
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4dd077d7e0b7410800000000000000
+      internalID: 1475789234925065418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_58
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 127
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b5241a45dc8a540800000000000000
+      internalID: 5019487548070845325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_59
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 127
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbbc708438ced150800000000000000
+      internalID: 5899372689721441237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_60
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 127
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71374c417c979640800000000000000
+      internalID: 5086706314563236220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_61
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 127
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534a49617f6ce4850800000000000000
+      internalID: 6363242088059151413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_62
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 127
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ce797d527a0e970800000000000000
+      internalID: 8782203054345153544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_63
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 133
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d85267c882411410800000000000000
+      internalID: 1446010110590736597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_64
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 131
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5713fc494527f1a10800000000000000
+      internalID: 1882348876863582581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_65
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 127
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe35c1f2f5d0f650800000000000000
+      internalID: 6264742321087397627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_66
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 126
+        width: 81
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514470994dd2aed30800000000000000
+      internalID: 4461428771987604501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_67
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 85
+        width: 168
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2537f4852e7b03fb0800000000000000
+      internalID: -4670030630811110574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_68
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 140
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd0e2563822f9b30800000000000000
+      internalID: 4296190517268319675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_69
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 127
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1ca4a3beccc0cc0800000000000000
+      internalID: -3743391879584366089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_70
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 133
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91b175e8848c0bf0800000000000000
+      internalID: -356764546969259619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_71
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 127
+        width: 61
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c095b32f530ec3eb0800000000000000
+      internalID: -4738666185598740212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_72
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 127
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a70eca8c1298350800000000000000
+      internalID: 6019379522734946823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_73
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 127
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5754a9d9e015868c0800000000000000
+      internalID: -4005862745330530955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_74
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 67
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99322ad456abc74b0800000000000000
+      internalID: -5441269305513466983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_75
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 67
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42d532ee47724830800000000000000
+      internalID: 4053933795273200203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_76
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 67
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7729c3f837731d0800000000000000
+      internalID: -3371098737029777452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_77
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 67
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc6d647bf0925750800000000000000
+      internalID: 6292251039054523576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_78
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 52
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c1990f3f768a580800000000000000
+      internalID: -8815681973166465977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_79
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 67
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfebac801a6ca7bf0800000000000000
+      internalID: -325729628091400451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_80
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 67
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5339b7cf25a418e0800000000000000
+      internalID: -1723571132743208097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_81
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 98
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e96b59c5df61c190800000000000000
+      internalID: -7943945303707915803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_82
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 97
+        width: 52
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56a82ab5f96dba10800000000000000
+      internalID: 1926812719695570524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_83
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 67
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb363c354e7590f0800000000000000
+      internalID: -1110842897248928787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_84
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 67
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c40d6407b1ee5230800000000000000
+      internalID: 3629586525876716738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_85
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 67
+        width: 106
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5564815a93eb7200800000000000000
+      internalID: 178986862143366490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_86
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 104
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9289c71806b94270800000000000000
+      internalID: 8235313539498738330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_87
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 52
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a62474a3a1e2cbd0800000000000000
+      internalID: -2611276740966472025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_88
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 67
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b41b9224153649c0800000000000000
+      internalID: -3943406063120083784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_89
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 89
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45257e81e8d7a7b30800000000000000
+      internalID: 4285876044653089364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_90
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 86
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3931a80219754130800000000000000
+      internalID: 3550376999612660029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_91
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 7
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30411b92a0c13c4b0800000000000000
+      internalID: -5421458696449223677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_92
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 7
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66c96c33143da150800000000000000
+      internalID: 5885417545265694315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_93
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 45
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05608537225e67460800000000000000
+      internalID: 7239225387171448400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_94
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 44
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1983e516eb89f8610800000000000000
+      internalID: 1625685933948811409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_95
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 40
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abd2340ab22f7550800000000000000
+      internalID: 6160680997595831207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_96
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 28
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9977b1f5326782eb0800000000000000
+      internalID: -4744412313143248999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_97
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 43
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b131709817e73950800000000000000
+      internalID: 6428861085783241142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_98
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 7
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d177d1e40f6411220800000000000000
+      internalID: 2454821269810280221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_99
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 47
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c013039dcf4fcc0800000000000000
+      internalID: -3678036985908229044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_100
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 37
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ab48394ec4da130800000000000000
+      internalID: 3579601823440616068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_101
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 44
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acb03516ef62dc40800000000000000
+      internalID: 5535609925980437664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_102
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 40
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e5e1234706a1250800000000000000
+      internalID: 5916147112677891669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_103
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 37
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1743c3329575590800000000000000
+      internalID: -7685576231215664659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_104
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 43
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ed450a01d63c980800000000000000
+      internalID: -8519846151878025643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_105
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 5
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948c12cc4635a0b40800000000000000
+      internalID: 5407225994998302793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_106
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 7
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2a534be714428d0800000000000000
+      internalID: -2872098649910435161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_107
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 7
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70faccf40165dbc30800000000000000
+      internalID: 4376749040932269831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_108
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 7
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292486ec68b9d7150800000000000000
+      internalID: 5872020492451857042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_109
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 7
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2a5f9ba6fff7710800000000000000
+      internalID: 1693352818766095070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_110
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 8
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7944ed93ed94a9360800000000000000
+      internalID: 7177130174970741911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_111
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 10
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c597cf92651d9f80800000000000000
+      internalID: -8098293041610648125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_112
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 10
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd8f586da7f07f30800000000000000
+      internalID: 4571425945933548995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_113
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 5
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15f3b3e9f1cdaee0800000000000000
+      internalID: -1248128242700520161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_114
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 3
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae90285341c48ae40800000000000000
+      internalID: 5667863780726540778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_115
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 13
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb171bab98e643ac0800000000000000
+      internalID: -3876351841437388354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_116
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 3
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28278b16aa977b50800000000000000
+      internalID: 6590906617897101355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_117
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 12
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c068447b7acf56b0800000000000000
+      internalID: -5305299204438466364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_118
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 0
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a18597fcf3d7ed0800000000000000
+      internalID: -2414703664874120553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_119
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 9
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb48a1db1b21cc90800000000000000
+      internalID: -7151387334806057998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_120
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 4
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdd1066dcc5a5370800000000000000
+      internalID: 8312058099515121089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_121
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 1
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05d4734552d46d20800000000000000
+      internalID: 3270970493023606027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_122
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 0
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4659193b4ab6b2ee0800000000000000
+      internalID: -1284814913552673436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_123
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 5
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac9bec106dd09120800000000000000
+      internalID: 2418676404769758368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_124
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 0
+        width: 77
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7eac06e3d4ffb10800000000000000
+      internalID: 2017416088392492980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_125
+      rect:
+        serializedVersion: 2
+        x: 2785
+        y: 3
+        width: 66
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058a58981907b4ad0800000000000000
+      internalID: -2716954179808155568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_126
+      rect:
+        serializedVersion: 2
+        x: 2957
+        y: 3
+        width: 80
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92359859702dec960800000000000000
+      internalID: 7624262149200237353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_127
+      rect:
+        serializedVersion: 2
+        x: 3131
+        y: 3
+        width: 80
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defac98ce51a70e30800000000000000
+      internalID: 4469718583653216237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RogueGoblin-Sheet#1_128
+      rect:
+        serializedVersion: 2
+        x: 2846
+        y: 6
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87abd963bc9bedaf0800000000000000
+      internalID: -369653836951995784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RogueGoblin-Sheet#1_0: 1325200336453834671
+      RogueGoblin-Sheet#1_1: 4792034633278321358
+      RogueGoblin-Sheet#1_10: 863726855264480769
+      RogueGoblin-Sheet#1_100: 3579601823440616068
+      RogueGoblin-Sheet#1_101: 5535609925980437664
+      RogueGoblin-Sheet#1_102: 5916147112677891669
+      RogueGoblin-Sheet#1_103: -7685576231215664659
+      RogueGoblin-Sheet#1_104: -8519846151878025643
+      RogueGoblin-Sheet#1_105: 5407225994998302793
+      RogueGoblin-Sheet#1_106: -2872098649910435161
+      RogueGoblin-Sheet#1_107: 4376749040932269831
+      RogueGoblin-Sheet#1_108: 5872020492451857042
+      RogueGoblin-Sheet#1_109: 1693352818766095070
+      RogueGoblin-Sheet#1_11: 6358134493251373240
+      RogueGoblin-Sheet#1_110: 7177130174970741911
+      RogueGoblin-Sheet#1_111: -8098293041610648125
+      RogueGoblin-Sheet#1_112: 4571425945933548995
+      RogueGoblin-Sheet#1_113: -1248128242700520161
+      RogueGoblin-Sheet#1_114: 5667863780726540778
+      RogueGoblin-Sheet#1_115: -3876351841437388354
+      RogueGoblin-Sheet#1_116: 6590906617897101355
+      RogueGoblin-Sheet#1_117: -5305299204438466364
+      RogueGoblin-Sheet#1_118: -2414703664874120553
+      RogueGoblin-Sheet#1_119: -7151387334806057998
+      RogueGoblin-Sheet#1_12: 716734245538877946
+      RogueGoblin-Sheet#1_120: 8312058099515121089
+      RogueGoblin-Sheet#1_121: 3270970493023606027
+      RogueGoblin-Sheet#1_122: -1284814913552673436
+      RogueGoblin-Sheet#1_123: 2418676404769758368
+      RogueGoblin-Sheet#1_124: 2017416088392492980
+      RogueGoblin-Sheet#1_125: -2716954179808155568
+      RogueGoblin-Sheet#1_126: 7624262149200237353
+      RogueGoblin-Sheet#1_127: 4469718583653216237
+      RogueGoblin-Sheet#1_128: -369653836951995784
+      RogueGoblin-Sheet#1_13: -3161247578067449348
+      RogueGoblin-Sheet#1_14: -2902982657599068338
+      RogueGoblin-Sheet#1_15: -415806215322814545
+      RogueGoblin-Sheet#1_16: 7937049874534133862
+      RogueGoblin-Sheet#1_17: -4330316703447958258
+      RogueGoblin-Sheet#1_18: -4641855640303650971
+      RogueGoblin-Sheet#1_19: -1449473424931174008
+      RogueGoblin-Sheet#1_2: 6859409126816328640
+      RogueGoblin-Sheet#1_20: -9027814543943062721
+      RogueGoblin-Sheet#1_21: 7031717994008714741
+      RogueGoblin-Sheet#1_22: 8068300298588790774
+      RogueGoblin-Sheet#1_23: 9185227865556546676
+      RogueGoblin-Sheet#1_24: -5041832052922402397
+      RogueGoblin-Sheet#1_25: 3840406437374162041
+      RogueGoblin-Sheet#1_26: -4728360099548021918
+      RogueGoblin-Sheet#1_27: 356862744509164678
+      RogueGoblin-Sheet#1_28: 2564801154743389207
+      RogueGoblin-Sheet#1_29: -4533442039379606527
+      RogueGoblin-Sheet#1_3: -2085812106684740496
+      RogueGoblin-Sheet#1_30: 4552848756916825180
+      RogueGoblin-Sheet#1_31: -930666738467407974
+      RogueGoblin-Sheet#1_32: 593803518551856835
+      RogueGoblin-Sheet#1_33: -3704031291768634428
+      RogueGoblin-Sheet#1_34: -7666832601956180830
+      RogueGoblin-Sheet#1_35: 2262771568366101485
+      RogueGoblin-Sheet#1_36: -1222620320062743506
+      RogueGoblin-Sheet#1_37: -8822343867817263731
+      RogueGoblin-Sheet#1_38: -2095941993166985664
+      RogueGoblin-Sheet#1_39: -2813080034222413211
+      RogueGoblin-Sheet#1_4: -3520705211796304251
+      RogueGoblin-Sheet#1_40: -5983711403580644987
+      RogueGoblin-Sheet#1_41: -4404633241520346551
+      RogueGoblin-Sheet#1_42: 2788648422292572905
+      RogueGoblin-Sheet#1_43: 7334235973385833554
+      RogueGoblin-Sheet#1_44: -909375804191197695
+      RogueGoblin-Sheet#1_45: -5892767463697908906
+      RogueGoblin-Sheet#1_46: 5671960866794039435
+      RogueGoblin-Sheet#1_47: 3052078203502999732
+      RogueGoblin-Sheet#1_48: 2103517602554968336
+      RogueGoblin-Sheet#1_49: 227949302912560582
+      RogueGoblin-Sheet#1_5: -7980386661445916851
+      RogueGoblin-Sheet#1_50: -8679382922568234841
+      RogueGoblin-Sheet#1_51: -6217145081944890375
+      RogueGoblin-Sheet#1_52: -8594318587341777617
+      RogueGoblin-Sheet#1_53: -916227700129174730
+      RogueGoblin-Sheet#1_54: -7029255678974047505
+      RogueGoblin-Sheet#1_55: 3410626096743814254
+      RogueGoblin-Sheet#1_56: 3851809269125874351
+      RogueGoblin-Sheet#1_57: 1475789234925065418
+      RogueGoblin-Sheet#1_58: 5019487548070845325
+      RogueGoblin-Sheet#1_59: 5899372689721441237
+      RogueGoblin-Sheet#1_6: 1841771385065558756
+      RogueGoblin-Sheet#1_60: 5086706314563236220
+      RogueGoblin-Sheet#1_61: 6363242088059151413
+      RogueGoblin-Sheet#1_62: 8782203054345153544
+      RogueGoblin-Sheet#1_63: 1446010110590736597
+      RogueGoblin-Sheet#1_64: 1882348876863582581
+      RogueGoblin-Sheet#1_65: 6264742321087397627
+      RogueGoblin-Sheet#1_66: 4461428771987604501
+      RogueGoblin-Sheet#1_67: -4670030630811110574
+      RogueGoblin-Sheet#1_68: 4296190517268319675
+      RogueGoblin-Sheet#1_69: -3743391879584366089
+      RogueGoblin-Sheet#1_7: 7172753752648392408
+      RogueGoblin-Sheet#1_70: -356764546969259619
+      RogueGoblin-Sheet#1_71: -4738666185598740212
+      RogueGoblin-Sheet#1_72: 6019379522734946823
+      RogueGoblin-Sheet#1_73: -4005862745330530955
+      RogueGoblin-Sheet#1_74: -5441269305513466983
+      RogueGoblin-Sheet#1_75: 4053933795273200203
+      RogueGoblin-Sheet#1_76: -3371098737029777452
+      RogueGoblin-Sheet#1_77: 6292251039054523576
+      RogueGoblin-Sheet#1_78: -8815681973166465977
+      RogueGoblin-Sheet#1_79: -325729628091400451
+      RogueGoblin-Sheet#1_8: 8682515648749859950
+      RogueGoblin-Sheet#1_80: -1723571132743208097
+      RogueGoblin-Sheet#1_81: -7943945303707915803
+      RogueGoblin-Sheet#1_82: 1926812719695570524
+      RogueGoblin-Sheet#1_83: -1110842897248928787
+      RogueGoblin-Sheet#1_84: 3629586525876716738
+      RogueGoblin-Sheet#1_85: 178986862143366490
+      RogueGoblin-Sheet#1_86: 8235313539498738330
+      RogueGoblin-Sheet#1_87: -2611276740966472025
+      RogueGoblin-Sheet#1_88: -3943406063120083784
+      RogueGoblin-Sheet#1_89: 4285876044653089364
+      RogueGoblin-Sheet#1_9: 4466914942493536425
+      RogueGoblin-Sheet#1_90: 3550376999612660029
+      RogueGoblin-Sheet#1_91: -5421458696449223677
+      RogueGoblin-Sheet#1_92: 5885417545265694315
+      RogueGoblin-Sheet#1_93: 7239225387171448400
+      RogueGoblin-Sheet#1_94: 1625685933948811409
+      RogueGoblin-Sheet#1_95: 6160680997595831207
+      RogueGoblin-Sheet#1_96: -4744412313143248999
+      RogueGoblin-Sheet#1_97: 6428861085783241142
+      RogueGoblin-Sheet#1_98: 2454821269810280221
+      RogueGoblin-Sheet#1_99: -3678036985908229044
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

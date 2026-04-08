@@ -168,4 +168,4 @@ MonoBehaviour:
   lifeTime: 10
   blinkDuration: 2
   blinkSpeed: 0.1
-  pickupRadius: 1.5
+  pickupRadius: 2

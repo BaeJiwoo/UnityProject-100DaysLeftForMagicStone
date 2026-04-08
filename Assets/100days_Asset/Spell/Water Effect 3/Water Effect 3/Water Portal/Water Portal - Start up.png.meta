@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 7d03c55ba75e79442897079142f63a40
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1171416517761068865
+    second: Water Portal - Start up_0
+  - first:
+      213: 1758289363064080138
+    second: Water Portal - Start up_1
+  - first:
+      213: -9116346904699410063
+    second: Water Portal - Start up_2
+  - first:
+      213: 5702118532214960588
+    second: Water Portal - Start up_3
+  - first:
+      213: 4900702254844588220
+    second: Water Portal - Start up_4
+  - first:
+      213: -6185931461272199095
+    second: Water Portal - Start up_5
+  - first:
+      213: 6655770278010099260
+    second: Water Portal - Start up_6
+  - first:
+      213: 4058865609460566675
+    second: Water Portal - Start up_7
+  - first:
+      213: 9137436713147700618
+    second: Water Portal - Start up_8
+  - first:
+      213: -1658619141948488102
+    second: Water Portal - Start up_9
+  - first:
+      213: 4156171722519662196
+    second: Water Portal - Start up_10
+  - first:
+      213: -4725766341345909422
+    second: Water Portal - Start up_11
+  - first:
+      213: 8834632249524423638
+    second: Water Portal - Start up_12
+  - first:
+      213: -7226499033083504395
+    second: Water Portal - Start up_13
+  - first:
+      213: 5528898115594055742
+    second: Water Portal - Start up_14
+  - first:
+      213: 5034227279961536737
+    second: Water Portal - Start up_15
+  - first:
+      213: 1012817887857886086
+    second: Water Portal - Start up_16
+  - first:
+      213: -9003152128345436806
+    second: Water Portal - Start up_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Water Portal - Start up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb093de22ea4ebfe0800000000000000
+      internalID: -1171416517761068865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Start up_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 269
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0748c12cd2b66810800000000000000
+      internalID: 1758289363064080138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Start up_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 266
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179e8286aca3c7180800000000000000
+      internalID: -9116346904699410063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Start up_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 263
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc138db089ef12f40800000000000000
+      internalID: 5702118532214960588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Start up_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 260
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0b7f95cbac20440800000000000000
+      internalID: 4900702254844588220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Start up_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178
+        width: 10
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94025f54c18272aa0800000000000000
+      internalID: -6185931461272199095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Start up_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 175
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c361567ddcb0e5c50800000000000000
+      internalID: 6655770278010099260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Start up_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 174
+        width: 11
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a42fa54ccf35830800000000000000
+      internalID: 4058865609460566675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Start up_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 172
+        width: 13
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8518c44742bece70800000000000000
+      internalID: 9137436713147700618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Start up_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 172
+        width: 16
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a564f7a9da66bf8e0800000000000000
+      internalID: -1658619141948488102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Start up_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ece4a4920bda930800000000000000
+      internalID: 4156171722519662196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Start up_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 92
+        width: 20
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255649cfc84ba6eb0800000000000000
+      internalID: -4725766341345909422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Start up_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 92
+        width: 21
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db0d1a193bea9a70800000000000000
+      internalID: 8834632249524423638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Start up_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 91
+        width: 22
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f89a53ca6156bb90800000000000000
+      internalID: -7226499033083504395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Start up_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 91
+        width: 23
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e307f43fa879abc40800000000000000
+      internalID: 5528898115594055742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Start up_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e830b4e90b2dd540800000000000000
+      internalID: 5034227279961536737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Start up_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 11
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6834eebb0804e0e00800000000000000
+      internalID: 1012817887857886086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Start up_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d0b2b07d06e0380800000000000000
+      internalID: -9003152128345436806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Water Portal - Start up_0: -1171416517761068865
+      Water Portal - Start up_1: 1758289363064080138
+      Water Portal - Start up_10: 4156171722519662196
+      Water Portal - Start up_11: -4725766341345909422
+      Water Portal - Start up_12: 8834632249524423638
+      Water Portal - Start up_13: -7226499033083504395
+      Water Portal - Start up_14: 5528898115594055742
+      Water Portal - Start up_15: 5034227279961536737
+      Water Portal - Start up_16: 1012817887857886086
+      Water Portal - Start up_17: -9003152128345436806
+      Water Portal - Start up_2: -9116346904699410063
+      Water Portal - Start up_3: 5702118532214960588
+      Water Portal - Start up_4: 4900702254844588220
+      Water Portal - Start up_5: -6185931461272199095
+      Water Portal - Start up_6: 6655770278010099260
+      Water Portal - Start up_7: 4058865609460566675
+      Water Portal - Start up_8: 9137436713147700618
+      Water Portal - Start up_9: -1658619141948488102
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1469 @@
+fileFormatVersion: 2
+guid: 28bccb2c6b5baf04ca3a16c5c9a5520c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6531799149367507144
+    second: CentaurLadyAddon#1-Sheet (2)_0
+  - first:
+      213: 6896033325416190094
+    second: CentaurLadyAddon#1-Sheet (2)_1
+  - first:
+      213: -7922958991403228541
+    second: CentaurLadyAddon#1-Sheet (2)_2
+  - first:
+      213: 8208106196457433762
+    second: CentaurLadyAddon#1-Sheet (2)_3
+  - first:
+      213: 8604421541179373839
+    second: CentaurLadyAddon#1-Sheet (2)_4
+  - first:
+      213: -2964659209329652560
+    second: CentaurLadyAddon#1-Sheet (2)_5
+  - first:
+      213: 7529520567802335589
+    second: CentaurLadyAddon#1-Sheet (2)_6
+  - first:
+      213: -7726686464798748587
+    second: CentaurLadyAddon#1-Sheet (2)_7
+  - first:
+      213: -3462173744614536230
+    second: CentaurLadyAddon#1-Sheet (2)_8
+  - first:
+      213: 3704947899238429118
+    second: CentaurLadyAddon#1-Sheet (2)_9
+  - first:
+      213: -8065869446761329447
+    second: CentaurLadyAddon#1-Sheet (2)_10
+  - first:
+      213: 8541526625840147812
+    second: CentaurLadyAddon#1-Sheet (2)_11
+  - first:
+      213: -6970095997181587529
+    second: CentaurLadyAddon#1-Sheet (2)_12
+  - first:
+      213: 5303012767429481079
+    second: CentaurLadyAddon#1-Sheet (2)_13
+  - first:
+      213: -4484719435559886070
+    second: CentaurLadyAddon#1-Sheet (2)_14
+  - first:
+      213: 5051854831313015103
+    second: CentaurLadyAddon#1-Sheet (2)_15
+  - first:
+      213: 3726195898728944646
+    second: CentaurLadyAddon#1-Sheet (2)_16
+  - first:
+      213: -4698182810877206257
+    second: CentaurLadyAddon#1-Sheet (2)_17
+  - first:
+      213: 8208769832196289502
+    second: CentaurLadyAddon#1-Sheet (2)_18
+  - first:
+      213: 2556429436253171770
+    second: CentaurLadyAddon#1-Sheet (2)_19
+  - first:
+      213: -1730363588703620220
+    second: CentaurLadyAddon#1-Sheet (2)_20
+  - first:
+      213: -2793967698551084925
+    second: CentaurLadyAddon#1-Sheet (2)_21
+  - first:
+      213: 3869098068426030434
+    second: CentaurLadyAddon#1-Sheet (2)_22
+  - first:
+      213: 8728130626359320251
+    second: CentaurLadyAddon#1-Sheet (2)_23
+  - first:
+      213: 1064315363267929166
+    second: CentaurLadyAddon#1-Sheet (2)_24
+  - first:
+      213: -6576179341811952302
+    second: CentaurLadyAddon#1-Sheet (2)_25
+  - first:
+      213: 1737908679554162749
+    second: CentaurLadyAddon#1-Sheet (2)_26
+  - first:
+      213: -8792382758137789476
+    second: CentaurLadyAddon#1-Sheet (2)_27
+  - first:
+      213: 1375169392168224926
+    second: CentaurLadyAddon#1-Sheet (2)_28
+  - first:
+      213: 6943004880304254817
+    second: CentaurLadyAddon#1-Sheet (2)_29
+  - first:
+      213: 2073378890739122669
+    second: CentaurLadyAddon#1-Sheet (2)_30
+  - first:
+      213: 3828529272168795345
+    second: CentaurLadyAddon#1-Sheet (2)_31
+  - first:
+      213: 509738035402442475
+    second: CentaurLadyAddon#1-Sheet (2)_32
+  - first:
+      213: 2601384762296666925
+    second: CentaurLadyAddon#1-Sheet (2)_33
+  - first:
+      213: -7663004504986240097
+    second: CentaurLadyAddon#1-Sheet (2)_34
+  - first:
+      213: -6047500519193971952
+    second: CentaurLadyAddon#1-Sheet (2)_35
+  - first:
+      213: 6565517359764668504
+    second: CentaurLadyAddon#1-Sheet (2)_36
+  - first:
+      213: 8558602000385781700
+    second: CentaurLadyAddon#1-Sheet (2)_37
+  - first:
+      213: -4752249430178326046
+    second: CentaurLadyAddon#1-Sheet (2)_38
+  - first:
+      213: -7756548118176407275
+    second: CentaurLadyAddon#1-Sheet (2)_39
+  - first:
+      213: -2544279255510249522
+    second: CentaurLadyAddon#1-Sheet (2)_40
+  - first:
+      213: 814396690625189558
+    second: CentaurLadyAddon#1-Sheet (2)_41
+  - first:
+      213: -8943459053545211019
+    second: CentaurLadyAddon#1-Sheet (2)_42
+  - first:
+      213: -5279217073900670584
+    second: CentaurLadyAddon#1-Sheet (2)_43
+  - first:
+      213: 2182880292406091214
+    second: CentaurLadyAddon#1-Sheet (2)_44
+  - first:
+      213: -476325435270101479
+    second: CentaurLadyAddon#1-Sheet (2)_45
+  - first:
+      213: -536574193198860910
+    second: CentaurLadyAddon#1-Sheet (2)_46
+  - first:
+      213: 5504607876119369449
+    second: CentaurLadyAddon#1-Sheet (2)_47
+  - first:
+      213: -4047542038005135522
+    second: CentaurLadyAddon#1-Sheet (2)_48
+  - first:
+      213: -4856843302285311468
+    second: CentaurLadyAddon#1-Sheet (2)_49
+  - first:
+      213: 1474657091350486705
+    second: CentaurLadyAddon#1-Sheet (2)_50
+  - first:
+      213: -4344347412654262084
+    second: CentaurLadyAddon#1-Sheet (2)_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 384
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83740c5d7436a55a0800000000000000
+      internalID: -6531799149367507144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 384
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8010b0d5c1a3bf50800000000000000
+      internalID: 6896033325416190094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 384
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3826c6366cefb0290800000000000000
+      internalID: -7922958991403228541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_3
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 320
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa2786e81d09e170800000000000000
+      internalID: 8208106196457433762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 320
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0937b3bdcb096770800000000000000
+      internalID: 8604421541179373839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 320
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcc0d3182a6bd6d0800000000000000
+      internalID: -2964659209329652560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 320
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5611bd4301b3e7860800000000000000
+      internalID: 7529520567802335589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_7
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 256
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5501ad6199b45c490800000000000000
+      internalID: -7726686464798748587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 256
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb01999253e3ffc0800000000000000
+      internalID: -3462173744614536230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 256
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1bf651c7e9a6330800000000000000
+      internalID: 3704947899238429118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_10
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 256
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc4d151976401090800000000000000
+      internalID: -8065869446761329447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_11
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 256
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d2eb41639998670800000000000000
+      internalID: 8541526625840147812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_12
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 256
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf8e95ae9e354f90800000000000000
+      internalID: -6970095997181587529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_13
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 256
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772def1f306189940800000000000000
+      internalID: 5303012767429481079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_14
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 256
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03a9263f6313c1c0800000000000000
+      internalID: -4484719435559886070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_15
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 256
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31d045043bcb1640800000000000000
+      internalID: 5051854831313015103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_16
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 256
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604914b7d6b16b330800000000000000
+      internalID: 3726195898728944646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_17
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 256
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0161d320a3bcceb0800000000000000
+      internalID: -4698182810877206257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_18
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 256
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3b003aba86be170800000000000000
+      internalID: 8208769832196289502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_19
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 192
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30f83917034a7320800000000000000
+      internalID: 2556429436253171770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_20
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 192
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483fc03eb738cf7e0800000000000000
+      internalID: -1730363588703620220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_21
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 192
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38862f56e25d939d0800000000000000
+      internalID: -2793967698551084925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_22
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 192
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26dfea1a13cc1b530800000000000000
+      internalID: 3869098068426030434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_23
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 192
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbeda51af8c802970800000000000000
+      internalID: 8728130626359320251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 128
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4463941f2535ce00800000000000000
+      internalID: 1064315363267929166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_25
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 64
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25559001bb7bcb4a0800000000000000
+      internalID: -6576179341811952302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_26
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 128
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30e4e87cba4e1810800000000000000
+      internalID: 1737908679554162749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_27
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 115
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd38deb277e2bf580800000000000000
+      internalID: -8792382758137789476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_28
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 122
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e984d26b645951310800000000000000
+      internalID: 1375169392168224926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_29
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 64
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fa65c27228a5060800000000000000
+      internalID: 6943004880304254817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_30
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 64
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de18c4bad1f16cc10800000000000000
+      internalID: 2073378890739122669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_31
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 64
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc4ecfa61ba12530800000000000000
+      internalID: 3828529272168795345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_32
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 64
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be60ba0ea04f21700800000000000000
+      internalID: 509738035402442475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_33
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 64
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b8ec898a9f91420800000000000000
+      internalID: 2601384762296666925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_34
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 64
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bb318c00a87a590800000000000000
+      internalID: -7663004504986240097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_35
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 64
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013f37e9156f21ca0800000000000000
+      internalID: -6047500519193971952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_36
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8500f6bc0476d1b50800000000000000
+      internalID: 6565517359764668504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_37
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf21f68c2346c670800000000000000
+      internalID: 8558602000385781700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_38
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e91b2e525e9c0eb0800000000000000
+      internalID: -4752249430178326046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_39
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511eedc15943b5490800000000000000
+      internalID: -7756548118176407275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_40
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 0
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf8aed4f77e0bcd0800000000000000
+      internalID: -2544279255510249522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_41
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6d7faa9715d4b00800000000000000
+      internalID: 814396690625189558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_42
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 0
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bbf22106372e380800000000000000
+      internalID: -8943459053545211019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_43
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88139f1ba047cb6b0800000000000000
+      internalID: -5279217073900670584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_44
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 0
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdd0108f062b4e10800000000000000
+      internalID: 2182880292406091214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_45
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 0
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9160e315a80c369f0800000000000000
+      internalID: -476325435270101479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_46
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 0
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2957dba3d94bd88f0800000000000000
+      internalID: -536574193198860910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_47
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 0
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e699ebd2bb446c40800000000000000
+      internalID: 5504607876119369449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_48
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 0
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e574e3316fd34d7c0800000000000000
+      internalID: -4047542038005135522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_49
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 0
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4128c8dcfb6099cb0800000000000000
+      internalID: -4856843302285311468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_50
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 0
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bed47fbfc8077410800000000000000
+      internalID: 1474657091350486705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CentaurLadyAddon#1-Sheet (2)_51
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 0
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8fad7ab07c5b3c0800000000000000
+      internalID: -4344347412654262084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CentaurLadyAddon#1-Sheet (2)_0: -6531799149367507144
+      CentaurLadyAddon#1-Sheet (2)_1: 6896033325416190094
+      CentaurLadyAddon#1-Sheet (2)_10: -8065869446761329447
+      CentaurLadyAddon#1-Sheet (2)_11: 8541526625840147812
+      CentaurLadyAddon#1-Sheet (2)_12: -6970095997181587529
+      CentaurLadyAddon#1-Sheet (2)_13: 5303012767429481079
+      CentaurLadyAddon#1-Sheet (2)_14: -4484719435559886070
+      CentaurLadyAddon#1-Sheet (2)_15: 5051854831313015103
+      CentaurLadyAddon#1-Sheet (2)_16: 3726195898728944646
+      CentaurLadyAddon#1-Sheet (2)_17: -4698182810877206257
+      CentaurLadyAddon#1-Sheet (2)_18: 8208769832196289502
+      CentaurLadyAddon#1-Sheet (2)_19: 2556429436253171770
+      CentaurLadyAddon#1-Sheet (2)_2: -7922958991403228541
+      CentaurLadyAddon#1-Sheet (2)_20: -1730363588703620220
+      CentaurLadyAddon#1-Sheet (2)_21: -2793967698551084925
+      CentaurLadyAddon#1-Sheet (2)_22: 3869098068426030434
+      CentaurLadyAddon#1-Sheet (2)_23: 8728130626359320251
+      CentaurLadyAddon#1-Sheet (2)_24: 1064315363267929166
+      CentaurLadyAddon#1-Sheet (2)_25: -6576179341811952302
+      CentaurLadyAddon#1-Sheet (2)_26: 1737908679554162749
+      CentaurLadyAddon#1-Sheet (2)_27: -8792382758137789476
+      CentaurLadyAddon#1-Sheet (2)_28: 1375169392168224926
+      CentaurLadyAddon#1-Sheet (2)_29: 6943004880304254817
+      CentaurLadyAddon#1-Sheet (2)_3: 8208106196457433762
+      CentaurLadyAddon#1-Sheet (2)_30: 2073378890739122669
+      CentaurLadyAddon#1-Sheet (2)_31: 3828529272168795345
+      CentaurLadyAddon#1-Sheet (2)_32: 509738035402442475
+      CentaurLadyAddon#1-Sheet (2)_33: 2601384762296666925
+      CentaurLadyAddon#1-Sheet (2)_34: -7663004504986240097
+      CentaurLadyAddon#1-Sheet (2)_35: -6047500519193971952
+      CentaurLadyAddon#1-Sheet (2)_36: 6565517359764668504
+      CentaurLadyAddon#1-Sheet (2)_37: 8558602000385781700
+      CentaurLadyAddon#1-Sheet (2)_38: -4752249430178326046
+      CentaurLadyAddon#1-Sheet (2)_39: -7756548118176407275
+      CentaurLadyAddon#1-Sheet (2)_4: 8604421541179373839
+      CentaurLadyAddon#1-Sheet (2)_40: -2544279255510249522
+      CentaurLadyAddon#1-Sheet (2)_41: 814396690625189558
+      CentaurLadyAddon#1-Sheet (2)_42: -8943459053545211019
+      CentaurLadyAddon#1-Sheet (2)_43: -5279217073900670584
+      CentaurLadyAddon#1-Sheet (2)_44: 2182880292406091214
+      CentaurLadyAddon#1-Sheet (2)_45: -476325435270101479
+      CentaurLadyAddon#1-Sheet (2)_46: -536574193198860910
+      CentaurLadyAddon#1-Sheet (2)_47: 5504607876119369449
+      CentaurLadyAddon#1-Sheet (2)_48: -4047542038005135522
+      CentaurLadyAddon#1-Sheet (2)_49: -4856843302285311468
+      CentaurLadyAddon#1-Sheet (2)_5: -2964659209329652560
+      CentaurLadyAddon#1-Sheet (2)_50: 1474657091350486705
+      CentaurLadyAddon#1-Sheet (2)_51: -4344347412654262084
+      CentaurLadyAddon#1-Sheet (2)_6: 7529520567802335589
+      CentaurLadyAddon#1-Sheet (2)_7: -7726686464798748587
+      CentaurLadyAddon#1-Sheet (2)_8: -3462173744614536230
+      CentaurLadyAddon#1-Sheet (2)_9: 3704947899238429118
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

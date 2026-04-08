@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 579fff0ca77a89f43901bc189548051a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5120787571140167342
+    second: Thunder Burst w blur_0
+  - first:
+      213: -4504214439939080029
+    second: Thunder Burst w blur_1
+  - first:
+      213: 1024385844703807320
+    second: Thunder Burst w blur_2
+  - first:
+      213: 7492700182720361659
+    second: Thunder Burst w blur_3
+  - first:
+      213: 4293592059073861913
+    second: Thunder Burst w blur_4
+  - first:
+      213: -79445131399195101
+    second: Thunder Burst w blur_5
+  - first:
+      213: 5307637439529141163
+    second: Thunder Burst w blur_6
+  - first:
+      213: 6151745580289322503
+    second: Thunder Burst w blur_7
+  - first:
+      213: -8769649454730058816
+    second: Thunder Burst w blur_8
+  - first:
+      213: 6339396090849040064
+    second: Thunder Burst w blur_9
+  - first:
+      213: 2923268540289969453
+    second: Thunder Burst w blur_10
+  - first:
+      213: 8454298699243494811
+    second: Thunder Burst w blur_11
+  - first:
+      213: -4806960818626757929
+    second: Thunder Burst w blur_12
+  - first:
+      213: -7962613073817184094
+    second: Thunder Burst w blur_13
+  - first:
+      213: 5398730527366844029
+    second: Thunder Burst w blur_14
+  - first:
+      213: -3203206365147173358
+    second: Thunder Burst w blur_15
+  - first:
+      213: -8315179536786794128
+    second: Thunder Burst w blur_16
+  - first:
+      213: 8539530939345659979
+    second: Thunder Burst w blur_17
+  - first:
+      213: -5690317883906061324
+    second: Thunder Burst w blur_18
+  - first:
+      213: -5064972661509805650
+    second: Thunder Burst w blur_19
+  - first:
+      213: 344123602496123830
+    second: Thunder Burst w blur_20
+  - first:
+      213: -3154920071196164822
+    second: Thunder Burst w blur_21
+  - first:
+      213: -8716915995124641969
+    second: Thunder Burst w blur_22
+  - first:
+      213: -8074902571513333597
+    second: Thunder Burst w blur_23
+  - first:
+      213: 4806164782487685009
+    second: Thunder Burst w blur_24
+  - first:
+      213: -8289090690129716912
+    second: Thunder Burst w blur_25
+  - first:
+      213: -8380372158719410097
+    second: Thunder Burst w blur_26
+  - first:
+      213: -1199231223929776667
+    second: Thunder Burst w blur_27
+  - first:
+      213: -4972396973247025112
+    second: Thunder Burst w blur_28
+  - first:
+      213: 3989296467613770123
+    second: Thunder Burst w blur_29
+  - first:
+      213: 5986617795794512473
+    second: Thunder Burst w blur_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Thunder Burst w blur_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 487
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea68b043a21b01740800000000000000
+      internalID: 5120787571140167342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Burst w blur_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 405
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a00f3bc4d0dd71c0800000000000000
+      internalID: -4504214439939080029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Burst w blur_2
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 444
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85742829f79573e00800000000000000
+      internalID: 1024385844703807320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Burst w blur_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 451
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb43d8f3e1b6bf760800000000000000
+      internalID: 7492700182720361659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Burst w blur_4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 361
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9191983ba37e59b30800000000000000
+      internalID: 4293592059073861913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Burst w blur_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 369
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32611dbe211c5eef0800000000000000
+      internalID: -79445131399195101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Burst w blur_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 361
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3c2b3512488a940800000000000000
+      internalID: 5307637439529141163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Burst w blur_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 356
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e69bd03046f5550800000000000000
+      internalID: 6151745580289322503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Burst w blur_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 355
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3ed16d842fb4680800000000000000
+      internalID: -8769649454730058816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Burst w blur_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 348
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c69e85382f0af750800000000000000
+      internalID: 6339396090849040064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Burst w blur_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 349
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2dee0fcf39819820800000000000000
+      internalID: 2923268540289969453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Burst w blur_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 342
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d9479cfd3b35570800000000000000
+      internalID: 8454298699243494811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Burst w blur_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7daf7849a9e3a4db0800000000000000
+      internalID: -4806960818626757929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Burst w blur_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8de3bd89d1f7190800000000000000
+      internalID: -7962613073817184094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Burst w blur_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 269
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e02c99fc42cea40800000000000000
+      internalID: 5398730527366844029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Burst w blur_15
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 264
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ee12f38cceb83d0800000000000000
+      internalID: -3203206365147173358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Burst w blur_16
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 261
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079d93a544c8a9c80800000000000000
+      internalID: -8315179536786794128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Burst w blur_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48e72c1522828670800000000000000
+      internalID: 8539530939345659979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Burst w blur_18
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 251
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb0abe780ee701b0800000000000000
+      internalID: -5690317883906061324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Burst w blur_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9a4a1233a95b9b0800000000000000
+      internalID: -5064972661509805650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Burst w blur_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3fb9dd79296c400800000000000000
+      internalID: 344123602496123830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Burst w blur_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d3a9529e87734d0800000000000000
+      internalID: -3154920071196164822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Burst w blur_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 113
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fccad261b470780800000000000000
+      internalID: -8716915995124641969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Burst w blur_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a83f05d4ee20ff80800000000000000
+      internalID: -8074902571513333597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Burst w blur_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 80
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197cb20d76de2b240800000000000000
+      internalID: 4806164782487685009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Burst w blur_25
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 85
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05912df4feb37fc80800000000000000
+      internalID: -8289090690129716912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Burst w blur_26
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 80
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40c4f93cefe2bb80800000000000000
+      internalID: -8380372158719410097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Burst w blur_27
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 66
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5db1e3e897b5fe0800000000000000
+      internalID: -1199231223929776667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Burst w blur_28
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 65
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82032673c4f7efab0800000000000000
+      internalID: -4972396973247025112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Burst w blur_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81e6d74004dc5730800000000000000
+      internalID: 3989296467613770123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Burst w blur_30
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 51
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a2d54ba2db41350800000000000000
+      internalID: 5986617795794512473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Thunder Burst w blur_0: 5120787571140167342
+      Thunder Burst w blur_1: -4504214439939080029
+      Thunder Burst w blur_10: 2923268540289969453
+      Thunder Burst w blur_11: 8454298699243494811
+      Thunder Burst w blur_12: -4806960818626757929
+      Thunder Burst w blur_13: -7962613073817184094
+      Thunder Burst w blur_14: 5398730527366844029
+      Thunder Burst w blur_15: -3203206365147173358
+      Thunder Burst w blur_16: -8315179536786794128
+      Thunder Burst w blur_17: 8539530939345659979
+      Thunder Burst w blur_18: -5690317883906061324
+      Thunder Burst w blur_19: -5064972661509805650
+      Thunder Burst w blur_2: 1024385844703807320
+      Thunder Burst w blur_20: 344123602496123830
+      Thunder Burst w blur_21: -3154920071196164822
+      Thunder Burst w blur_22: -8716915995124641969
+      Thunder Burst w blur_23: -8074902571513333597
+      Thunder Burst w blur_24: 4806164782487685009
+      Thunder Burst w blur_25: -8289090690129716912
+      Thunder Burst w blur_26: -8380372158719410097
+      Thunder Burst w blur_27: -1199231223929776667
+      Thunder Burst w blur_28: -4972396973247025112
+      Thunder Burst w blur_29: 3989296467613770123
+      Thunder Burst w blur_3: 7492700182720361659
+      Thunder Burst w blur_30: 5986617795794512473
+      Thunder Burst w blur_4: 4293592059073861913
+      Thunder Burst w blur_5: -79445131399195101
+      Thunder Burst w blur_6: 5307637439529141163
+      Thunder Burst w blur_7: 6151745580289322503
+      Thunder Burst w blur_8: -8769649454730058816
+      Thunder Burst w blur_9: 6339396090849040064
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

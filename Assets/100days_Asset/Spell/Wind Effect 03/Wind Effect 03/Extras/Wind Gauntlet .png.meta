@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: 175a33d62a6083349b1d78ea0582c43d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5348525141879270092
+    second: Wind Gauntlet _0
+  - first:
+      213: 6890349552466327171
+    second: Wind Gauntlet _1
+  - first:
+      213: 2579565052730717824
+    second: Wind Gauntlet _2
+  - first:
+      213: -7526593274037306129
+    second: Wind Gauntlet _3
+  - first:
+      213: 6896068791769899864
+    second: Wind Gauntlet _4
+  - first:
+      213: -8664059563578409001
+    second: Wind Gauntlet _5
+  - first:
+      213: -8423191748114924988
+    second: Wind Gauntlet _6
+  - first:
+      213: 8330399364041174567
+    second: Wind Gauntlet _7
+  - first:
+      213: 2554698223551995029
+    second: Wind Gauntlet _8
+  - first:
+      213: 5976923161049601610
+    second: Wind Gauntlet _9
+  - first:
+      213: 4221952689535599636
+    second: Wind Gauntlet _10
+  - first:
+      213: -7204705939681777864
+    second: Wind Gauntlet _11
+  - first:
+      213: 151529435783422034
+    second: Wind Gauntlet _12
+  - first:
+      213: -7699722583282271757
+    second: Wind Gauntlet _13
+  - first:
+      213: -1728409725239795480
+    second: Wind Gauntlet _14
+  - first:
+      213: -7968494014331887862
+    second: Wind Gauntlet _15
+  - first:
+      213: -4647787419547292760
+    second: Wind Gauntlet _16
+  - first:
+      213: -6319910004569488571
+    second: Wind Gauntlet _17
+  - first:
+      213: -7359012422964652270
+    second: Wind Gauntlet _18
+  - first:
+      213: 301197042897414696
+    second: Wind Gauntlet _19
+  - first:
+      213: -6461789107474780189
+    second: Wind Gauntlet _20
+  - first:
+      213: -1226273618885942947
+    second: Wind Gauntlet _21
+  - first:
+      213: 7262812544031770814
+    second: Wind Gauntlet _22
+  - first:
+      213: -7064393254438712116
+    second: Wind Gauntlet _23
+  - first:
+      213: 8179519352073704672
+    second: Wind Gauntlet _24
+  - first:
+      213: 4159412822277070602
+    second: Wind Gauntlet _25
+  - first:
+      213: -1728538426138642399
+    second: Wind Gauntlet _26
+  - first:
+      213: 811541767229974325
+    second: Wind Gauntlet _27
+  - first:
+      213: 7775743466818095131
+    second: Wind Gauntlet _28
+  - first:
+      213: 7827726642745244562
+    second: Wind Gauntlet _29
+  - first:
+      213: -5884253433580143556
+    second: Wind Gauntlet _30
+  - first:
+      213: -7794249813006125901
+    second: Wind Gauntlet _31
+  - first:
+      213: 1896569901545698097
+    second: Wind Gauntlet _32
+  - first:
+      213: 8752943902209676135
+    second: Wind Gauntlet _33
+  - first:
+      213: -7896549473566965117
+    second: Wind Gauntlet _34
+  - first:
+      213: 2787088528876581083
+    second: Wind Gauntlet _35
+  - first:
+      213: 3866871951840498133
+    second: Wind Gauntlet _36
+  - first:
+      213: 3065477875581115394
+    second: Wind Gauntlet _37
+  - first:
+      213: 4878753304488505655
+    second: Wind Gauntlet _38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wind Gauntlet _0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 39
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccaa5f16747c93a40800000000000000
+      internalID: 5348525141879270092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind Gauntlet _1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 39
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386f60d49607f9f50800000000000000
+      internalID: 6890349552466327171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind Gauntlet _2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 36
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086b6039fb47cc320800000000000000
+      internalID: 2579565052730717824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind Gauntlet _3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 37
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec792c7b4b2c8790800000000000000
+      internalID: -7526593274037306129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind Gauntlet _4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 37
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8532a187702c3bf50800000000000000
+      internalID: 6896068791769899864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind Gauntlet _5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 36
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df35182bb313c780800000000000000
+      internalID: -8664059563578409001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind Gauntlet _6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 35
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44abb9aabbfca1b80800000000000000
+      internalID: -8423191748114924988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind Gauntlet _7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 35
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e60d2d5168b9370800000000000000
+      internalID: 8330399364041174567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind Gauntlet _8
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 36
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c532bbf7c147320800000000000000
+      internalID: 2554698223551995029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind Gauntlet _9
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 37
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a469a28a2fb42f250800000000000000
+      internalID: 5976923161049601610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind Gauntlet _10
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 37
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414464e2a93679a30800000000000000
+      internalID: 4221952689535599636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind Gauntlet _11
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 38
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837ee1abe1eb30c90800000000000000
+      internalID: -7204705939681777864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind Gauntlet _12
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 39
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250e2e018375a1200800000000000000
+      internalID: 151529435783422034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind Gauntlet _13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 7
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9386afa17152590800000000000000
+      internalID: -7699722583282271757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind Gauntlet _14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 4
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e060cc23847308e0800000000000000
+      internalID: -1728409725239795480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind Gauntlet _15
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 6
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fdbe0b9e83a6190800000000000000
+      internalID: -7968494014331887862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind Gauntlet _16
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 6
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abaa5a87fdbf7fb0800000000000000
+      internalID: -4647787419547292760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind Gauntlet _17
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 7
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543c23dc55b2b48a0800000000000000
+      internalID: -6319910004569488571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind Gauntlet _18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 7
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2175187e0398fd990800000000000000
+      internalID: -7359012422964652270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind Gauntlet _19
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 10
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a6c4d5d111e2400800000000000000
+      internalID: 301197042897414696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind Gauntlet _20
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 6
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef2a73fa0d1356a0800000000000000
+      internalID: -6461789107474780189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind Gauntlet _21
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 9
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51eed404a66bfee0800000000000000
+      internalID: -1226273618885942947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind Gauntlet _22
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 6
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8c34d5781bac460800000000000000
+      internalID: 7262812544031770814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind Gauntlet _23
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 8
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cccc38b83cb36fd90800000000000000
+      internalID: -7064393254438712116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind Gauntlet _24
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 13
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e459c5838d738170800000000000000
+      internalID: 8179519352073704672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind Gauntlet _25
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 13
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f9702ace339b930800000000000000
+      internalID: 4159412822277070602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind Gauntlet _26
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 13
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128b469a57ff208e0800000000000000
+      internalID: -1728538426138642399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind Gauntlet _27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 7
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537a22400fc234b00800000000000000
+      internalID: 811541767229974325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind Gauntlet _28
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 5
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18c1444c7df8eb60800000000000000
+      internalID: 7775743466818095131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind Gauntlet _29
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bf0b398eba1ac60800000000000000
+      internalID: 7827726642745244562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind Gauntlet _30
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 9
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c3513adaee65ea0800000000000000
+      internalID: -5884253433580143556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind Gauntlet _31
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 13
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b47d1d371345d390800000000000000
+      internalID: -7794249813006125901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind Gauntlet _32
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 13
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1333459e648f15a10800000000000000
+      internalID: 1896569901545698097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind Gauntlet _33
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 12
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763112e9a14b87970800000000000000
+      internalID: 8752943902209676135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind Gauntlet _34
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3824ebc6712d96290800000000000000
+      internalID: -7896549473566965117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind Gauntlet _35
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 8
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd03149104abda620800000000000000
+      internalID: 2787088528876581083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind Gauntlet _36
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 7
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1df597d83e9a530800000000000000
+      internalID: 3866871951840498133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind Gauntlet _37
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 6
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20cd4d0e2e3ca8a20800000000000000
+      internalID: 3065477875581115394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind Gauntlet _38
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 7
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731fccc1840d4b340800000000000000
+      internalID: 4878753304488505655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Wind Gauntlet _0: 5348525141879270092
+      Wind Gauntlet _1: 6890349552466327171
+      Wind Gauntlet _10: 4221952689535599636
+      Wind Gauntlet _11: -7204705939681777864
+      Wind Gauntlet _12: 151529435783422034
+      Wind Gauntlet _13: -7699722583282271757
+      Wind Gauntlet _14: -1728409725239795480
+      Wind Gauntlet _15: -7968494014331887862
+      Wind Gauntlet _16: -4647787419547292760
+      Wind Gauntlet _17: -6319910004569488571
+      Wind Gauntlet _18: -7359012422964652270
+      Wind Gauntlet _19: 301197042897414696
+      Wind Gauntlet _2: 2579565052730717824
+      Wind Gauntlet _20: -6461789107474780189
+      Wind Gauntlet _21: -1226273618885942947
+      Wind Gauntlet _22: 7262812544031770814
+      Wind Gauntlet _23: -7064393254438712116
+      Wind Gauntlet _24: 8179519352073704672
+      Wind Gauntlet _25: 4159412822277070602
+      Wind Gauntlet _26: -1728538426138642399
+      Wind Gauntlet _27: 811541767229974325
+      Wind Gauntlet _28: 7775743466818095131
+      Wind Gauntlet _29: 7827726642745244562
+      Wind Gauntlet _3: -7526593274037306129
+      Wind Gauntlet _30: -5884253433580143556
+      Wind Gauntlet _31: -7794249813006125901
+      Wind Gauntlet _32: 1896569901545698097
+      Wind Gauntlet _33: 8752943902209676135
+      Wind Gauntlet _34: -7896549473566965117
+      Wind Gauntlet _35: 2787088528876581083
+      Wind Gauntlet _36: 3866871951840498133
+      Wind Gauntlet _37: 3065477875581115394
+      Wind Gauntlet _38: 4878753304488505655
+      Wind Gauntlet _4: 6896068791769899864
+      Wind Gauntlet _5: -8664059563578409001
+      Wind Gauntlet _6: -8423191748114924988
+      Wind Gauntlet _7: 8330399364041174567
+      Wind Gauntlet _8: 2554698223551995029
+      Wind Gauntlet _9: 5976923161049601610
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

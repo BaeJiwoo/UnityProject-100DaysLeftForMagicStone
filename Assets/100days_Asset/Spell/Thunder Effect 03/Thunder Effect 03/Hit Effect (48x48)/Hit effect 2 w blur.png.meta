@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 96279f39c3628d64a825df8fd0bed887
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -850912367561993302
+    second: Hit effect 2 w blur_0
+  - first:
+      213: -4178265867240284952
+    second: Hit effect 2 w blur_1
+  - first:
+      213: -2378530642515426488
+    second: Hit effect 2 w blur_2
+  - first:
+      213: -8026537603627621476
+    second: Hit effect 2 w blur_3
+  - first:
+      213: -6232707216242436103
+    second: Hit effect 2 w blur_4
+  - first:
+      213: -126874398545075852
+    second: Hit effect 2 w blur_5
+  - first:
+      213: 3635037934764449102
+    second: Hit effect 2 w blur_6
+  - first:
+      213: -3797745623916754205
+    second: Hit effect 2 w blur_7
+  - first:
+      213: 7069357895710586716
+    second: Hit effect 2 w blur_8
+  - first:
+      213: 579959205625006736
+    second: Hit effect 2 w blur_9
+  - first:
+      213: 1779498839215829217
+    second: Hit effect 2 w blur_10
+  - first:
+      213: -7929351817046664979
+    second: Hit effect 2 w blur_11
+  - first:
+      213: -9038630887095015758
+    second: Hit effect 2 w blur_12
+  - first:
+      213: 6028243593332469967
+    second: Hit effect 2 w blur_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hit effect 2 w blur_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 14
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa31b74c5b3f034f0800000000000000
+      internalID: -850912367561993302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit effect 2 w blur_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecd006c451d306c0800000000000000
+      internalID: -4178265867240284952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit effect 2 w blur_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8438c7d8bf2cdfed0800000000000000
+      internalID: -2378530642515426488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit effect 2 w blur_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 24
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93e57f63920c9090800000000000000
+      internalID: -8026537603627621476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit effect 2 w blur_4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 35
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f71bd22fc9f089a0800000000000000
+      internalID: -6232707216242436103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit effect 2 w blur_5
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 27
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47121af18604d3ef0800000000000000
+      internalID: -126874398545075852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit effect 2 w blur_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 24
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d54be0ebf327230800000000000000
+      internalID: 3635037934764449102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit effect 2 w blur_7
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 17
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eac523f972bb4bc0800000000000000
+      internalID: -3797745623916754205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit effect 2 w blur_8
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 11
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57bee31d876b1260800000000000000
+      internalID: 7069357895710586716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit effect 2 w blur_9
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 5
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a0f7323dd6c0800800000000000000
+      internalID: 579959205625006736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit effect 2 w blur_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 4
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0fdad14cc02b810800000000000000
+      internalID: 1779498839215829217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit effect 2 w blur_11
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8d5dda88845f190800000000000000
+      internalID: -7929351817046664979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit effect 2 w blur_12
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 0
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6e3dec815509280800000000000000
+      internalID: -9038630887095015758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit effect 2 w blur_13
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 13
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc03b10fb9f98a350800000000000000
+      internalID: 6028243593332469967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hit effect 2 w blur_0: -850912367561993302
+      Hit effect 2 w blur_1: -4178265867240284952
+      Hit effect 2 w blur_10: 1779498839215829217
+      Hit effect 2 w blur_11: -7929351817046664979
+      Hit effect 2 w blur_12: -9038630887095015758
+      Hit effect 2 w blur_13: 6028243593332469967
+      Hit effect 2 w blur_2: -2378530642515426488
+      Hit effect 2 w blur_3: -8026537603627621476
+      Hit effect 2 w blur_4: -6232707216242436103
+      Hit effect 2 w blur_5: -126874398545075852
+      Hit effect 2 w blur_6: 3635037934764449102
+      Hit effect 2 w blur_7: -3797745623916754205
+      Hit effect 2 w blur_8: 7069357895710586716
+      Hit effect 2 w blur_9: 579959205625006736
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

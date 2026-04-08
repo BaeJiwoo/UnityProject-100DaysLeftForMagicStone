@@ -51,3 +51,7 @@ MonoBehaviour:
   playerMaxSpeed: 8
   playerMaxMana: 100
   playerManaRegenRate: 15
+  mercenaryDatabase:
+  - {fileID: 11400000, guid: 47e49bac83571594b92555612357c36a, type: 2}
+  - {fileID: 11400000, guid: 3128ffb1bc2f638479ef4f650f25b131, type: 2}
+  mercenarySaveList: []

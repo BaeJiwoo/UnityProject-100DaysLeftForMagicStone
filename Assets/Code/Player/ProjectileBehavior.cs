@@ -147,4 +147,15 @@ public class ProjectileBehavior : MonoBehaviour
         if (_pool != null) _pool.Release(gameObject);
         else Destroy(gameObject);
     }
+
+    // [추가] 플레이어가 총알을 쏠 때, 업그레이드된 스탯을 주입하는 함수
+    // ==========================================
+    public void SetupWeaponStats(float upgradedDamage, float upgradedSpeed, float upgradedFireDelay, float upgradedManaCost, int upgradedPierce)
+    {
+        this.damage = upgradedDamage;
+        this.speed = upgradedSpeed;
+        this.fireDelay = upgradedFireDelay;
+        this.manaCost = upgradedManaCost;
+        this.maxPierceCount = upgradedPierce;
+    }
 }

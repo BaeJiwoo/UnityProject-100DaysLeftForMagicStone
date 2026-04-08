@@ -6,7 +6,270 @@ using UnityEngine.Pool;
 
 public class PlayerAttack : MonoBehaviour
 {
+    // [변경] DataManager에서 받아온 업그레이드 스탯을 저장할 수 있도록 필드 대폭 추가
     [System.Serializable]
+    public class Weapon
+    {
+        public string name;
+        public GameObject prefab;
+        public Sprite icon; // UI에 띄울 아이콘
+
+        [HideInInspector] public IObjectPool<GameObject> pool;
+
+        // 런타임에 계산되어 캐싱될 업그레이드 스탯들
+        [HideInInspector] public float cachedDamage;
+        [HideInInspector] public float cachedSpeed;
+        [HideInInspector] public float cachedManaCost;
+        [HideInInspector] public float cachedFireDelay;
+        [HideInInspector] public int cachedPierceCount;
+
+        // 탄퍼짐 및 조준 관련
+        [HideInInspector] public float cachedAimRatio;
+        [HideInInspector] public float cachedSpreadHip;
+        [HideInInspector] public float cachedSpreadAim;
+    }
+
+    [Header("설정")]
+    // 이제 인스펙터에서 넣지 않고, 게임 시작 시 코드로 자동 채워집니다.
+    public List<Weapon> weapons = new List<Weapon>();
+    public Transform firePoint;
+    public CinemachineCamera aimCamera;
+    public PlayerController moveController;
+
+    [Header("조준 카메라 설정")]
+    public Transform cameraTarget;
+    public float aimZoomSize = 5f;
+    public float normalZoomSize = 7f;
+    public float panDistance = 3f;
+    public float zoomSpeed = 5f;
+
+    [Header("무기 시각 효과")]
+    public SpriteRenderer weaponRenderer;
+    public float fadeOutSpeed = 5f;
+    public float blinkSpeed = 20f;
+
+    public int currentWeaponIndex = 0;
+    private ManaSystem manaSystem;
+    private Camera _mainCamera;
+    private Animator anim;
+
+    private bool _isFiring = false;
+    private bool _isAiming = false;
+    public float _lastFireTime = 0f;
+
+    void Awake()
+    {
+        manaSystem = GetComponent<ManaSystem>();
+        _mainCamera = Camera.main;
+        anim = GetComponent<Animator>();
+
+        if (moveController == null) moveController = GetComponent<PlayerController>();
+        if (cameraTarget == null) cameraTarget = transform;
+    }
+
+    // [핵심 변경] Awake 대신 Start를 사용하여 DataManager가 먼저 세팅될 시간을 줍니다.
+    void Start()
+    {
+        LoadEquippedWeapons();
+    }
+
+    // DataManager에서 장착된 무기만 쏙쏙 뽑아와서 세팅하는 함수
+    void LoadEquippedWeapons()
+    {
+        weapons.Clear();
+
+        // 1. DataManager의 세이브 데이터 중 '장착된' 무기만 찾습니다.
+        foreach (var saveData in DataManager.Instance.weaponSaveList)
+        {
+            if (saveData.isEquipped && saveData.isUnlocked)
+            {
+                // 2. 도감(Database)에서 무기 원본 정보를 가져옵니다.
+                WeaponInfo info = DataManager.Instance.weaponDatabase.Find(x => x.weaponID == saveData.weaponID);
+
+                if (info != null)
+                {
+                    Weapon newWeapon = new Weapon();
+                    newWeapon.name = info.weaponName;
+                    newWeapon.prefab = info.projectilePrefab;
+                    newWeapon.icon = info.weaponIcon; // 도감의 아이콘을 무기에 쥐어줌
+
+                    // 3. 레벨에 따른 스탯 계산 및 캐싱
+                    int levelMultiplier = saveData.level - 1;
+
+                    // [플러스(+) 성장치 계산] 데미지, 탄속은 레벨에 비례해 더해줍니다.
+                    newWeapon.cachedDamage = info.baseDamage + (levelMultiplier * info.damageGrowth);
+                    newWeapon.cachedSpeed = info.baseSpeed + (levelMultiplier * info.speedGrowth);
+
+                    // [마이너스(-) 성장치 계산] 딜레이, 마나, 탄퍼짐은 줄어들어야 하므로 빼줍니다.
+                    // Mathf.Max를 사용하여 설정한 한계치 밑으로 떨어져 버그가 생기는 것을 방지합니다.
+                    newWeapon.cachedFireDelay = Mathf.Max(info.baseFireDelay - (levelMultiplier * info.fireDelayReduction), info.minFireDelay);
+                    newWeapon.cachedManaCost = Mathf.Max(info.baseManaCost - (levelMultiplier * info.manaCostReduction), info.minManaCost);
+
+                    newWeapon.cachedSpreadHip = Mathf.Max(info.baseSpreadAngleHip - (levelMultiplier * info.spreadReduction), info.minSpreadAngle);
+                    newWeapon.cachedSpreadAim = Mathf.Max(info.baseSpreadAngleAim - (levelMultiplier * info.spreadReduction), info.minSpreadAngle);
+
+                    // 성장하지 않는 고정값들 
+                    newWeapon.cachedPierceCount = info.basePierceCount;
+                    newWeapon.cachedAimRatio = info.baseAimSlowdownRatio;
+
+                    // 4. 오브젝트 풀링 세팅
+                    newWeapon.pool = new ObjectPool<GameObject>(
+                        createFunc: () =>
+                        {
+                            GameObject obj = Instantiate(newWeapon.prefab);
+                            obj.GetComponent<ProjectileBehavior>().SetPool(newWeapon.pool);
+                            return obj;
+                        },
+                        actionOnGet: (obj) =>
+                        {
+                            obj.SetActive(true);
+                            obj.transform.position = firePoint != null ? firePoint.position : transform.position;
+                        },
+                        actionOnRelease: (obj) => obj.SetActive(false),
+                        actionOnDestroy: (obj) => Destroy(obj),
+                        defaultCapacity: 10, maxSize: 50
+                    );
+
+                    weapons.Add(newWeapon);
+                }
+            }
+        }
+
+        // 장착한 무기가 하나도 없을 경우의 예외 처리
+        if (weapons.Count == 0)
+        {
+            Debug.LogWarning("장착된 무기가 없습니다! 기본 무기를 확인하세요.");
+        }
+    }
+
+        
+
+    void Update()
+    {
+        if (weapons.Count == 0) return; // 무기가 없으면 아무것도 안 함
+
+        HandleWeaponVisibility();
+        HandleCameraZoomAndPan();
+        HandleWeaponSpecs();
+        HandleFiring();
+    }
+
+    void HandleWeaponVisibility()
+    {
+        if (weaponRenderer == null) return;
+
+        Color color = weaponRenderer.color;
+
+        if (_isFiring)
+        {
+            Weapon currentWeapon = weapons[currentWeaponIndex];
+            if (manaSystem.currentMana >= currentWeapon.cachedManaCost) color.a = 1f;
+            else color.a = 0.65f + 0.35f * Mathf.Sin(Time.time * blinkSpeed);
+        }
+        else
+        {
+            color.a = Mathf.Lerp(color.a, 0f, Time.deltaTime * fadeOutSpeed);
+        }
+
+        weaponRenderer.color = color;
+    }
+
+    void HandleCameraZoomAndPan()
+    {
+        if (aimCamera == null) return;
+
+        float targetSize = normalZoomSize;
+        Vector3 targetLocalPos = Vector3.zero;
+
+        if (_isAiming)
+        {
+            targetSize = aimZoomSize;
+            Vector3 mousePos = _mainCamera.ScreenToWorldPoint(Mouse.current.position.ReadValue());
+            mousePos.z = 0;
+            Vector3 direction = (mousePos - transform.position);
+            targetLocalPos = Vector3.ClampMagnitude(direction, panDistance);
+        }
+
+        aimCamera.Lens.OrthographicSize = Mathf.Lerp(aimCamera.Lens.OrthographicSize, targetSize, Time.deltaTime * zoomSpeed);
+
+        if (cameraTarget != transform)
+        {
+            cameraTarget.localPosition = Vector3.Lerp(cameraTarget.localPosition, targetLocalPos, Time.deltaTime * zoomSpeed);
+        }
+    }
+
+    void HandleWeaponSpecs()
+    {
+        if (moveController != null && weapons.Count > 0)
+        {
+            float ratio = _isAiming ? weapons[currentWeaponIndex].cachedAimRatio : 1f;
+            moveController.currentAimRatio = ratio;
+            moveController.isAiming = _isAiming;
+        }
+    }
+
+    void HandleFiring()
+    {
+        _isFiring = Mouse.current.leftButton.isPressed;
+        _isAiming = Mouse.current.rightButton.isPressed;
+
+        if (anim != null) anim.SetBool("isAttacking", _isFiring);
+        if (moveController != null) moveController.isAttacking = _isFiring;
+
+        if (_isFiring)
+        {
+            Weapon currentWeapon = weapons[currentWeaponIndex];
+            if (Time.time >= _lastFireTime + currentWeapon.cachedFireDelay)
+            {
+                TryShoot(currentWeapon);
+                _lastFireTime = Time.time;
+            }
+        }
+    }
+
+    void OnSwitchWeapon(InputValue value)
+    {
+        if (weapons.Count <= 1) return; // 무기가 1개 이하면 교체 안 함
+
+        float scrollY = value.Get<Vector2>().y;
+        if (scrollY > 0) currentWeaponIndex = (currentWeaponIndex + 1) % weapons.Count;
+        else if (scrollY < 0) currentWeaponIndex = (currentWeaponIndex - 1 + weapons.Count) % weapons.Count;
+
+        Debug.Log($"무기 변경: {weapons[currentWeaponIndex].name}");
+    }
+
+    void TryShoot(Weapon weapon)
+    {
+        if (manaSystem.UseMana(weapon.cachedManaCost))
+        {
+            Vector2 baseDir = firePoint != null ? firePoint.right : transform.right;
+
+            float selectedSpread = _isAiming ? weapon.cachedSpreadAim : weapon.cachedSpreadHip;
+            float randomAngle = Random.Range(-selectedSpread / 2f, selectedSpread / 2f);
+            Vector2 finalDirection = Quaternion.Euler(0, 0, randomAngle) * baseDir;
+
+            GameObject bullet = weapon.pool.Get();
+            bullet.transform.position = firePoint != null ? firePoint.position : transform.position;
+
+            ProjectileBehavior projectile = bullet.GetComponent<ProjectileBehavior>();
+
+            // [핵심 변경] 발사 직전! DataManager에서 계산해둔 업그레이드 스탯을 주입합니다.
+            if (projectile != null)
+            {
+                projectile.SetupWeaponStats(
+                    weapon.cachedDamage,
+                    weapon.cachedSpeed,
+                    weapon.cachedFireDelay,
+                    weapon.cachedManaCost,
+                    weapon.cachedPierceCount
+                );
+
+                projectile.Launch(finalDirection);
+            }
+        }
+    }
+}
+    /*[System.Serializable]
     public class Weapon
     {
         public string name;
@@ -229,5 +492,5 @@ public class PlayerAttack : MonoBehaviour
             bullet.transform.position = firePoint != null ? firePoint.position : transform.position;
             bullet.GetComponent<ProjectileBehavior>().Launch(finalDirection);
         }
-    }
-}
+    }*/
+

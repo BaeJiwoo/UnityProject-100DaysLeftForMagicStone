@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: 028ec7a26d4aa8d428fd07efa4c38822
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3326631290532754798
+    second: Water Beam_0
+  - first:
+      213: -3073366872448750692
+    second: Water Beam_1
+  - first:
+      213: 7652369624029386894
+    second: Water Beam_2
+  - first:
+      213: -8367627578251203583
+    second: Water Beam_3
+  - first:
+      213: -2232160345546421011
+    second: Water Beam_4
+  - first:
+      213: 4270331858000682298
+    second: Water Beam_5
+  - first:
+      213: -2143826022774216681
+    second: Water Beam_6
+  - first:
+      213: -4739304544825885251
+    second: Water Beam_7
+  - first:
+      213: 2474428054610870312
+    second: Water Beam_8
+  - first:
+      213: 2021204472923876034
+    second: Water Beam_9
+  - first:
+      213: 2931657521319315101
+    second: Water Beam_10
+  - first:
+      213: 1563894562786055958
+    second: Water Beam_11
+  - first:
+      213: -7738281184752381038
+    second: Water Beam_12
+  - first:
+      213: -1241771323144598146
+    second: Water Beam_13
+  - first:
+      213: -3487634863211198099
+    second: Water Beam_14
+  - first:
+      213: 710935625867634517
+    second: Water Beam_15
+  - first:
+      213: -3277675579504327184
+    second: Water Beam_16
+  - first:
+      213: 8204383958605341013
+    second: Water Beam_17
+  - first:
+      213: -3879340930942085900
+    second: Water Beam_18
+  - first:
+      213: -6438015761160782995
+    second: Water Beam_19
+  - first:
+      213: -1987445032876932885
+    second: Water Beam_20
+  - first:
+      213: -5572449879257081018
+    second: Water Beam_21
+  - first:
+      213: -5710687668619686274
+    second: Water Beam_22
+  - first:
+      213: 133444444602247984
+    second: Water Beam_23
+  - first:
+      213: -3507605004859238480
+    second: Water Beam_24
+  - first:
+      213: 9008221434980093838
+    second: Water Beam_25
+  - first:
+      213: -1044243538120694720
+    second: Water Beam_26
+  - first:
+      213: -4306339337544554613
+    second: Water Beam_27
+  - first:
+      213: 2125195593225069507
+    second: Water Beam_28
+  - first:
+      213: 3243872253483465106
+    second: Water Beam_29
+  - first:
+      213: -7785496273490110923
+    second: Water Beam_30
+  - first:
+      213: -4394736460502190119
+    second: Water Beam_31
+  - first:
+      213: 5632435344341445503
+    second: Water Beam_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Water Beam_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 212
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a881d677e65d1d0800000000000000
+      internalID: -3326631290532754798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Beam_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 206
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b2d37ec153955d0800000000000000
+      internalID: -3073366872448750692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Beam_2
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 196
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88d24a01ada23a60800000000000000
+      internalID: 7652369624029386894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Beam_3
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 196
+        width: 77
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c23991d0730eb80800000000000000
+      internalID: -8367627578251203583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Beam_4
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 196
+        width: 76
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec0ef10ef5c501e0800000000000000
+      internalID: -2232160345546421011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Beam_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 147
+        width: 77
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d1a2d1334434b30800000000000000
+      internalID: 4270331858000682298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Beam_6
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 150
+        width: 77
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718ed4c37999f32e0800000000000000
+      internalID: -2143826022774216681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Beam_7
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 152
+        width: 77
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd324b50ab9a3eb0800000000000000
+      internalID: -4739304544825885251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Beam_8
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 175
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8208751a43fe65220800000000000000
+      internalID: 2474428054610870312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Beam_9
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 151
+        width: 77
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2caee0362c2cc0c10800000000000000
+      internalID: 2021204472923876034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Beam_10
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 150
+        width: 76
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d960759abf65fa820800000000000000
+      internalID: 2931657521319315101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Beam_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 101
+        width: 77
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6171709a1d114b510800000000000000
+      internalID: 1563894562786055958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Beam_12
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 99
+        width: 77
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293debaf24a1c9490800000000000000
+      internalID: -7738281184752381038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Beam_13
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 100
+        width: 76
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d03bf8f8754cee0800000000000000
+      internalID: -1241771323144598146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Beam_14
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 99
+        width: 76
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d694708f19e699fc0800000000000000
+      internalID: -3487634863211198099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Beam_15
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 104
+        width: 76
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557a20e5f20cdd900800000000000000
+      internalID: 710935625867634517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Beam_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 55
+        width: 77
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f50ca22d6b5382d0800000000000000
+      internalID: -3277675579504327184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Beam_17
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551a59dddb3dbd170800000000000000
+      internalID: 8204383958605341013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Beam_18
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 55
+        width: 77
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f450981affc92ac0800000000000000
+      internalID: -3879340930942085900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Beam_19
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b35a976c297a6a0800000000000000
+      internalID: -6438015761160782995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Beam_20
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 53
+        width: 77
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be081c4c54d2b64e0800000000000000
+      internalID: -1987445032876932885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Beam_21
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 21
+        width: 77
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b9632eb5eaaa2b0800000000000000
+      internalID: -5572449879257081018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Beam_22
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 12
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e48b862df8fb0b0800000000000000
+      internalID: -5710687668619686274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Beam_23
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3
+        width: 77
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b24cde3071ad100800000000000000
+      internalID: 133444444602247984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Beam_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 30
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b79bf805db725fc0800000000000000
+      internalID: -3507605004859238480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Beam_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 3
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f4c02eaa1a30d70800000000000000
+      internalID: 9008221434980093838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Beam_26
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 16
+        width: 73
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044a153e80a1281f0800000000000000
+      internalID: -1044243538120694720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Beam_27
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 21
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87ad5f303fcc34c0800000000000000
+      internalID: -4306339337544554613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Beam_28
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 11
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3e76cd1263e7d10800000000000000
+      internalID: 2125195593225069507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Beam_29
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 21
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299b0a5b0ac840d20800000000000000
+      internalID: 3243872253483465106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Beam_30
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 16
+        width: 53
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5369e7a736c54f390800000000000000
+      internalID: -7785496273490110923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Beam_31
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 20
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d73f463972c203c0800000000000000
+      internalID: -4394736460502190119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Beam_32
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 12
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ba3df8a1e6a2e40800000000000000
+      internalID: 5632435344341445503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Water Beam_0: -3326631290532754798
+      Water Beam_1: -3073366872448750692
+      Water Beam_10: 2931657521319315101
+      Water Beam_11: 1563894562786055958
+      Water Beam_12: -7738281184752381038
+      Water Beam_13: -1241771323144598146
+      Water Beam_14: -3487634863211198099
+      Water Beam_15: 710935625867634517
+      Water Beam_16: -3277675579504327184
+      Water Beam_17: 8204383958605341013
+      Water Beam_18: -3879340930942085900
+      Water Beam_19: -6438015761160782995
+      Water Beam_2: 7652369624029386894
+      Water Beam_20: -1987445032876932885
+      Water Beam_21: -5572449879257081018
+      Water Beam_22: -5710687668619686274
+      Water Beam_23: 133444444602247984
+      Water Beam_24: -3507605004859238480
+      Water Beam_25: 9008221434980093838
+      Water Beam_26: -1044243538120694720
+      Water Beam_27: -4306339337544554613
+      Water Beam_28: 2125195593225069507
+      Water Beam_29: 3243872253483465106
+      Water Beam_3: -8367627578251203583
+      Water Beam_30: -7785496273490110923
+      Water Beam_31: -4394736460502190119
+      Water Beam_32: 5632435344341445503
+      Water Beam_4: -2232160345546421011
+      Water Beam_5: 4270331858000682298
+      Water Beam_6: -2143826022774216681
+      Water Beam_7: -4739304544825885251
+      Water Beam_8: 2474428054610870312
+      Water Beam_9: 2021204472923876034
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

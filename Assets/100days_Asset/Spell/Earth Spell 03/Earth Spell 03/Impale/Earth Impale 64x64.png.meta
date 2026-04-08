@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 1d2974d7339b0da4ba9b86a8fbc40c21
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1883492910633361381
+    second: Earth Impale 64x64_0
+  - first:
+      213: -5911020008099041414
+    second: Earth Impale 64x64_1
+  - first:
+      213: -1181245117773307880
+    second: Earth Impale 64x64_2
+  - first:
+      213: 6656783276097746723
+    second: Earth Impale 64x64_3
+  - first:
+      213: -1412003480619626533
+    second: Earth Impale 64x64_4
+  - first:
+      213: 2233431532434832547
+    second: Earth Impale 64x64_5
+  - first:
+      213: -8567612001459861776
+    second: Earth Impale 64x64_6
+  - first:
+      213: -1372000505527762107
+    second: Earth Impale 64x64_7
+  - first:
+      213: -3878034071116691735
+    second: Earth Impale 64x64_8
+  - first:
+      213: -4650108693967063223
+    second: Earth Impale 64x64_9
+  - first:
+      213: 7926653975504235665
+    second: Earth Impale 64x64_10
+  - first:
+      213: 7628196938850115587
+    second: Earth Impale 64x64_11
+  - first:
+      213: -4083327583162298277
+    second: Earth Impale 64x64_12
+  - first:
+      213: 2155282552897916009
+    second: Earth Impale 64x64_13
+  - first:
+      213: 3151270614106198945
+    second: Earth Impale 64x64_14
+  - first:
+      213: 3766067089313323987
+    second: Earth Impale 64x64_15
+  - first:
+      213: -1106546571741205623
+    second: Earth Impale 64x64_16
+  - first:
+      213: -5455093210303148929
+    second: Earth Impale 64x64_17
+  - first:
+      213: -1258212630880267483
+    second: Earth Impale 64x64_18
+  - first:
+      213: 7426463512000501355
+    second: Earth Impale 64x64_19
+  - first:
+      213: 3154272560707090001
+    second: Earth Impale 64x64_20
+  - first:
+      213: -1311268601159529059
+    second: Earth Impale 64x64_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Earth Impale 64x64_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 197
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b106bbc4d2d7cd5e0800000000000000
+      internalID: -1883492910633361381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Impale 64x64_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 207
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fa70dde96d7fda0800000000000000
+      internalID: -5911020008099041414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Impale 64x64_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 205
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810257ae2df5b9fe0800000000000000
+      internalID: -1181245117773307880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Impale 64x64_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 197
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3273196de15a16c50800000000000000
+      internalID: 6656783276097746723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Impale 64x64_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 201
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf4d04c05e876ce0800000000000000
+      internalID: -1412003480619626533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Impale 64x64_5
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 197
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac3fe0452ebefe10800000000000000
+      internalID: 2233431532434832547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Impale 64x64_6
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 204
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f68c9f174ab91980800000000000000
+      internalID: -8567612001459861776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Impale 64x64_7
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 197
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5438c543fcca5fce0800000000000000
+      internalID: -1372000505527762107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Impale 64x64_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 197
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e64a3c1f847e2ac0800000000000000
+      internalID: -3878034071116691735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Impale 64x64_9
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 204
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9473329b7ce777fb0800000000000000
+      internalID: -4650108693967063223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Impale 64x64_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 133
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c2e532bc1210e60800000000000000
+      internalID: 7926653975504235665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Impale 64x64_11
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 142
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30022e033bcccd960800000000000000
+      internalID: 7628196938850115587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Impale 64x64_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 133
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b509e00923b1557c0800000000000000
+      internalID: -4083327583162298277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Impale 64x64_13
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 133
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96cc31c001a19ed10800000000000000
+      internalID: 2155282552897916009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Impale 64x64_14
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 133
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a35de86def8bbb20800000000000000
+      internalID: 3151270614106198945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Impale 64x64_15
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 133
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db5fc27012c34430800000000000000
+      internalID: 3766067089313323987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Impale 64x64_16
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 69
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b60f771c1c4a0f0800000000000000
+      internalID: -1106546571741205623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Impale 64x64_17
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 69
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c4c37a0ad9b44b0800000000000000
+      internalID: -5455093210303148929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Impale 64x64_18
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 69
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523d87c474ee98ee0800000000000000
+      internalID: -1258212630880267483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Impale 64x64_19
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 69
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6690329739101760800000000000000
+      internalID: 7426463512000501355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Impale 64x64_20
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 69
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15635b19e2a36cb20800000000000000
+      internalID: 3154272560707090001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Impale 64x64_21
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 5
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d43c697207dcde0800000000000000
+      internalID: -1311268601159529059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Earth Impale 64x64_0: -1883492910633361381
+      Earth Impale 64x64_1: -5911020008099041414
+      Earth Impale 64x64_10: 7926653975504235665
+      Earth Impale 64x64_11: 7628196938850115587
+      Earth Impale 64x64_12: -4083327583162298277
+      Earth Impale 64x64_13: 2155282552897916009
+      Earth Impale 64x64_14: 3151270614106198945
+      Earth Impale 64x64_15: 3766067089313323987
+      Earth Impale 64x64_16: -1106546571741205623
+      Earth Impale 64x64_17: -5455093210303148929
+      Earth Impale 64x64_18: -1258212630880267483
+      Earth Impale 64x64_19: 7426463512000501355
+      Earth Impale 64x64_2: -1181245117773307880
+      Earth Impale 64x64_20: 3154272560707090001
+      Earth Impale 64x64_21: -1311268601159529059
+      Earth Impale 64x64_3: 6656783276097746723
+      Earth Impale 64x64_4: -1412003480619626533
+      Earth Impale 64x64_5: 2233431532434832547
+      Earth Impale 64x64_6: -8567612001459861776
+      Earth Impale 64x64_7: -1372000505527762107
+      Earth Impale 64x64_8: -3878034071116691735
+      Earth Impale 64x64_9: -4650108693967063223
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

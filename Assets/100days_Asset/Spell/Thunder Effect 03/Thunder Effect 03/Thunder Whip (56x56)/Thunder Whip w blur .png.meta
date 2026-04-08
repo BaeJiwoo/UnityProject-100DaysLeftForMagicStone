@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: da2c623dc4142f2459885aaad0b8b458
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5947651404033462849
+    second: Thunder Whip w blur _0
+  - first:
+      213: 2681114023999190429
+    second: Thunder Whip w blur _1
+  - first:
+      213: 5010653349279295709
+    second: Thunder Whip w blur _2
+  - first:
+      213: -426446468677623388
+    second: Thunder Whip w blur _3
+  - first:
+      213: 1051788725726030935
+    second: Thunder Whip w blur _4
+  - first:
+      213: -8938491243291596109
+    second: Thunder Whip w blur _5
+  - first:
+      213: 6557326107576006976
+    second: Thunder Whip w blur _6
+  - first:
+      213: -6195931927358788945
+    second: Thunder Whip w blur _7
+  - first:
+      213: 5404187822235038958
+    second: Thunder Whip w blur _8
+  - first:
+      213: -4748481630075885619
+    second: Thunder Whip w blur _9
+  - first:
+      213: -2824053046465727360
+    second: Thunder Whip w blur _10
+  - first:
+      213: 7664877524150843900
+    second: Thunder Whip w blur _11
+  - first:
+      213: 7882526642545919756
+    second: Thunder Whip w blur _12
+  - first:
+      213: -7478578320553483183
+    second: Thunder Whip w blur _13
+  - first:
+      213: -2052903545145066909
+    second: Thunder Whip w blur _14
+  - first:
+      213: 2502338886312127347
+    second: Thunder Whip w blur _15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Thunder Whip w blur _0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 4
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1429441a07d4a8250800000000000000
+      internalID: 5947651404033462849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Whip w blur _1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 4
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d953acaeffa353520800000000000000
+      internalID: 2681114023999190429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Whip w blur _2
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 4
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8e9607caa698540800000000000000
+      internalID: 5010653349279295709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Whip w blur _3
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a120c63235f41af0800000000000000
+      internalID: -426446468677623388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Whip w blur _4
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c29aff544b89e00800000000000000
+      internalID: 1051788725726030935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Whip w blur _5
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 4
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba2aa7829914f380800000000000000
+      internalID: -8938491243291596109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Whip w blur _6
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 4
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04976764a5d400b50800000000000000
+      internalID: 6557326107576006976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Whip w blur _7
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 4
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa27415db0a30aa0800000000000000
+      internalID: -6195931927358788945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Whip w blur _8
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 17
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4bfc311388ffa40800000000000000
+      internalID: 5404187822235038958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Whip w blur _9
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 26
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7ebd0bd110a1eb0800000000000000
+      internalID: -4748481630075885619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Whip w blur _10
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 25
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084fc8a77b2fec8d0800000000000000
+      internalID: -2824053046465727360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Whip w blur _11
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 33
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9f2e97f7d1f5a60800000000000000
+      internalID: 7664877524150843900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Whip w blur _12
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 25
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07808dc73c546d60800000000000000
+      internalID: 7882526642545919756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Whip w blur _13
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154e87204a0c63890800000000000000
+      internalID: -7478578320553483183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Whip w blur _14
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36afc793a1f9283e0800000000000000
+      internalID: -2052903545145066909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Whip w blur _15
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 4
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37be74a85f71ab220800000000000000
+      internalID: 2502338886312127347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Thunder Whip w blur _0: 5947651404033462849
+      Thunder Whip w blur _1: 2681114023999190429
+      Thunder Whip w blur _10: -2824053046465727360
+      Thunder Whip w blur _11: 7664877524150843900
+      Thunder Whip w blur _12: 7882526642545919756
+      Thunder Whip w blur _13: -7478578320553483183
+      Thunder Whip w blur _14: -2052903545145066909
+      Thunder Whip w blur _15: 2502338886312127347
+      Thunder Whip w blur _2: 5010653349279295709
+      Thunder Whip w blur _3: -426446468677623388
+      Thunder Whip w blur _4: 1051788725726030935
+      Thunder Whip w blur _5: -8938491243291596109
+      Thunder Whip w blur _6: 6557326107576006976
+      Thunder Whip w blur _7: -6195931927358788945
+      Thunder Whip w blur _8: 5404187822235038958
+      Thunder Whip w blur _9: -4748481630075885619
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: fe0587f61f0639846af9fe5e5cf95b6c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4392378005969576644
+    second: Ice VFX 4 Start 19_0
+  - first:
+      213: -2611547498228211150
+    second: Ice VFX 4 Start 19_1
+  - first:
+      213: -621060299861581591
+    second: Ice VFX 4 Start 19_2
+  - first:
+      213: -5039018866377793521
+    second: Ice VFX 4 Start 19_3
+  - first:
+      213: 4438581304864531702
+    second: Ice VFX 4 Start 19_4
+  - first:
+      213: -1323505444401412081
+    second: Ice VFX 4 Start 19_5
+  - first:
+      213: 3307037965619706389
+    second: Ice VFX 4 Start 19_6
+  - first:
+      213: 1413851872596444159
+    second: Ice VFX 4 Start 19_7
+  - first:
+      213: 7471594738212077523
+    second: Ice VFX 4 Start 19_8
+  - first:
+      213: 976797153512821363
+    second: Ice VFX 4 Start 19_9
+  - first:
+      213: 6480800831990633357
+    second: Ice VFX 4 Start 19_10
+  - first:
+      213: 230881458834257781
+    second: Ice VFX 4 Start 19_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ice VFX 4 Start 19_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3dd1f2b9732b03c0800000000000000
+      internalID: -4392378005969576644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 4 Start 19_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 48
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2322c0e036be1cbd0800000000000000
+      internalID: -2611547498228211150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 4 Start 19_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 46
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e027a2a2fc8167f0800000000000000
+      internalID: -621060299861581591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 4 Start 19_3
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 40
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f006f05f90fc11ab0800000000000000
+      internalID: -5039018866377793521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 4 Start 19_4
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 36
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4e32f1e22099d30800000000000000
+      internalID: 4438581304864531702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 4 Start 19_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 29
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0888208fc6f1ade0800000000000000
+      internalID: -1323505444401412081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 4 Start 19_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 26
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a3e7f1285f4ed20800000000000000
+      internalID: 3307037965619706389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 4 Start 19_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 19
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3c12789c20f9310800000000000000
+      internalID: 1413851872596444159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 4 Start 19_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dffec404df60b760800000000000000
+      internalID: 7471594738212077523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 4 Start 19_9
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 17
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3729eb8f5d74e8d00800000000000000
+      internalID: 976797153512821363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 4 Start 19_10
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 5
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d839bda150e60f950800000000000000
+      internalID: 6480800831990633357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 4 Start 19_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5773a0ba671443300800000000000000
+      internalID: 230881458834257781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ice VFX 4 Start 19_0: -4392378005969576644
+      Ice VFX 4 Start 19_1: -2611547498228211150
+      Ice VFX 4 Start 19_10: 6480800831990633357
+      Ice VFX 4 Start 19_11: 230881458834257781
+      Ice VFX 4 Start 19_2: -621060299861581591
+      Ice VFX 4 Start 19_3: -5039018866377793521
+      Ice VFX 4 Start 19_4: 4438581304864531702
+      Ice VFX 4 Start 19_5: -1323505444401412081
+      Ice VFX 4 Start 19_6: 3307037965619706389
+      Ice VFX 4 Start 19_7: 1413851872596444159
+      Ice VFX 4 Start 19_8: 7471594738212077523
+      Ice VFX 4 Start 19_9: 976797153512821363
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

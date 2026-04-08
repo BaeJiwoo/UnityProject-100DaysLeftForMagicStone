@@ -1,0 +1,1313 @@
+fileFormatVersion: 2
+guid: 64b1a6cbf10d00a4fbeeb3b5d35df091
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4373945442992553654
+    second: Water Mine_0
+  - first:
+      213: 8557792418862233434
+    second: Water Mine_1
+  - first:
+      213: 6211030397713324985
+    second: Water Mine_2
+  - first:
+      213: -4093061367773071773
+    second: Water Mine_3
+  - first:
+      213: 2874523830027567562
+    second: Water Mine_4
+  - first:
+      213: -7412426848077170558
+    second: Water Mine_5
+  - first:
+      213: -585437099043350357
+    second: Water Mine_6
+  - first:
+      213: 4478739164229982835
+    second: Water Mine_7
+  - first:
+      213: 4463365496184976024
+    second: Water Mine_8
+  - first:
+      213: 420089816663883987
+    second: Water Mine_9
+  - first:
+      213: -3961385467133733209
+    second: Water Mine_10
+  - first:
+      213: -4170866628371095944
+    second: Water Mine_11
+  - first:
+      213: 7438185240798004550
+    second: Water Mine_12
+  - first:
+      213: -2288368289876228331
+    second: Water Mine_13
+  - first:
+      213: 8766095467357365591
+    second: Water Mine_14
+  - first:
+      213: -7935429371133302896
+    second: Water Mine_15
+  - first:
+      213: 5467399628502358137
+    second: Water Mine_16
+  - first:
+      213: -2629249258224896606
+    second: Water Mine_17
+  - first:
+      213: -5052490500180327908
+    second: Water Mine_18
+  - first:
+      213: -5243494786590801166
+    second: Water Mine_19
+  - first:
+      213: 2109994889062190222
+    second: Water Mine_20
+  - first:
+      213: 219816261824660077
+    second: Water Mine_21
+  - first:
+      213: 661009958437607100
+    second: Water Mine_22
+  - first:
+      213: -4503524003044989118
+    second: Water Mine_23
+  - first:
+      213: 2946886350322194939
+    second: Water Mine_24
+  - first:
+      213: 6700066465520996898
+    second: Water Mine_25
+  - first:
+      213: -202733410829334965
+    second: Water Mine_26
+  - first:
+      213: 4654327899470990848
+    second: Water Mine_27
+  - first:
+      213: 1301126102376090538
+    second: Water Mine_28
+  - first:
+      213: 5521064978008525065
+    second: Water Mine_29
+  - first:
+      213: -6716913123558056814
+    second: Water Mine_30
+  - first:
+      213: -1638107322848124112
+    second: Water Mine_31
+  - first:
+      213: 5729443187364227268
+    second: Water Mine_32
+  - first:
+      213: -7776384520517732481
+    second: Water Mine_33
+  - first:
+      213: -8305601830931514220
+    second: Water Mine_34
+  - first:
+      213: 6432429914804290569
+    second: Water Mine_35
+  - first:
+      213: 6149483567698970243
+    second: Water Mine_36
+  - first:
+      213: 2213847406177662715
+    second: Water Mine_37
+  - first:
+      213: 7806696699911983382
+    second: Water Mine_38
+  - first:
+      213: -799595431058543670
+    second: Water Mine_39
+  - first:
+      213: 7793915482725850330
+    second: Water Mine_40
+  - first:
+      213: 1890848422237214752
+    second: Water Mine_41
+  - first:
+      213: 1916572617979184638
+    second: Water Mine_42
+  - first:
+      213: -9132684597216841186
+    second: Water Mine_43
+  - first:
+      213: -275963996283552365
+    second: Water Mine_44
+  - first:
+      213: 1698222328165043860
+    second: Water Mine_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Water Mine_0
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 79
+        width: 35
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be728cc43063bc30800000000000000
+      internalID: 4373945442992553654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_1
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 79
+        width: 42
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5770d32dd263c670800000000000000
+      internalID: 8557792418862233434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_2
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 79
+        width: 41
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb1bd04d33023650800000000000000
+      internalID: 6211030397713324985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_3
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 137
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366f20a3f568237c0800000000000000
+      internalID: -4093061367773071773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_4
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 168
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1403b813c54e720800000000000000
+      internalID: 2874523830027567562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_5
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 133
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288bacced05c12990800000000000000
+      internalID: -7412426848077170558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_6
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 137
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba89f296f0c10e7f0800000000000000
+      internalID: -585437099043350357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_7
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 130
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ade8d5a8da72e30800000000000000
+      internalID: 4478739164229982835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_8
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 142
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89237d6554f01fd30800000000000000
+      internalID: 4463365496184976024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_9
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 139
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d08208667574d500800000000000000
+      internalID: 420089816663883987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_10
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 134
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6591de7e45609c0800000000000000
+      internalID: -3961385467133733209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_11
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 129
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ed86256ea1e16c0800000000000000
+      internalID: -4170866628371095944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_12
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 144
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645815b311eb93760800000000000000
+      internalID: 7438185240798004550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_13
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 131
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517c8a62a251e30e0800000000000000
+      internalID: -2288368289876228331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_14
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 135
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7556ffef16d67a970800000000000000
+      internalID: 8766095467357365591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_15
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 132
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097e569d701bfd190800000000000000
+      internalID: -7935429371133302896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_16
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 79
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9785cfd9efa10eb40800000000000000
+      internalID: 5467399628502358137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_17
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 79
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5bb81eab7038bd0800000000000000
+      internalID: -2629249258224896606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_18
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 79
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1247b9c8a2f1e9b0800000000000000
+      internalID: -5052490500180327908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_19
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 79
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f284a7d54d5b37b0800000000000000
+      internalID: -5243494786590801166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_20
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 79
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c01702c25384d10800000000000000
+      internalID: 2109994889062190222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_21
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 15
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62c9e9b9b1fc0300800000000000000
+      internalID: 219816261824660077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_22
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 17
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb65ba51e016c2900800000000000000
+      internalID: 661009958437607100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_23
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 20
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247ee09a7c44081c0800000000000000
+      internalID: -4503524003044989118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_24
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 21
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9d668b58175e820800000000000000
+      internalID: 2946886350322194939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_25
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 22
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222d2e0b3fa6bfc50800000000000000
+      internalID: 6700066465520996898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_26
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 22
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b460a67790fbf2df0800000000000000
+      internalID: -202733410829334965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_27
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 10
+        width: 68
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e882c909e779040800000000000000
+      internalID: 4654327899470990848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_28
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 10
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab8d14eb478e0210800000000000000
+      internalID: 1301126102376090538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_29
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 8
+        width: 72
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9094c0c7853ce9c40800000000000000
+      internalID: 5521064978008525065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_30
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 27
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c99231a1bb8c2a0800000000000000
+      internalID: -6716913123558056814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_31
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 5
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033eba5a1164449e0800000000000000
+      internalID: -1638107322848124112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_32
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 21
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c860a71932138f40800000000000000
+      internalID: 5729443187364227268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_33
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 32
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77b1b9ca7bb41490800000000000000
+      internalID: -7776384520517732481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_34
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 12
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c3e75c3239cbc80800000000000000
+      internalID: -8305601830931514220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_35
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 29
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90481825de4944950800000000000000
+      internalID: 6432429914804290569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_36
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 10
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3868cc439ba575550800000000000000
+      internalID: 6149483567698970243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_37
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 28
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6b3288c7a29be10800000000000000
+      internalID: 2213847406177662715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_38
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 24
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611d7737945f65c60800000000000000
+      internalID: 7806696699911983382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_39
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 4
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbeabf113447e4f0800000000000000
+      internalID: -799595431058543670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_40
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 25
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc9a4d66dc892c60800000000000000
+      internalID: 7793915482725850330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_41
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 12
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0289e833f94ad3a10800000000000000
+      internalID: 1890848422237214752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_42
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 7
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5c3e044a8099a10800000000000000
+      internalID: 1916572617979184638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_43
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 2
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e127531febf224180800000000000000
+      internalID: -9132684597216841186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_44
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 0
+        width: 306
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39db8be15349b2cf0800000000000000
+      internalID: -275963996283552365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Mine_45
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 14
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e0aebb53c419710800000000000000
+      internalID: 1698222328165043860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Water Mine_0: 4373945442992553654
+      Water Mine_1: 8557792418862233434
+      Water Mine_10: -3961385467133733209
+      Water Mine_11: -4170866628371095944
+      Water Mine_12: 7438185240798004550
+      Water Mine_13: -2288368289876228331
+      Water Mine_14: 8766095467357365591
+      Water Mine_15: -7935429371133302896
+      Water Mine_16: 5467399628502358137
+      Water Mine_17: -2629249258224896606
+      Water Mine_18: -5052490500180327908
+      Water Mine_19: -5243494786590801166
+      Water Mine_2: 6211030397713324985
+      Water Mine_20: 2109994889062190222
+      Water Mine_21: 219816261824660077
+      Water Mine_22: 661009958437607100
+      Water Mine_23: -4503524003044989118
+      Water Mine_24: 2946886350322194939
+      Water Mine_25: 6700066465520996898
+      Water Mine_26: -202733410829334965
+      Water Mine_27: 4654327899470990848
+      Water Mine_28: 1301126102376090538
+      Water Mine_29: 5521064978008525065
+      Water Mine_3: -4093061367773071773
+      Water Mine_30: -6716913123558056814
+      Water Mine_31: -1638107322848124112
+      Water Mine_32: 5729443187364227268
+      Water Mine_33: -7776384520517732481
+      Water Mine_34: -8305601830931514220
+      Water Mine_35: 6432429914804290569
+      Water Mine_36: 6149483567698970243
+      Water Mine_37: 2213847406177662715
+      Water Mine_38: 7806696699911983382
+      Water Mine_39: -799595431058543670
+      Water Mine_4: 2874523830027567562
+      Water Mine_40: 7793915482725850330
+      Water Mine_41: 1890848422237214752
+      Water Mine_42: 1916572617979184638
+      Water Mine_43: -9132684597216841186
+      Water Mine_44: -275963996283552365
+      Water Mine_45: 1698222328165043860
+      Water Mine_5: -7412426848077170558
+      Water Mine_6: -585437099043350357
+      Water Mine_7: 4478739164229982835
+      Water Mine_8: 4463365496184976024
+      Water Mine_9: 420089816663883987
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

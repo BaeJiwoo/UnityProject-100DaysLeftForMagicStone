@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 7bbe331eb5dee6e4ba18754ba83e8b34
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5202489916692488406
+    second: Eletric bow w blu_0
+  - first:
+      213: -3220267229774863193
+    second: Eletric bow w blu_1
+  - first:
+      213: 1775373834727514849
+    second: Eletric bow w blu_2
+  - first:
+      213: -5154088852135835155
+    second: Eletric bow w blu_3
+  - first:
+      213: -4683017906149327975
+    second: Eletric bow w blu_4
+  - first:
+      213: 9159832262209035166
+    second: Eletric bow w blu_5
+  - first:
+      213: 3586909808208840951
+    second: Eletric bow w blu_6
+  - first:
+      213: -8907557924813281435
+    second: Eletric bow w blu_7
+  - first:
+      213: -6173437523190034128
+    second: Eletric bow w blu_8
+  - first:
+      213: 6670252385043619631
+    second: Eletric bow w blu_9
+  - first:
+      213: 6586985547855877279
+    second: Eletric bow w blu_10
+  - first:
+      213: -2576718985979201350
+    second: Eletric bow w blu_11
+  - first:
+      213: 853670232415776233
+    second: Eletric bow w blu_12
+  - first:
+      213: -2117178850319151067
+    second: Eletric bow w blu_13
+  - first:
+      213: 813996775724760661
+    second: Eletric bow w blu_14
+  - first:
+      213: -7100837138893475860
+    second: Eletric bow w blu_15
+  - first:
+      213: 6658835210198631035
+    second: Eletric bow w blu_16
+  - first:
+      213: -8719201580188854689
+    second: Eletric bow w blu_17
+  - first:
+      213: -6236720728366324078
+    second: Eletric bow w blu_18
+  - first:
+      213: 2071911388071372021
+    second: Eletric bow w blu_19
+  - first:
+      213: -8673784613223289096
+    second: Eletric bow w blu_20
+  - first:
+      213: -8396784599621579786
+    second: Eletric bow w blu_21
+  - first:
+      213: 8317555470942393737
+    second: Eletric bow w blu_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Eletric bow w blu_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 529
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0e108e305f23840800000000000000
+      internalID: 5202489916692488406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow w blu_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 514
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4207724005f43d0800000000000000
+      internalID: -3220267229774863193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow w blu_2
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 485
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2e47aa81563a810800000000000000
+      internalID: 1775373834727514849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow w blu_3
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 456
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de984ab1f7ff878b0800000000000000
+      internalID: -5154088852135835155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow w blu_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 427
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bfc2ba604920fb0800000000000000
+      internalID: -4683017906149327975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow w blu_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 391
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bd12f59e24e1f70800000000000000
+      internalID: 9159832262209035166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow w blu_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 355
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f807af577347c130800000000000000
+      internalID: 3586909808208840951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow w blu_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 21
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567e94bf24ff16480800000000000000
+      internalID: -8907557924813281435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow w blu_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 230
+        width: 61
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031d03be74b835aa0800000000000000
+      internalID: -6173437523190034128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow w blu_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 198
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f1ab4243f719c50800000000000000
+      internalID: 6670252385043619631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow w blu_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 167
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94d498d47ca96b50800000000000000
+      internalID: 6586985547855877279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow w blu_11
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 133
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab874bafbb7ad3cd0800000000000000
+      internalID: -2576718985979201350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow w blu_12
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 113
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eda77ead88d8db00800000000000000
+      internalID: 853670232415776233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow w blu_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 103
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520d1cc8d054e92e0800000000000000
+      internalID: -2117178850319151067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow w blu_14
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 116
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e336931c5eb4b00800000000000000
+      internalID: 813996775724760661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow w blu_15
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 103
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef6a587e32c47d90800000000000000
+      internalID: -7100837138893475860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow w blu_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 87
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72c0c9f75fe86c50800000000000000
+      internalID: 6658835210198631035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow w blu_17
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 81
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5691dfeb5c2ff680800000000000000
+      internalID: -8719201580188854689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow w blu_18
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 73
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296e8668a87b279a0800000000000000
+      internalID: -6236720728366324078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow w blu_19
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 77
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4a4141e68e0cc10800000000000000
+      internalID: 2071911388071372021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow w blu_20
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 69
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fea39699d680a780800000000000000
+      internalID: -8673784613223289096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow w blu_21
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 40
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbc51c05e0a87b80800000000000000
+      internalID: -8396784599621579786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow w blu_22
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 44
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985d02de1a4ed6370800000000000000
+      internalID: 8317555470942393737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Eletric bow w blu_0: 5202489916692488406
+      Eletric bow w blu_1: -3220267229774863193
+      Eletric bow w blu_10: 6586985547855877279
+      Eletric bow w blu_11: -2576718985979201350
+      Eletric bow w blu_12: 853670232415776233
+      Eletric bow w blu_13: -2117178850319151067
+      Eletric bow w blu_14: 813996775724760661
+      Eletric bow w blu_15: -7100837138893475860
+      Eletric bow w blu_16: 6658835210198631035
+      Eletric bow w blu_17: -8719201580188854689
+      Eletric bow w blu_18: -6236720728366324078
+      Eletric bow w blu_19: 2071911388071372021
+      Eletric bow w blu_2: 1775373834727514849
+      Eletric bow w blu_20: -8673784613223289096
+      Eletric bow w blu_21: -8396784599621579786
+      Eletric bow w blu_22: 8317555470942393737
+      Eletric bow w blu_3: -5154088852135835155
+      Eletric bow w blu_4: -4683017906149327975
+      Eletric bow w blu_5: 9159832262209035166
+      Eletric bow w blu_6: 3586909808208840951
+      Eletric bow w blu_7: -8907557924813281435
+      Eletric bow w blu_8: -6173437523190034128
+      Eletric bow w blu_9: 6670252385043619631
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

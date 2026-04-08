@@ -1,0 +1,1417 @@
+fileFormatVersion: 2
+guid: 22944399d5cabec489cd8b62d7dad4a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1604942386927531970
+    second: Water Combo - SpriteSheet_0
+  - first:
+      213: 8839361957402453658
+    second: Water Combo - SpriteSheet_1
+  - first:
+      213: 3328522896518102012
+    second: Water Combo - SpriteSheet_2
+  - first:
+      213: -6431743543092778745
+    second: Water Combo - SpriteSheet_3
+  - first:
+      213: 9056800558916968934
+    second: Water Combo - SpriteSheet_4
+  - first:
+      213: 4418215267395252688
+    second: Water Combo - SpriteSheet_5
+  - first:
+      213: 6566333975689192863
+    second: Water Combo - SpriteSheet_6
+  - first:
+      213: -6005535938794826397
+    second: Water Combo - SpriteSheet_7
+  - first:
+      213: -4418648310517393257
+    second: Water Combo - SpriteSheet_8
+  - first:
+      213: 5115420032720640322
+    second: Water Combo - SpriteSheet_9
+  - first:
+      213: 1520336636257842984
+    second: Water Combo - SpriteSheet_10
+  - first:
+      213: -2496083767094190640
+    second: Water Combo - SpriteSheet_11
+  - first:
+      213: 5983413553865172666
+    second: Water Combo - SpriteSheet_12
+  - first:
+      213: -2929585120098127936
+    second: Water Combo - SpriteSheet_13
+  - first:
+      213: 5799751826240324577
+    second: Water Combo - SpriteSheet_14
+  - first:
+      213: -493026572794115834
+    second: Water Combo - SpriteSheet_15
+  - first:
+      213: -3466388977744360612
+    second: Water Combo - SpriteSheet_16
+  - first:
+      213: -2054168150598558403
+    second: Water Combo - SpriteSheet_17
+  - first:
+      213: 4832003307836703886
+    second: Water Combo - SpriteSheet_18
+  - first:
+      213: 2432626660992869446
+    second: Water Combo - SpriteSheet_19
+  - first:
+      213: 3129463688311351968
+    second: Water Combo - SpriteSheet_20
+  - first:
+      213: 1078228403987056505
+    second: Water Combo - SpriteSheet_21
+  - first:
+      213: -1244883274709450587
+    second: Water Combo - SpriteSheet_22
+  - first:
+      213: 3344999519870230259
+    second: Water Combo - SpriteSheet_23
+  - first:
+      213: -5753887338810704218
+    second: Water Combo - SpriteSheet_24
+  - first:
+      213: -2038152765112370158
+    second: Water Combo - SpriteSheet_25
+  - first:
+      213: 7944129126904649993
+    second: Water Combo - SpriteSheet_26
+  - first:
+      213: -4851076632450133933
+    second: Water Combo - SpriteSheet_27
+  - first:
+      213: 2171122575816272106
+    second: Water Combo - SpriteSheet_28
+  - first:
+      213: 5622828824872888130
+    second: Water Combo - SpriteSheet_29
+  - first:
+      213: -8832665118109367452
+    second: Water Combo - SpriteSheet_30
+  - first:
+      213: 7224077543992052375
+    second: Water Combo - SpriteSheet_31
+  - first:
+      213: -1079559364002066227
+    second: Water Combo - SpriteSheet_32
+  - first:
+      213: -3784841810103510962
+    second: Water Combo - SpriteSheet_33
+  - first:
+      213: -8679484798232139709
+    second: Water Combo - SpriteSheet_34
+  - first:
+      213: -6683535138890063943
+    second: Water Combo - SpriteSheet_35
+  - first:
+      213: -1235285992137509767
+    second: Water Combo - SpriteSheet_36
+  - first:
+      213: -4042646148931523278
+    second: Water Combo - SpriteSheet_37
+  - first:
+      213: -8418175088285969549
+    second: Water Combo - SpriteSheet_38
+  - first:
+      213: -4245096715726081148
+    second: Water Combo - SpriteSheet_39
+  - first:
+      213: -3490140768915001488
+    second: Water Combo - SpriteSheet_40
+  - first:
+      213: -588025071395102708
+    second: Water Combo - SpriteSheet_41
+  - first:
+      213: -5822314379802747763
+    second: Water Combo - SpriteSheet_42
+  - first:
+      213: 7487072970138790196
+    second: Water Combo - SpriteSheet_43
+  - first:
+      213: 6410033601176536016
+    second: Water Combo - SpriteSheet_44
+  - first:
+      213: 6496135845242771800
+    second: Water Combo - SpriteSheet_45
+  - first:
+      213: 1164705449711325793
+    second: Water Combo - SpriteSheet_46
+  - first:
+      213: -2869382855432665796
+    second: Water Combo - SpriteSheet_47
+  - first:
+      213: -8801702270532431972
+    second: Water Combo - SpriteSheet_48
+  - first:
+      213: -7109292171286654318
+    second: Water Combo - SpriteSheet_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 308
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38873607691ab9e0800000000000000
+      internalID: -1604942386927531970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 305
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9623180ed8bbaa70800000000000000
+      internalID: 8839361957402453658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 300
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb37b960f9413e20800000000000000
+      internalID: 3328522896518102012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 298
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709ea8b035bddb6a0800000000000000
+      internalID: -6431743543092778745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 298
+        width: 59
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e12ec39f1830bd70800000000000000
+      internalID: 9056800558916968934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 298
+        width: 59
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d13d428067a05d30800000000000000
+      internalID: 4418215267395252688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 298
+        width: 58
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95688106fd402b50800000000000000
+      internalID: 6566333975689192863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 251
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365da42e1ec08aca0800000000000000
+      internalID: -6005535938794826397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 218
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7981b38c5cecda2c0800000000000000
+      internalID: -4418648310517393257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 251
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2491b37ca6f9df640800000000000000
+      internalID: 5115420032720640322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 251
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82739279d12591510800000000000000
+      internalID: 1520336636257842984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 253
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd5bb4e9012c5dd0800000000000000
+      internalID: -2496083767094190640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 253
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6246efcea590350800000000000000
+      internalID: 5983413553865172666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 267
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfe749dad50857d0800000000000000
+      internalID: -2929585120098127936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 265
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e34a7cbe8bdc7050800000000000000
+      internalID: 5799751826240324577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 255
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60947c7b1fa6829f0800000000000000
+      internalID: -493026572794115834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 216
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5bc7382799e4efc0800000000000000
+      internalID: -3466388977744360612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 212
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3dd6a253f02e73e0800000000000000
+      internalID: -2054168150598558403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 212
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e848e1d4869be0340800000000000000
+      internalID: 4832003307836703886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 203
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644ef9f3f0d62c120800000000000000
+      internalID: 2432626660992869446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 157
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa2847d4a61e6b20800000000000000
+      internalID: 3129463688311351968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 116
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977826e4503a6fe00800000000000000
+      internalID: 1078228403987056505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 117
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a04e10e14949bee0800000000000000
+      internalID: -1244883274709450587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 164
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe97bb3753db6e20800000000000000
+      internalID: 3344999519870230259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 117
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aef19463f51620b0800000000000000
+      internalID: -5753887338810704218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 164
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c3f75dbd607b3e0800000000000000
+      internalID: -2038152765112370158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 117
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9095cf2e9573f3e60800000000000000
+      internalID: 7944129126904649993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 164
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3509c9041838dacb0800000000000000
+      internalID: -4851076632450133933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 174
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae82c57ca70612e10800000000000000
+      internalID: 2171122575816272106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 168
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2472063760d480e40800000000000000
+      internalID: 5622828824872888130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 123
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4638b1f5fd11c6580800000000000000
+      internalID: -8832665118109367452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 165
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ac58f5044114460800000000000000
+      internalID: 7224077543992052375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 162
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0d5ba6a72a401f0800000000000000
+      internalID: -1079559364002066227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 156
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48dbb93d6a897bc0800000000000000
+      internalID: -3784841810103510962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 158
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34868f7df864c8780800000000000000
+      internalID: -8679484798232139709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 161
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfdd9ab3305f33a0800000000000000
+      internalID: -6683535138890063943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 111
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974b0aa5fe16bdee0800000000000000
+      internalID: -1235285992137509767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 111
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23de5541fb2a5e7c0800000000000000
+      internalID: -4042646148931523278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 60
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3731cadcb52ac2b80800000000000000
+      internalID: -8418175088285969549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 60
+        width: 61
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48338fd47036615c0800000000000000
+      internalID: -4245096715726081148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 59
+        width: 67
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f66b45677809fc0800000000000000
+      internalID: -3490140768915001488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 59
+        width: 57
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00a874205ae6d7f0800000000000000
+      internalID: -588025071395102708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 60
+        width: 69
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c55356bebf23fa0800000000000000
+      internalID: -5822314379802747763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 69
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4392d88b23d67e760800000000000000
+      internalID: 7487072970138790196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 22
+        width: 80
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d30274399305f850800000000000000
+      internalID: 6410033601176536016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 63
+        width: 51
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859906c1229e62a50800000000000000
+      internalID: 6496135845242771800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 84
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16251068f6dd92010800000000000000
+      internalID: 1164705449711325793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 12
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c350751ee77ed28d0800000000000000
+      internalID: -2869382855432665796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 12
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f4a2a1b621ad580800000000000000
+      internalID: -8801702270532431972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Combo - SpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 12
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2925ef5df68b65d90800000000000000
+      internalID: -7109292171286654318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Water Combo - SpriteSheet_0: -1604942386927531970
+      Water Combo - SpriteSheet_1: 8839361957402453658
+      Water Combo - SpriteSheet_10: 1520336636257842984
+      Water Combo - SpriteSheet_11: -2496083767094190640
+      Water Combo - SpriteSheet_12: 5983413553865172666
+      Water Combo - SpriteSheet_13: -2929585120098127936
+      Water Combo - SpriteSheet_14: 5799751826240324577
+      Water Combo - SpriteSheet_15: -493026572794115834
+      Water Combo - SpriteSheet_16: -3466388977744360612
+      Water Combo - SpriteSheet_17: -2054168150598558403
+      Water Combo - SpriteSheet_18: 4832003307836703886
+      Water Combo - SpriteSheet_19: 2432626660992869446
+      Water Combo - SpriteSheet_2: 3328522896518102012
+      Water Combo - SpriteSheet_20: 3129463688311351968
+      Water Combo - SpriteSheet_21: 1078228403987056505
+      Water Combo - SpriteSheet_22: -1244883274709450587
+      Water Combo - SpriteSheet_23: 3344999519870230259
+      Water Combo - SpriteSheet_24: -5753887338810704218
+      Water Combo - SpriteSheet_25: -2038152765112370158
+      Water Combo - SpriteSheet_26: 7944129126904649993
+      Water Combo - SpriteSheet_27: -4851076632450133933
+      Water Combo - SpriteSheet_28: 2171122575816272106
+      Water Combo - SpriteSheet_29: 5622828824872888130
+      Water Combo - SpriteSheet_3: -6431743543092778745
+      Water Combo - SpriteSheet_30: -8832665118109367452
+      Water Combo - SpriteSheet_31: 7224077543992052375
+      Water Combo - SpriteSheet_32: -1079559364002066227
+      Water Combo - SpriteSheet_33: -3784841810103510962
+      Water Combo - SpriteSheet_34: -8679484798232139709
+      Water Combo - SpriteSheet_35: -6683535138890063943
+      Water Combo - SpriteSheet_36: -1235285992137509767
+      Water Combo - SpriteSheet_37: -4042646148931523278
+      Water Combo - SpriteSheet_38: -8418175088285969549
+      Water Combo - SpriteSheet_39: -4245096715726081148
+      Water Combo - SpriteSheet_4: 9056800558916968934
+      Water Combo - SpriteSheet_40: -3490140768915001488
+      Water Combo - SpriteSheet_41: -588025071395102708
+      Water Combo - SpriteSheet_42: -5822314379802747763
+      Water Combo - SpriteSheet_43: 7487072970138790196
+      Water Combo - SpriteSheet_44: 6410033601176536016
+      Water Combo - SpriteSheet_45: 6496135845242771800
+      Water Combo - SpriteSheet_46: 1164705449711325793
+      Water Combo - SpriteSheet_47: -2869382855432665796
+      Water Combo - SpriteSheet_48: -8801702270532431972
+      Water Combo - SpriteSheet_49: -7109292171286654318
+      Water Combo - SpriteSheet_5: 4418215267395252688
+      Water Combo - SpriteSheet_6: 6566333975689192863
+      Water Combo - SpriteSheet_7: -6005535938794826397
+      Water Combo - SpriteSheet_8: -4418648310517393257
+      Water Combo - SpriteSheet_9: 5115420032720640322
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

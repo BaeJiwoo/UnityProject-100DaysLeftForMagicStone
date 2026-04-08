@@ -1,0 +1,1469 @@
+fileFormatVersion: 2
+guid: bc4080d54bfbcda48a6b15e0666883ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8814175192515489335
+    second: Water Portal - Infinite_0
+  - first:
+      213: -4164163366156367562
+    second: Water Portal - Infinite_1
+  - first:
+      213: -316168797607250445
+    second: Water Portal - Infinite_2
+  - first:
+      213: -3252994377303710530
+    second: Water Portal - Infinite_3
+  - first:
+      213: 5659200759883273741
+    second: Water Portal - Infinite_4
+  - first:
+      213: 8829198391545316744
+    second: Water Portal - Infinite_5
+  - first:
+      213: -2404448734553506392
+    second: Water Portal - Infinite_6
+  - first:
+      213: 5644659990446427574
+    second: Water Portal - Infinite_7
+  - first:
+      213: -8752143851708280760
+    second: Water Portal - Infinite_8
+  - first:
+      213: 600728334904059186
+    second: Water Portal - Infinite_9
+  - first:
+      213: -7654401837701410542
+    second: Water Portal - Infinite_10
+  - first:
+      213: -2054144473718006990
+    second: Water Portal - Infinite_11
+  - first:
+      213: 4592449024307458397
+    second: Water Portal - Infinite_12
+  - first:
+      213: -8297265092263495456
+    second: Water Portal - Infinite_13
+  - first:
+      213: 4488050569217462567
+    second: Water Portal - Infinite_14
+  - first:
+      213: 1435681585464406029
+    second: Water Portal - Infinite_15
+  - first:
+      213: 1396367721757765170
+    second: Water Portal - Infinite_16
+  - first:
+      213: 3972850993821565552
+    second: Water Portal - Infinite_17
+  - first:
+      213: 1534681406525529948
+    second: Water Portal - Infinite_18
+  - first:
+      213: 2955892972118861391
+    second: Water Portal - Infinite_19
+  - first:
+      213: 6885691281825206619
+    second: Water Portal - Infinite_20
+  - first:
+      213: -1736993344531623814
+    second: Water Portal - Infinite_21
+  - first:
+      213: 6099267981049418946
+    second: Water Portal - Infinite_22
+  - first:
+      213: 1244331661676282880
+    second: Water Portal - Infinite_23
+  - first:
+      213: -6725386698352559816
+    second: Water Portal - Infinite_24
+  - first:
+      213: -7513583756063593772
+    second: Water Portal - Infinite_25
+  - first:
+      213: 2947834828828520954
+    second: Water Portal - Infinite_26
+  - first:
+      213: -4449754741778085208
+    second: Water Portal - Infinite_27
+  - first:
+      213: -1876818181228448370
+    second: Water Portal - Infinite_28
+  - first:
+      213: -7940358825055065701
+    second: Water Portal - Infinite_29
+  - first:
+      213: 8584190756854407072
+    second: Water Portal - Infinite_30
+  - first:
+      213: 689497003806519811
+    second: Water Portal - Infinite_31
+  - first:
+      213: -9024179756804504750
+    second: Water Portal - Infinite_32
+  - first:
+      213: -5334374853071576548
+    second: Water Portal - Infinite_33
+  - first:
+      213: -6170681132665206959
+    second: Water Portal - Infinite_34
+  - first:
+      213: 855348421781001627
+    second: Water Portal - Infinite_35
+  - first:
+      213: 3453610348545175303
+    second: Water Portal - Infinite_36
+  - first:
+      213: 7176352554484208741
+    second: Water Portal - Infinite_37
+  - first:
+      213: -8144845912986339844
+    second: Water Portal - Infinite_38
+  - first:
+      213: -7234524976843499254
+    second: Water Portal - Infinite_39
+  - first:
+      213: -8763344669373814191
+    second: Water Portal - Infinite_40
+  - first:
+      213: -8876269281872783267
+    second: Water Portal - Infinite_41
+  - first:
+      213: -7034529513467727787
+    second: Water Portal - Infinite_42
+  - first:
+      213: -2843326219699107768
+    second: Water Portal - Infinite_43
+  - first:
+      213: -595121238885053076
+    second: Water Portal - Infinite_44
+  - first:
+      213: -7365024450903061197
+    second: Water Portal - Infinite_45
+  - first:
+      213: -4044510949129761146
+    second: Water Portal - Infinite_46
+  - first:
+      213: 9047976445472994038
+    second: Water Portal - Infinite_47
+  - first:
+      213: -5658904135737739314
+    second: Water Portal - Infinite_48
+  - first:
+      213: -5992336561597089612
+    second: Water Portal - Infinite_49
+  - first:
+      213: 463921578653937261
+    second: Water Portal - Infinite_50
+  - first:
+      213: -1597173177092639903
+    second: Water Portal - Infinite_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Water Portal - Infinite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1dd06ac52cda580800000000000000
+      internalID: -8814175192515489335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 170
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6390e8d2b7be536c0800000000000000
+      internalID: -4164163366156367562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 219
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5be89572ebc9bf0800000000000000
+      internalID: -316168797607250445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 169
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4287459da0bd2d0800000000000000
+      internalID: -3252994377303710530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_4
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 220
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06967d7b15898e40800000000000000
+      internalID: 5659200759883273741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 168
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8854283782d978a70800000000000000
+      internalID: 8829198391545316744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_6
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 220
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adfc408d9ea1aed0800000000000000
+      internalID: -2404448734553506392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 168
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd4b68ca5cd55e40800000000000000
+      internalID: 5644659990446427574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 167
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8401fc7a9832a8680800000000000000
+      internalID: -8752143851708280760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_9
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 167
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235e770ec37365800800000000000000
+      internalID: 600728334904059186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_10
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 173
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211d5b7551a16c590800000000000000
+      internalID: -7654401837701410542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_11
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 166
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bd4b60c763e73e0800000000000000
+      internalID: -2054144473718006990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_12
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 147
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d517fe64e08abbf30800000000000000
+      internalID: 4592449024307458397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_13
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 144
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8b2600c513adc80800000000000000
+      internalID: -8297265092263495456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 139
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7215238c632c84e30800000000000000
+      internalID: 4488050569217462567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_15
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 146
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00fc20abc09ce310800000000000000
+      internalID: 1435681585464406029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_16
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 139
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e613f6b05e06310800000000000000
+      internalID: 1396367721757765170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_17
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 149
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072ca480ee6622730800000000000000
+      internalID: 3972850993821565552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_18
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 143
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fd95fab984c4510800000000000000
+      internalID: 1534681406525529948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 140
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46e7354ff0750920800000000000000
+      internalID: 2955892972118861391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_20
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 150
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5112362db3ee8f50800000000000000
+      internalID: 6885691281825206619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_21
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 143
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7099f191c5f4e7e0800000000000000
+      internalID: -1736993344531623814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c45d58d9e3f4a450800000000000000
+      internalID: 6099267981049418946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_23
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 141
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0048cf4bd01c44110800000000000000
+      internalID: 1244331661676282880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 92
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839fe833e60aaa2a0800000000000000
+      internalID: -6725386698352559816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_25
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 142
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da2fade1636ab790800000000000000
+      internalID: -7513583756063593772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 93
+        width: 20
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af139d49820d8e820800000000000000
+      internalID: 2947834828828520954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 94
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa05be53ab4f32c0800000000000000
+      internalID: -4449754741778085208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_28
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 140
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8532e7dec334f5e0800000000000000
+      internalID: -1876818181228448370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_29
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 87
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99647be7bd2ec190800000000000000
+      internalID: -7940358825055065701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_30
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 93
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af9f7a230c212770800000000000000
+      internalID: 8584190756854407072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_31
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 86
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30275913fd5919900800000000000000
+      internalID: 689497003806519811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_32
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 92
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2538566c25ca3c280800000000000000
+      internalID: -9024179756804504750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_33
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 84
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1264e7755e78f5b0800000000000000
+      internalID: -5334374853071576548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_34
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 92
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157094914365d5aa0800000000000000
+      internalID: -6170681132665206959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_35
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 81
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9592779bdecedb00800000000000000
+      internalID: 855348421781001627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_36
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 84
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fe5a16050bdef20800000000000000
+      internalID: 3453610348545175303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 83
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5649ff850a6879360800000000000000
+      internalID: 7176352554484208741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_38
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 82
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5382e9bc1b7fe80800000000000000
+      internalID: -8144845912986339844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_39
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 61
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a095d8c1dddc99b90800000000000000
+      internalID: -7234524976843499254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_40
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 73
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a29a11478526680800000000000000
+      internalID: -8763344669373814191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_41
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 66
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58d24bdd1821d480800000000000000
+      internalID: -8876269281872783267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 69
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55031c39da4506e90800000000000000
+      internalID: -7034529513467727787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848c7462ed97a88d0800000000000000
+      internalID: -2843326219699107768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d47f5e264bdb7f0800000000000000
+      internalID: -595121238885053076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_45
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 14
+        width: 20
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d4bd1984d2ac990800000000000000
+      internalID: -7365024450903061197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_46
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 61
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e41f278b20fd7c0800000000000000
+      internalID: -4044510949129761146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_47
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 11
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2f48093aed09d70800000000000000
+      internalID: 9047976445472994038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_48
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7fc53bba88771b0800000000000000
+      internalID: -5658904135737739314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_49
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b87b6f55a1f6dca0800000000000000
+      internalID: -5992336561597089612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_50
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 3
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e6e43c73e207600800000000000000
+      internalID: 463921578653937261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Portal - Infinite_51
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1637c962573b5d9e0800000000000000
+      internalID: -1597173177092639903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Water Portal - Infinite_0: -8814175192515489335
+      Water Portal - Infinite_1: -4164163366156367562
+      Water Portal - Infinite_10: -7654401837701410542
+      Water Portal - Infinite_11: -2054144473718006990
+      Water Portal - Infinite_12: 4592449024307458397
+      Water Portal - Infinite_13: -8297265092263495456
+      Water Portal - Infinite_14: 4488050569217462567
+      Water Portal - Infinite_15: 1435681585464406029
+      Water Portal - Infinite_16: 1396367721757765170
+      Water Portal - Infinite_17: 3972850993821565552
+      Water Portal - Infinite_18: 1534681406525529948
+      Water Portal - Infinite_19: 2955892972118861391
+      Water Portal - Infinite_2: -316168797607250445
+      Water Portal - Infinite_20: 6885691281825206619
+      Water Portal - Infinite_21: -1736993344531623814
+      Water Portal - Infinite_22: 6099267981049418946
+      Water Portal - Infinite_23: 1244331661676282880
+      Water Portal - Infinite_24: -6725386698352559816
+      Water Portal - Infinite_25: -7513583756063593772
+      Water Portal - Infinite_26: 2947834828828520954
+      Water Portal - Infinite_27: -4449754741778085208
+      Water Portal - Infinite_28: -1876818181228448370
+      Water Portal - Infinite_29: -7940358825055065701
+      Water Portal - Infinite_3: -3252994377303710530
+      Water Portal - Infinite_30: 8584190756854407072
+      Water Portal - Infinite_31: 689497003806519811
+      Water Portal - Infinite_32: -9024179756804504750
+      Water Portal - Infinite_33: -5334374853071576548
+      Water Portal - Infinite_34: -6170681132665206959
+      Water Portal - Infinite_35: 855348421781001627
+      Water Portal - Infinite_36: 3453610348545175303
+      Water Portal - Infinite_37: 7176352554484208741
+      Water Portal - Infinite_38: -8144845912986339844
+      Water Portal - Infinite_39: -7234524976843499254
+      Water Portal - Infinite_4: 5659200759883273741
+      Water Portal - Infinite_40: -8763344669373814191
+      Water Portal - Infinite_41: -8876269281872783267
+      Water Portal - Infinite_42: -7034529513467727787
+      Water Portal - Infinite_43: -2843326219699107768
+      Water Portal - Infinite_44: -595121238885053076
+      Water Portal - Infinite_45: -7365024450903061197
+      Water Portal - Infinite_46: -4044510949129761146
+      Water Portal - Infinite_47: 9047976445472994038
+      Water Portal - Infinite_48: -5658904135737739314
+      Water Portal - Infinite_49: -5992336561597089612
+      Water Portal - Infinite_5: 8829198391545316744
+      Water Portal - Infinite_50: 463921578653937261
+      Water Portal - Infinite_51: -1597173177092639903
+      Water Portal - Infinite_6: -2404448734553506392
+      Water Portal - Infinite_7: 5644659990446427574
+      Water Portal - Infinite_8: -8752143851708280760
+      Water Portal - Infinite_9: 600728334904059186
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

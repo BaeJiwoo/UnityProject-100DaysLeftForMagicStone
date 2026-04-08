@@ -1,0 +1,3791 @@
+fileFormatVersion: 2
+guid: 9f8b8c60708cc254baeff65ab26f0444
+AssetOrigin:
+  serializedVersion: 1
+  productId: 227617
+  packageName: The DARK Series - The Swordmaster & Camp Tileset
+  packageVersion: 1.0
+  assetPath: Assets/Penusbmic/09 DARK - SwordMaster & Camp/The SwordMaster/Sword
+    Master Sprite Sheet 90x37 without VFX 1.png
+  uploadId: 543104
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9177955330979054997
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_0
+  - first:
+      213: 7773500822482730645
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_1
+  - first:
+      213: 8887720053952074787
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_2
+  - first:
+      213: -3212964653761541236
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_3
+  - first:
+      213: 275955865660427488
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_4
+  - first:
+      213: -7923297905236252515
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_5
+  - first:
+      213: 2895909552220143227
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_6
+  - first:
+      213: -1402010635824847530
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_7
+  - first:
+      213: -3080866742490075224
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_8
+  - first:
+      213: 1419707901977162964
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_9
+  - first:
+      213: -8231727456694939605
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_10
+  - first:
+      213: -6352941799950228202
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_11
+  - first:
+      213: -2966612732726084555
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_12
+  - first:
+      213: -5711709456897063990
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_13
+  - first:
+      213: 6771200756149171480
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_14
+  - first:
+      213: 4001697392443992586
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_15
+  - first:
+      213: 1061297733903784004
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_16
+  - first:
+      213: -7553205207280123192
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_17
+  - first:
+      213: -5479614030418297076
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_18
+  - first:
+      213: 4498038088332941795
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_19
+  - first:
+      213: -6178005231745971385
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_20
+  - first:
+      213: 7152056446239390064
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_21
+  - first:
+      213: 347567612099122619
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_22
+  - first:
+      213: -8222056153593995779
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_23
+  - first:
+      213: -8891063169123921412
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_24
+  - first:
+      213: 1481875040275577251
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_25
+  - first:
+      213: 614811128983974847
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_26
+  - first:
+      213: 4711294132880740570
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_27
+  - first:
+      213: -3338634329767688625
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_28
+  - first:
+      213: -6810053790270201210
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_29
+  - first:
+      213: -8355680421343964762
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_30
+  - first:
+      213: -7559162323931631461
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_31
+  - first:
+      213: 7412918740887983363
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_32
+  - first:
+      213: 3559023745651705630
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_33
+  - first:
+      213: 7442416015957478104
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_34
+  - first:
+      213: -695804036511572594
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_35
+  - first:
+      213: 6565758923546391306
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_36
+  - first:
+      213: 8959384985801836901
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_37
+  - first:
+      213: 501385356114341855
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_38
+  - first:
+      213: 1936614497019666362
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_39
+  - first:
+      213: 6520902399590474382
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_40
+  - first:
+      213: -3581873665771560560
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_41
+  - first:
+      213: 1135666041818126458
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_42
+  - first:
+      213: 2604876359532287392
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_43
+  - first:
+      213: -7730510946390335127
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_44
+  - first:
+      213: 3389708546272598268
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_45
+  - first:
+      213: -900461752667688449
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_46
+  - first:
+      213: 54024514963117531
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_47
+  - first:
+      213: -4144194388960236068
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_48
+  - first:
+      213: -4830458735906116092
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_49
+  - first:
+      213: -1301595595132352493
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_50
+  - first:
+      213: -4631633002705520735
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_51
+  - first:
+      213: -366028894518114691
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_52
+  - first:
+      213: -6573048471090244644
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_53
+  - first:
+      213: -8652241176394160689
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_54
+  - first:
+      213: -8256711244608657142
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_55
+  - first:
+      213: 4543504378106856743
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_56
+  - first:
+      213: -7911024224859964618
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_57
+  - first:
+      213: 3573084188715459870
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_58
+  - first:
+      213: -6408929532600523
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_59
+  - first:
+      213: 3789992077347866878
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_60
+  - first:
+      213: -8437587384934013573
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_61
+  - first:
+      213: -2238593658205514732
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_62
+  - first:
+      213: -912462133412571395
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_63
+  - first:
+      213: -1313474495717632776
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_64
+  - first:
+      213: -3410217252415740698
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_65
+  - first:
+      213: -5408292932766603733
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_66
+  - first:
+      213: 8652483323204469888
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_67
+  - first:
+      213: -8397010485433941245
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_68
+  - first:
+      213: 5295619403426945893
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_69
+  - first:
+      213: 491616356718024258
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_70
+  - first:
+      213: 3881909780328792315
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_71
+  - first:
+      213: 2942994944454267042
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_72
+  - first:
+      213: 8318443069329825904
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_73
+  - first:
+      213: 8149400164662835488
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_74
+  - first:
+      213: 3662381868947037023
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_75
+  - first:
+      213: 6429127449393190400
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_76
+  - first:
+      213: 3585490383468454148
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_77
+  - first:
+      213: -8853397447497795350
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_78
+  - first:
+      213: 788559115588838024
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_79
+  - first:
+      213: -8699063345858361468
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_80
+  - first:
+      213: 1526221749182883387
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_81
+  - first:
+      213: 1734825289415183248
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_82
+  - first:
+      213: 6930498322348312042
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_83
+  - first:
+      213: -6647401404652179714
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_84
+  - first:
+      213: -5062250453985209091
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_85
+  - first:
+      213: -1080106354359410992
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_86
+  - first:
+      213: -8211174930513302159
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_87
+  - first:
+      213: -6000645225246853237
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_88
+  - first:
+      213: 8899490348529291678
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_89
+  - first:
+      213: 3799429795595081946
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_90
+  - first:
+      213: 362335900425212084
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_91
+  - first:
+      213: -1614751760154782588
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_92
+  - first:
+      213: 8676762978506102027
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_93
+  - first:
+      213: 5905310463374064021
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_94
+  - first:
+      213: -1392365705550644524
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_95
+  - first:
+      213: 1243724920962707590
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_96
+  - first:
+      213: 834545535560275250
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_97
+  - first:
+      213: 132126590924050406
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_98
+  - first:
+      213: -5725392825939410871
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_99
+  - first:
+      213: -410649395461710005
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_100
+  - first:
+      213: 4427524985425379569
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_101
+  - first:
+      213: 4643744132931837564
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_102
+  - first:
+      213: -85580419347252874
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_103
+  - first:
+      213: -4643600158083138864
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_104
+  - first:
+      213: 5824462454758531861
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_105
+  - first:
+      213: -2214197962832570327
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_106
+  - first:
+      213: -9089216679356672437
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_107
+  - first:
+      213: -5238102555244281391
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_108
+  - first:
+      213: 7342920144969206665
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_109
+  - first:
+      213: 6571476558742982483
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_110
+  - first:
+      213: -1898444590978201379
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_111
+  - first:
+      213: 5503401463799772127
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_112
+  - first:
+      213: 5225908771594368842
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_113
+  - first:
+      213: -2657435625182294981
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_114
+  - first:
+      213: -7072469096158240897
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_115
+  - first:
+      213: 8429544059163396269
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_116
+  - first:
+      213: 7385490381389391557
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_117
+  - first:
+      213: -7791045329524076254
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_118
+  - first:
+      213: -2870420806445653384
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_119
+  - first:
+      213: -6387913284778872891
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_120
+  - first:
+      213: 8815186444177937148
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_121
+  - first:
+      213: 5871807412635080237
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_122
+  - first:
+      213: -5088235994356624133
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_123
+  - first:
+      213: 5599072838255357798
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_124
+  - first:
+      213: -7264360550532879144
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_125
+  - first:
+      213: 5219632094772760319
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_126
+  - first:
+      213: 5045483886332798109
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_127
+  - first:
+      213: 2325710488986963719
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_128
+  - first:
+      213: 5329071271580060294
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_129
+  - first:
+      213: -9139485350042560979
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_130
+  - first:
+      213: -1399216943672240108
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_131
+  - first:
+      213: 2560775716657261978
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_132
+  - first:
+      213: 5708503033737412508
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_133
+  - first:
+      213: -1453734271850211583
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_134
+  - first:
+      213: 4245533805858541765
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_135
+  - first:
+      213: 6858482130368435668
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_136
+  - first:
+      213: 6935382570038087132
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_137
+  - first:
+      213: 5635309463886329495
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_138
+  - first:
+      213: 2088261104801903607
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_139
+  - first:
+      213: -6159190876937176028
+    second: Sword Master Sprite Sheet 90x37 without VFX 1_140
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 962
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595c8632fb5ae5f70800000000000000
+      internalID: 9177955330979054997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 925
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e3a41ffc501eb60800000000000000
+      internalID: 7773500822482730645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 925
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324dde6cc46875b70800000000000000
+      internalID: 8887720053952074787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 925
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b48a0aba14963d0800000000000000
+      internalID: -3212964653761541236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 925
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec0062d56464d300800000000000000
+      internalID: 275955865660427488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_5
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 925
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98ebccd88aca0290800000000000000
+      internalID: -7923297905236252515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_6
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 925
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7efdb10566503820800000000000000
+      internalID: 2895909552220143227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_7
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 925
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655275041ce0b8ce0800000000000000
+      internalID: -1402010635824847530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_8
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 925
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af609555009e35d0800000000000000
+      internalID: -3080866742490075224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 925
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4f92e90d0d3b310800000000000000
+      internalID: 1419707901977162964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 888
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b205edfdd7703cd80800000000000000
+      internalID: -8231727456694939605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 888
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6156c3f9711d5d7a0800000000000000
+      internalID: -6352941799950228202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_12
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 888
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cf5b7ff6974d6d0800000000000000
+      internalID: -2966612732726084555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_13
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 888
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac34969c28eebb0b0800000000000000
+      internalID: -5711709456897063990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_14
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 888
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815b02d563328fd50800000000000000
+      internalID: 6771200756149171480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_15
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 888
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a2b379392e88730800000000000000
+      internalID: 4001697392443992586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_16
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 888
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448134e7aac7abe00800000000000000
+      internalID: 1061297733903784004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_17
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 888
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c20070f1ef9d2790800000000000000
+      internalID: -7553205207280123192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 851
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fbba2521084f3b0800000000000000
+      internalID: -5479614030418297076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 851
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e913494fcd3c6e30800000000000000
+      internalID: 4498038088332941795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_20
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 851
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bc64569f0534aa0800000000000000
+      internalID: -6178005231745971385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_21
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 851
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07934a3d175314360800000000000000
+      internalID: 7152056446239390064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_22
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 851
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb55996d6eec2d400800000000000000
+      internalID: 347567612099122619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_23
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 851
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd17b99d7365ed80800000000000000
+      internalID: -8222056153593995779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_24
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 851
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf15fc097299c9480800000000000000
+      internalID: -8891063169123921412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_25
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 851
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9b4217f7da09410800000000000000
+      internalID: 1481875040275577251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 814
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3fb03e67f388800800000000000000
+      internalID: 614811128983974847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 814
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad01db66d01e16140800000000000000
+      internalID: 4711294132880740570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_28
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 814
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46c54314c9caa1d0800000000000000
+      internalID: -3338634329767688625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_29
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 814
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68264a1b824dd71a0800000000000000
+      internalID: -6810053790270201210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_30
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 814
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a15b155de8aa0c80800000000000000
+      internalID: -8355680421343964762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_31
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 814
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90f982aae5781790800000000000000
+      internalID: -7559162323931631461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_32
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 814
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305d67bc15affd660800000000000000
+      internalID: 7412918740887983363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_33
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 814
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1700ca7d31346130800000000000000
+      internalID: 3559023745651705630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 777
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dac2d55fe5c84760800000000000000
+      internalID: 7442416015957478104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_35
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 777
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8dd1725ae10856f0800000000000000
+      internalID: -695804036511572594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_36
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 777
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0375de34f24e1b50800000000000000
+      internalID: 6565758923546391306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_37
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 777
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569cfacfc21265c70800000000000000
+      internalID: 8959384985801836901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_38
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 777
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf27ce235745f600800000000000000
+      internalID: 501385356114341855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_39
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 777
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf9ab9df9c30ea10800000000000000
+      internalID: 1936614497019666362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_40
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 777
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e822596ee26ee7a50800000000000000
+      internalID: 6520902399590474382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_41
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 777
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0912c59e0e0aa4ec0800000000000000
+      internalID: -3581873665771560560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 740
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a781b0e7f32b2cf00800000000000000
+      internalID: 1135666041818126458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_43
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 740
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a51cbd6f31662420800000000000000
+      internalID: 2604876359532287392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_44
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 740
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961a2249045b7b490800000000000000
+      internalID: -7730510946390335127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_45
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 740
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf81fa0a6f9aa0f20800000000000000
+      internalID: 3389708546272598268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_46
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 740
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1ba6a8ecae083f0800000000000000
+      internalID: -900461752667688449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_47
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 740
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd51a87920fefb000800000000000000
+      internalID: 54024514963117531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_48
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 740
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddabddf82ddc76c0800000000000000
+      internalID: -4144194388960236068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_49
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 740
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e22206f53c6fcb0800000000000000
+      internalID: -4830458735906116092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_50
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 740
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3184ceec3bdcfede0800000000000000
+      internalID: -1301595595132352493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_51
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 740
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7f2cfc25229bfb0800000000000000
+      internalID: -4631633002705520735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 703
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7608b4e8aa9beaf0800000000000000
+      internalID: -366028894518114691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_53
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 703
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3dd35bd37d7c4a0800000000000000
+      internalID: -6573048471090244644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_54
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 703
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5a40add701de780800000000000000
+      internalID: -8652241176394160689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_55
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 703
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09a0247ed44a6d80800000000000000
+      internalID: -8256711244608657142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_56
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 703
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725cd7cc825cd0f30800000000000000
+      internalID: 4543504378106856743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_57
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 703
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b36b3c165663290800000000000000
+      internalID: -7911024224859964618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_58
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 703
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1523fc7325269130800000000000000
+      internalID: 3573084188715459870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 666
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f91dfcc1b39eff0800000000000000
+      internalID: -6408929532600523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_60
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 666
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef84ddfc6b1c89430800000000000000
+      internalID: 3789992077347866878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_61
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 666
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75e0b74afaa7ea80800000000000000
+      internalID: -8437587384934013573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_62
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 666
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414d73eadeaeee0e0800000000000000
+      internalID: -2238593658205514732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_63
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 666
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6d2fa26884653f0800000000000000
+      internalID: -912462133412571395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 629
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4173db7e995cde0800000000000000
+      internalID: -1313474495717632776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_65
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 629
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4e9de1a797ca0d0800000000000000
+      internalID: -3410217252415740698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_66
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 629
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26e0356b32e1f4b0800000000000000
+      internalID: -5408292932766603733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_67
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 629
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08408985dbbc31870800000000000000
+      internalID: 8652483323204469888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_68
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 629
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303ca78e373d77b80800000000000000
+      internalID: -8397010485433941245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 592
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bddee3ac1dd7940800000000000000
+      internalID: 5295619403426945893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_70
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 592
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24613f3c87292d600800000000000000
+      internalID: 491616356718024258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_71
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 592
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0cc92c0605fd530800000000000000
+      internalID: 3881909780328792315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_72
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 592
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a097ff2f4e97d820800000000000000
+      internalID: 2942994944454267042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_73
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 592
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070e6b706eb017370800000000000000
+      internalID: 8318443069329825904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_74
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 592
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029fc3bb54c781170800000000000000
+      internalID: 8149400164662835488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 555
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b5b6ad7e463d230800000000000000
+      internalID: 3662381868947037023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_76
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 555
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0065bcc2a59d83950800000000000000
+      internalID: 6429127449393190400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_77
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 555
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401673cc18832c130800000000000000
+      internalID: 3585490383468454148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_78
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 555
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae83b86cde9622580800000000000000
+      internalID: -8853397447497795350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_79
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 555
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882a111765681fa00800000000000000
+      internalID: 788559115588838024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_80
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 555
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487cd7ff9f7b64780800000000000000
+      internalID: -8699063345858361468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 518
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b366588389a3e2510800000000000000
+      internalID: 1526221749182883387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_82
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 518
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bc4f2c866531810800000000000000
+      internalID: 1734825289415183248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_83
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 518
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5030c31831e2060800000000000000
+      internalID: 6930498322348312042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_84
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 518
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe264454afafb3a0800000000000000
+      internalID: -6647401404652179714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_85
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 518
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4d62678064fb9b0800000000000000
+      internalID: -5062250453985209091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_86
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 518
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ded3cc4ef0b201f0800000000000000
+      internalID: -1080106354359410992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 481
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d6926c7eb0c0e80800000000000000
+      internalID: -8211174930513302159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_88
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 481
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87740ed5fc69bca0800000000000000
+      internalID: -6000645225246853237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_89
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 481
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e911b1a0257518b70800000000000000
+      internalID: 8899490348529291678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8da73d4494ab430800000000000000
+      internalID: 3799429795595081946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_91
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 444
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0573ae496470500800000000000000
+      internalID: 362335900425212084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_92
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 444
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484998754df3799e0800000000000000
+      internalID: -1614751760154782588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_93
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 444
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05dd1e15fd0a6870800000000000000
+      internalID: 8676762978506102027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 407
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599fec92490e3f150800000000000000
+      internalID: 5905310463374064021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_95
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 407
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dab73394c25dace0800000000000000
+      internalID: -1392365705550644524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_96
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 407
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6807840e939924110800000000000000
+      internalID: 1243724920962707590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23555f33eb6e49b00800000000000000
+      internalID: 834545535560275250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_98
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 370
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef49653f6865d100800000000000000
+      internalID: 132126590924050406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_99
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 370
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940cf4a2f815b80b0800000000000000
+      internalID: -5725392825939410871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 333
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f9640fc841d4af0800000000000000
+      internalID: -410649395461710005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_101
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 333
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f04276248ab17d30800000000000000
+      internalID: 4427524985425379569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_102
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 333
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ed43f6fa4e17040800000000000000
+      internalID: 4643744132931837564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_103
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 333
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679f311ef05ffcef0800000000000000
+      internalID: -85580419347252874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_104
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 333
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dab182524e9e8fb0800000000000000
+      internalID: -4643600158083138864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_105
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 333
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5136b774eb5a4d050800000000000000
+      internalID: 5824462454758531861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92898f22fa69541e0800000000000000
+      internalID: -2214197962832570327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_107
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 296
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46d36c369d9cd180800000000000000
+      internalID: -9089216679356672437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_108
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 296
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d149998a758e47b0800000000000000
+      internalID: -5238102555244281391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_109
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 296
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b03f6a7fa47e560800000000000000
+      internalID: 7342920144969206665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_110
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 296
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f8eadec13923b50800000000000000
+      internalID: 6571476558742982483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_111
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 296
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd88bf0f3be57a5e0800000000000000
+      internalID: -1898444590978201379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_112
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 296
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3762a1972006c40800000000000000
+      internalID: 5503401463799772127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_113
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 296
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47fa77f658268840800000000000000
+      internalID: 5225908771594368842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_114
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 296
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c8a8be064ee1bd0800000000000000
+      internalID: -2657435625182294981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 259
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f5f8e14da89dd90800000000000000
+      internalID: -7072469096158240897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_116
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 259
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da840f009a1cbf470800000000000000
+      internalID: 8429544059163396269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_117
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 259
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c667c23f588e7660800000000000000
+      internalID: 7385490381389391557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_118
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 259
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22150c03d85a0e390800000000000000
+      internalID: -7791045329524076254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872aae31c773a28d0800000000000000
+      internalID: -2870420806445653384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_120
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 222
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfa1cc46b29957a0800000000000000
+      internalID: -6387913284778872891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_121
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 222
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2901abd55d55a70800000000000000
+      internalID: 8815186444177937148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_122
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 222
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d269e9b4bb9dc7150800000000000000
+      internalID: 5871807412635080237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_123
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 222
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4540f5254f269b0800000000000000
+      internalID: -5088235994356624133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 185
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fafbbc417e3bd40800000000000000
+      internalID: 5599072838255357798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc6029419ecf2b90800000000000000
+      internalID: -7264360550532879144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_126
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 148
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe88234cbbdf6840800000000000000
+      internalID: 5219632094772760319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94e2dcccd8250640800000000000000
+      internalID: 5045483886332798109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_128
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 111
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fc77a1e55964020800000000000000
+      internalID: 2325710488986963719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_129
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 111
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ac44d361aa4f940800000000000000
+      internalID: 5329071271580060294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2693d84f760a2180800000000000000
+      internalID: -9139485350042560979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_131
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 74
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41855b46a9bf49ce0800000000000000
+      internalID: -1399216943672240108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_132
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 74
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d6dcc52f3b98320800000000000000
+      internalID: 2560775716657261978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f7825a34da83f40800000000000000
+      internalID: 5708503033737412508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_134
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 37
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1079e88c16c43dbe0800000000000000
+      internalID: -1453734271850211583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c05c1ca08a2bea30800000000000000
+      internalID: 4245533805858541765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_136
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d599f6e8293e2f50800000000000000
+      internalID: 6858482130368435668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_137
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd4e84c3bd6f3060800000000000000
+      internalID: 6935382570038087132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_138
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796775aa914a43e40800000000000000
+      internalID: 5635309463886329495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_139
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f37bf5296efafc10800000000000000
+      internalID: 2088261104801903607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword Master Sprite Sheet 90x37 without VFX 1_140
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c355cb788268aa0800000000000000
+      internalID: -6159190876937176028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sword Master Sprite Sheet 90x37 without VFX 1_0: 9177955330979054997
+      Sword Master Sprite Sheet 90x37 without VFX 1_1: 7773500822482730645
+      Sword Master Sprite Sheet 90x37 without VFX 1_10: -8231727456694939605
+      Sword Master Sprite Sheet 90x37 without VFX 1_100: -410649395461710005
+      Sword Master Sprite Sheet 90x37 without VFX 1_101: 4427524985425379569
+      Sword Master Sprite Sheet 90x37 without VFX 1_102: 4643744132931837564
+      Sword Master Sprite Sheet 90x37 without VFX 1_103: -85580419347252874
+      Sword Master Sprite Sheet 90x37 without VFX 1_104: -4643600158083138864
+      Sword Master Sprite Sheet 90x37 without VFX 1_105: 5824462454758531861
+      Sword Master Sprite Sheet 90x37 without VFX 1_106: -2214197962832570327
+      Sword Master Sprite Sheet 90x37 without VFX 1_107: -9089216679356672437
+      Sword Master Sprite Sheet 90x37 without VFX 1_108: -5238102555244281391
+      Sword Master Sprite Sheet 90x37 without VFX 1_109: 7342920144969206665
+      Sword Master Sprite Sheet 90x37 without VFX 1_11: -6352941799950228202
+      Sword Master Sprite Sheet 90x37 without VFX 1_110: 6571476558742982483
+      Sword Master Sprite Sheet 90x37 without VFX 1_111: -1898444590978201379
+      Sword Master Sprite Sheet 90x37 without VFX 1_112: 5503401463799772127
+      Sword Master Sprite Sheet 90x37 without VFX 1_113: 5225908771594368842
+      Sword Master Sprite Sheet 90x37 without VFX 1_114: -2657435625182294981
+      Sword Master Sprite Sheet 90x37 without VFX 1_115: -7072469096158240897
+      Sword Master Sprite Sheet 90x37 without VFX 1_116: 8429544059163396269
+      Sword Master Sprite Sheet 90x37 without VFX 1_117: 7385490381389391557
+      Sword Master Sprite Sheet 90x37 without VFX 1_118: -7791045329524076254
+      Sword Master Sprite Sheet 90x37 without VFX 1_119: -2870420806445653384
+      Sword Master Sprite Sheet 90x37 without VFX 1_12: -2966612732726084555
+      Sword Master Sprite Sheet 90x37 without VFX 1_120: -6387913284778872891
+      Sword Master Sprite Sheet 90x37 without VFX 1_121: 8815186444177937148
+      Sword Master Sprite Sheet 90x37 without VFX 1_122: 5871807412635080237
+      Sword Master Sprite Sheet 90x37 without VFX 1_123: -5088235994356624133
+      Sword Master Sprite Sheet 90x37 without VFX 1_124: 5599072838255357798
+      Sword Master Sprite Sheet 90x37 without VFX 1_125: -7264360550532879144
+      Sword Master Sprite Sheet 90x37 without VFX 1_126: 5219632094772760319
+      Sword Master Sprite Sheet 90x37 without VFX 1_127: 5045483886332798109
+      Sword Master Sprite Sheet 90x37 without VFX 1_128: 2325710488986963719
+      Sword Master Sprite Sheet 90x37 without VFX 1_129: 5329071271580060294
+      Sword Master Sprite Sheet 90x37 without VFX 1_13: -5711709456897063990
+      Sword Master Sprite Sheet 90x37 without VFX 1_130: -9139485350042560979
+      Sword Master Sprite Sheet 90x37 without VFX 1_131: -1399216943672240108
+      Sword Master Sprite Sheet 90x37 without VFX 1_132: 2560775716657261978
+      Sword Master Sprite Sheet 90x37 without VFX 1_133: 5708503033737412508
+      Sword Master Sprite Sheet 90x37 without VFX 1_134: -1453734271850211583
+      Sword Master Sprite Sheet 90x37 without VFX 1_135: 4245533805858541765
+      Sword Master Sprite Sheet 90x37 without VFX 1_136: 6858482130368435668
+      Sword Master Sprite Sheet 90x37 without VFX 1_137: 6935382570038087132
+      Sword Master Sprite Sheet 90x37 without VFX 1_138: 5635309463886329495
+      Sword Master Sprite Sheet 90x37 without VFX 1_139: 2088261104801903607
+      Sword Master Sprite Sheet 90x37 without VFX 1_14: 6771200756149171480
+      Sword Master Sprite Sheet 90x37 without VFX 1_140: -6159190876937176028
+      Sword Master Sprite Sheet 90x37 without VFX 1_15: 4001697392443992586
+      Sword Master Sprite Sheet 90x37 without VFX 1_16: 1061297733903784004
+      Sword Master Sprite Sheet 90x37 without VFX 1_17: -7553205207280123192
+      Sword Master Sprite Sheet 90x37 without VFX 1_18: -5479614030418297076
+      Sword Master Sprite Sheet 90x37 without VFX 1_19: 4498038088332941795
+      Sword Master Sprite Sheet 90x37 without VFX 1_2: 8887720053952074787
+      Sword Master Sprite Sheet 90x37 without VFX 1_20: -6178005231745971385
+      Sword Master Sprite Sheet 90x37 without VFX 1_21: 7152056446239390064
+      Sword Master Sprite Sheet 90x37 without VFX 1_22: 347567612099122619
+      Sword Master Sprite Sheet 90x37 without VFX 1_23: -8222056153593995779
+      Sword Master Sprite Sheet 90x37 without VFX 1_24: -8891063169123921412
+      Sword Master Sprite Sheet 90x37 without VFX 1_25: 1481875040275577251
+      Sword Master Sprite Sheet 90x37 without VFX 1_26: 614811128983974847
+      Sword Master Sprite Sheet 90x37 without VFX 1_27: 4711294132880740570
+      Sword Master Sprite Sheet 90x37 without VFX 1_28: -3338634329767688625
+      Sword Master Sprite Sheet 90x37 without VFX 1_29: -6810053790270201210
+      Sword Master Sprite Sheet 90x37 without VFX 1_3: -3212964653761541236
+      Sword Master Sprite Sheet 90x37 without VFX 1_30: -8355680421343964762
+      Sword Master Sprite Sheet 90x37 without VFX 1_31: -7559162323931631461
+      Sword Master Sprite Sheet 90x37 without VFX 1_32: 7412918740887983363
+      Sword Master Sprite Sheet 90x37 without VFX 1_33: 3559023745651705630
+      Sword Master Sprite Sheet 90x37 without VFX 1_34: 7442416015957478104
+      Sword Master Sprite Sheet 90x37 without VFX 1_35: -695804036511572594
+      Sword Master Sprite Sheet 90x37 without VFX 1_36: 6565758923546391306
+      Sword Master Sprite Sheet 90x37 without VFX 1_37: 8959384985801836901
+      Sword Master Sprite Sheet 90x37 without VFX 1_38: 501385356114341855
+      Sword Master Sprite Sheet 90x37 without VFX 1_39: 1936614497019666362
+      Sword Master Sprite Sheet 90x37 without VFX 1_4: 275955865660427488
+      Sword Master Sprite Sheet 90x37 without VFX 1_40: 6520902399590474382
+      Sword Master Sprite Sheet 90x37 without VFX 1_41: -3581873665771560560
+      Sword Master Sprite Sheet 90x37 without VFX 1_42: 1135666041818126458
+      Sword Master Sprite Sheet 90x37 without VFX 1_43: 2604876359532287392
+      Sword Master Sprite Sheet 90x37 without VFX 1_44: -7730510946390335127
+      Sword Master Sprite Sheet 90x37 without VFX 1_45: 3389708546272598268
+      Sword Master Sprite Sheet 90x37 without VFX 1_46: -900461752667688449
+      Sword Master Sprite Sheet 90x37 without VFX 1_47: 54024514963117531
+      Sword Master Sprite Sheet 90x37 without VFX 1_48: -4144194388960236068
+      Sword Master Sprite Sheet 90x37 without VFX 1_49: -4830458735906116092
+      Sword Master Sprite Sheet 90x37 without VFX 1_5: -7923297905236252515
+      Sword Master Sprite Sheet 90x37 without VFX 1_50: -1301595595132352493
+      Sword Master Sprite Sheet 90x37 without VFX 1_51: -4631633002705520735
+      Sword Master Sprite Sheet 90x37 without VFX 1_52: -366028894518114691
+      Sword Master Sprite Sheet 90x37 without VFX 1_53: -6573048471090244644
+      Sword Master Sprite Sheet 90x37 without VFX 1_54: -8652241176394160689
+      Sword Master Sprite Sheet 90x37 without VFX 1_55: -8256711244608657142
+      Sword Master Sprite Sheet 90x37 without VFX 1_56: 4543504378106856743
+      Sword Master Sprite Sheet 90x37 without VFX 1_57: -7911024224859964618
+      Sword Master Sprite Sheet 90x37 without VFX 1_58: 3573084188715459870
+      Sword Master Sprite Sheet 90x37 without VFX 1_59: -6408929532600523
+      Sword Master Sprite Sheet 90x37 without VFX 1_6: 2895909552220143227
+      Sword Master Sprite Sheet 90x37 without VFX 1_60: 3789992077347866878
+      Sword Master Sprite Sheet 90x37 without VFX 1_61: -8437587384934013573
+      Sword Master Sprite Sheet 90x37 without VFX 1_62: -2238593658205514732
+      Sword Master Sprite Sheet 90x37 without VFX 1_63: -912462133412571395
+      Sword Master Sprite Sheet 90x37 without VFX 1_64: -1313474495717632776
+      Sword Master Sprite Sheet 90x37 without VFX 1_65: -3410217252415740698
+      Sword Master Sprite Sheet 90x37 without VFX 1_66: -5408292932766603733
+      Sword Master Sprite Sheet 90x37 without VFX 1_67: 8652483323204469888
+      Sword Master Sprite Sheet 90x37 without VFX 1_68: -8397010485433941245
+      Sword Master Sprite Sheet 90x37 without VFX 1_69: 5295619403426945893
+      Sword Master Sprite Sheet 90x37 without VFX 1_7: -1402010635824847530
+      Sword Master Sprite Sheet 90x37 without VFX 1_70: 491616356718024258
+      Sword Master Sprite Sheet 90x37 without VFX 1_71: 3881909780328792315
+      Sword Master Sprite Sheet 90x37 without VFX 1_72: 2942994944454267042
+      Sword Master Sprite Sheet 90x37 without VFX 1_73: 8318443069329825904
+      Sword Master Sprite Sheet 90x37 without VFX 1_74: 8149400164662835488
+      Sword Master Sprite Sheet 90x37 without VFX 1_75: 3662381868947037023
+      Sword Master Sprite Sheet 90x37 without VFX 1_76: 6429127449393190400
+      Sword Master Sprite Sheet 90x37 without VFX 1_77: 3585490383468454148
+      Sword Master Sprite Sheet 90x37 without VFX 1_78: -8853397447497795350
+      Sword Master Sprite Sheet 90x37 without VFX 1_79: 788559115588838024
+      Sword Master Sprite Sheet 90x37 without VFX 1_8: -3080866742490075224
+      Sword Master Sprite Sheet 90x37 without VFX 1_80: -8699063345858361468
+      Sword Master Sprite Sheet 90x37 without VFX 1_81: 1526221749182883387
+      Sword Master Sprite Sheet 90x37 without VFX 1_82: 1734825289415183248
+      Sword Master Sprite Sheet 90x37 without VFX 1_83: 6930498322348312042
+      Sword Master Sprite Sheet 90x37 without VFX 1_84: -6647401404652179714
+      Sword Master Sprite Sheet 90x37 without VFX 1_85: -5062250453985209091
+      Sword Master Sprite Sheet 90x37 without VFX 1_86: -1080106354359410992
+      Sword Master Sprite Sheet 90x37 without VFX 1_87: -8211174930513302159
+      Sword Master Sprite Sheet 90x37 without VFX 1_88: -6000645225246853237
+      Sword Master Sprite Sheet 90x37 without VFX 1_89: 8899490348529291678
+      Sword Master Sprite Sheet 90x37 without VFX 1_9: 1419707901977162964
+      Sword Master Sprite Sheet 90x37 without VFX 1_90: 3799429795595081946
+      Sword Master Sprite Sheet 90x37 without VFX 1_91: 362335900425212084
+      Sword Master Sprite Sheet 90x37 without VFX 1_92: -1614751760154782588
+      Sword Master Sprite Sheet 90x37 without VFX 1_93: 8676762978506102027
+      Sword Master Sprite Sheet 90x37 without VFX 1_94: 5905310463374064021
+      Sword Master Sprite Sheet 90x37 without VFX 1_95: -1392365705550644524
+      Sword Master Sprite Sheet 90x37 without VFX 1_96: 1243724920962707590
+      Sword Master Sprite Sheet 90x37 without VFX 1_97: 834545535560275250
+      Sword Master Sprite Sheet 90x37 without VFX 1_98: 132126590924050406
+      Sword Master Sprite Sheet 90x37 without VFX 1_99: -5725392825939410871
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

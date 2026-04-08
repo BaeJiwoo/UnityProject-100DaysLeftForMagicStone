@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 73d3b9f5e60041d4ea80aa2f4d634572
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2907608456816868344
+    second: Earth Burst (64x48)_0
+  - first:
+      213: 8895655888460008436
+    second: Earth Burst (64x48)_1
+  - first:
+      213: -8618908506242107323
+    second: Earth Burst (64x48)_2
+  - first:
+      213: 7291343662063583042
+    second: Earth Burst (64x48)_3
+  - first:
+      213: 4960854941057194589
+    second: Earth Burst (64x48)_4
+  - first:
+      213: -2917498174813878594
+    second: Earth Burst (64x48)_5
+  - first:
+      213: 4352866584999335877
+    second: Earth Burst (64x48)_6
+  - first:
+      213: 3323312379639288605
+    second: Earth Burst (64x48)_7
+  - first:
+      213: 1688795923253411307
+    second: Earth Burst (64x48)_8
+  - first:
+      213: -8993230532550340979
+    second: Earth Burst (64x48)_9
+  - first:
+      213: -6947357370951712565
+    second: Earth Burst (64x48)_10
+  - first:
+      213: 157826770875178595
+    second: Earth Burst (64x48)_11
+  - first:
+      213: 2895924805804290331
+    second: Earth Burst (64x48)_12
+  - first:
+      213: -2393084703778176120
+    second: Earth Burst (64x48)_13
+  - first:
+      213: 142369723567001637
+    second: Earth Burst (64x48)_14
+  - first:
+      213: 1814923986587017752
+    second: Earth Burst (64x48)_15
+  - first:
+      213: -4282517057016854545
+    second: Earth Burst (64x48)_16
+  - first:
+      213: -7850693420375268847
+    second: Earth Burst (64x48)_17
+  - first:
+      213: 4095519570928400233
+    second: Earth Burst (64x48)_18
+  - first:
+      213: -2312032132328046468
+    second: Earth Burst (64x48)_19
+  - first:
+      213: 7824783236867245644
+    second: Earth Burst (64x48)_20
+  - first:
+      213: 623187143370318502
+    second: Earth Burst (64x48)_21
+  - first:
+      213: -3384141474939904974
+    second: Earth Burst (64x48)_22
+  - first:
+      213: -6662767942369086347
+    second: Earth Burst (64x48)_23
+  - first:
+      213: -6656380784391623145
+    second: Earth Burst (64x48)_24
+  - first:
+      213: 8358675864211727247
+    second: Earth Burst (64x48)_25
+  - first:
+      213: -4965236511753218266
+    second: Earth Burst (64x48)_26
+  - first:
+      213: 8688038812360426459
+    second: Earth Burst (64x48)_27
+  - first:
+      213: 2814017074115027692
+    second: Earth Burst (64x48)_28
+  - first:
+      213: 5946926151993831439
+    second: Earth Burst (64x48)_29
+  - first:
+      213: 8689061447991863956
+    second: Earth Burst (64x48)_30
+  - first:
+      213: 697171215892142933
+    second: Earth Burst (64x48)_31
+  - first:
+      213: -4311475953912597558
+    second: Earth Burst (64x48)_32
+  - first:
+      213: 4696850697465557368
+    second: Earth Burst (64x48)_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Earth Burst (64x48)_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 59
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbbd7e7c76e95820800000000000000
+      internalID: 2907608456816868344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Burst (64x48)_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 103
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb45cb36e7b37b70800000000000000
+      internalID: 8895655888460008436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Burst (64x48)_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 104
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548b8d5e06c736880800000000000000
+      internalID: -8618908506242107323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Burst (64x48)_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 105
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f7890fd6e003560800000000000000
+      internalID: 7291343662063583042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Burst (64x48)_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 104
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a94fff84f78d440800000000000000
+      internalID: 4960854941057194589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Burst (64x48)_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 104
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb64e591ed6f287d0800000000000000
+      internalID: -2917498174813878594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Burst (64x48)_6
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 107
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c79d89b81d786c30800000000000000
+      internalID: 4352866584999335877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Burst (64x48)_7
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 59
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13de0a6007ce1e20800000000000000
+      internalID: 3323312379639288605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Burst (64x48)_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 60
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedb5afc1fecf6710800000000000000
+      internalID: 1688795923253411307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Burst (64x48)_9
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 60
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ec3249a70a13380800000000000000
+      internalID: -8993230532550340979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Burst (64x48)_10
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 61
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc04bb0a747069f90800000000000000
+      internalID: -6947357370951712565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Burst (64x48)_11
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 6
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36edf06ac96b03200800000000000000
+      internalID: 157826770875178595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Burst (64x48)_12
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 9
+        width: 51
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11f4328444603820800000000000000
+      internalID: 2895924805804290331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Burst (64x48)_13
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 61
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88381e9142e0aced0800000000000000
+      internalID: -2393084703778176120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Burst (64x48)_14
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 8
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5205bff528cc9f100800000000000000
+      internalID: 142369723567001637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Burst (64x48)_15
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 60
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812eadaffb7ef2910800000000000000
+      internalID: 1814923986587017752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Burst (64x48)_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 9
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe785f72d617194c0800000000000000
+      internalID: -4282517057016854545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Burst (64x48)_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 9
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112290ecdebbc0390800000000000000
+      internalID: -7850693420375268847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Burst (64x48)_18
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 17
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967f8dbc95536d830800000000000000
+      internalID: 4095519570928400233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Burst (64x48)_19
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 7
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c704c4b76030aefd0800000000000000
+      internalID: -2312032132328046468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Burst (64x48)_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 28
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4647ed75e6379c60800000000000000
+      internalID: 7824783236867245644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Burst (64x48)_21
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 12
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2ad25b76106a800800000000000000
+      internalID: 623187143370318502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Burst (64x48)_22
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c5a8c224d1901d0800000000000000
+      internalID: -3384141474939904974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Burst (64x48)_23
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 10
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574fa367bd71983a0800000000000000
+      internalID: -6662767942369086347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Burst (64x48)_24
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 29
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ee99091f8cf93a0800000000000000
+      internalID: -6656380784391623145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Burst (64x48)_25
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 10
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83a8fe896bfff370800000000000000
+      internalID: 8358675864211727247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Burst (64x48)_26
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 8
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627562313bfe71bb0800000000000000
+      internalID: -4965236511753218266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Burst (64x48)_27
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 19
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3cc85c44d129870800000000000000
+      internalID: 8688038812360426459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Burst (64x48)_28
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 18
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2a28e9e956d0720800000000000000
+      internalID: 2814017074115027692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Burst (64x48)_29
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 6
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00b21bb3d9b78250800000000000000
+      internalID: 5946926151993831439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Burst (64x48)_30
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 22
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49aa81fa95fb59870800000000000000
+      internalID: 8689061447991863956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Burst (64x48)_31
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 18
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bd0eee689dca900800000000000000
+      internalID: 697171215892142933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Burst (64x48)_32
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 12
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3b66d867f8a24c0800000000000000
+      internalID: -4311475953912597558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Burst (64x48)_33
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 10
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871fa7903d09e2140800000000000000
+      internalID: 4696850697465557368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Earth Burst (64x48)_0: 2907608456816868344
+      Earth Burst (64x48)_1: 8895655888460008436
+      Earth Burst (64x48)_10: -6947357370951712565
+      Earth Burst (64x48)_11: 157826770875178595
+      Earth Burst (64x48)_12: 2895924805804290331
+      Earth Burst (64x48)_13: -2393084703778176120
+      Earth Burst (64x48)_14: 142369723567001637
+      Earth Burst (64x48)_15: 1814923986587017752
+      Earth Burst (64x48)_16: -4282517057016854545
+      Earth Burst (64x48)_17: -7850693420375268847
+      Earth Burst (64x48)_18: 4095519570928400233
+      Earth Burst (64x48)_19: -2312032132328046468
+      Earth Burst (64x48)_2: -8618908506242107323
+      Earth Burst (64x48)_20: 7824783236867245644
+      Earth Burst (64x48)_21: 623187143370318502
+      Earth Burst (64x48)_22: -3384141474939904974
+      Earth Burst (64x48)_23: -6662767942369086347
+      Earth Burst (64x48)_24: -6656380784391623145
+      Earth Burst (64x48)_25: 8358675864211727247
+      Earth Burst (64x48)_26: -4965236511753218266
+      Earth Burst (64x48)_27: 8688038812360426459
+      Earth Burst (64x48)_28: 2814017074115027692
+      Earth Burst (64x48)_29: 5946926151993831439
+      Earth Burst (64x48)_3: 7291343662063583042
+      Earth Burst (64x48)_30: 8689061447991863956
+      Earth Burst (64x48)_31: 697171215892142933
+      Earth Burst (64x48)_32: -4311475953912597558
+      Earth Burst (64x48)_33: 4696850697465557368
+      Earth Burst (64x48)_4: 4960854941057194589
+      Earth Burst (64x48)_5: -2917498174813878594
+      Earth Burst (64x48)_6: 4352866584999335877
+      Earth Burst (64x48)_7: 3323312379639288605
+      Earth Burst (64x48)_8: 1688795923253411307
+      Earth Burst (64x48)_9: -8993230532550340979
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 68a84f5146455bd4f90235f360b204c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3120860321583867301
+    second: Boulder (64x64)_0
+  - first:
+      213: -3282175906553581876
+    second: Boulder (64x64)_1
+  - first:
+      213: -1159418031969993043
+    second: Boulder (64x64)_2
+  - first:
+      213: 1542128296728005690
+    second: Boulder (64x64)_3
+  - first:
+      213: 8449097050688894902
+    second: Boulder (64x64)_4
+  - first:
+      213: 6405178569854140166
+    second: Boulder (64x64)_5
+  - first:
+      213: -8395549078352771626
+    second: Boulder (64x64)_6
+  - first:
+      213: -2337111683288467693
+    second: Boulder (64x64)_7
+  - first:
+      213: -3270919558193710582
+    second: Boulder (64x64)_8
+  - first:
+      213: 3559183073951068825
+    second: Boulder (64x64)_9
+  - first:
+      213: 950769990199968648
+    second: Boulder (64x64)_10
+  - first:
+      213: 3560618716889394232
+    second: Boulder (64x64)_11
+  - first:
+      213: 6447827505163455999
+    second: Boulder (64x64)_12
+  - first:
+      213: 4177763670358792386
+    second: Boulder (64x64)_13
+  - first:
+      213: -4753661480285127625
+    second: Boulder (64x64)_14
+  - first:
+      213: -4205655737418941264
+    second: Boulder (64x64)_15
+  - first:
+      213: -8146936670972157689
+    second: Boulder (64x64)_16
+  - first:
+      213: 1777209078387997163
+    second: Boulder (64x64)_17
+  - first:
+      213: -4008725704430882375
+    second: Boulder (64x64)_18
+  - first:
+      213: -3593701873352161419
+    second: Boulder (64x64)_19
+  - first:
+      213: 6961985600503479260
+    second: Boulder (64x64)_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boulder (64x64)_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 200
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a52e9d6de58f4b20800000000000000
+      internalID: 3120860321583867301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boulder (64x64)_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 200
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce2787176e5372d0800000000000000
+      internalID: -3282175906553581876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boulder (64x64)_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 200
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daefe3a517be8efe0800000000000000
+      internalID: -1159418031969993043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boulder (64x64)_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 200
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c0d8ce38db66510800000000000000
+      internalID: 1542128296728005690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boulder (64x64)_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 200
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7bc1b9009314570800000000000000
+      internalID: 8449097050688894902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boulder (64x64)_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 136
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fb91329f3c3e850800000000000000
+      internalID: 6405178569854140166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boulder (64x64)_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 136
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5cc6248940d7b80800000000000000
+      internalID: -8395549078352771626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boulder (64x64)_7
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 136
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317fc2d7e49e09fd0800000000000000
+      internalID: -2337111683288467693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boulder (64x64)_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 72
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a7cfcedfb5b92d0800000000000000
+      internalID: -3270919558193710582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boulder (64x64)_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 72
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992bf6df522c46130800000000000000
+      internalID: 3559183073951068825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boulder (64x64)_10
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 72
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88388f8c440d13d00800000000000000
+      internalID: 950769990199968648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boulder (64x64)_11
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 8
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cacc8abdbd96130800000000000000
+      internalID: 3560618716889394232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boulder (64x64)_12
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 3
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffdc24234f84b7950800000000000000
+      internalID: 6447827505163455999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boulder (64x64)_13
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c894476ce56af930800000000000000
+      internalID: 4177763670358792386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boulder (64x64)_14
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cb525d11a970eb0800000000000000
+      internalID: -4753661480285127625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boulder (64x64)_15
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc7f8ba36282a5c0800000000000000
+      internalID: -4205655737418941264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boulder (64x64)_16
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701e917134440fe80800000000000000
+      internalID: -8146936670972157689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boulder (64x64)_17
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 0
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be97ae0ad3ae9a810800000000000000
+      internalID: 1777209078387997163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boulder (64x64)_18
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 8
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b17b6106352e58c0800000000000000
+      internalID: -4008725704430882375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boulder (64x64)_19
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 8
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577403abf2b902ec0800000000000000
+      internalID: -3593701873352161419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boulder (64x64)_20
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 8
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbf4697401fd9060800000000000000
+      internalID: 6961985600503479260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Boulder (64x64)_0: 3120860321583867301
+      Boulder (64x64)_1: -3282175906553581876
+      Boulder (64x64)_10: 950769990199968648
+      Boulder (64x64)_11: 3560618716889394232
+      Boulder (64x64)_12: 6447827505163455999
+      Boulder (64x64)_13: 4177763670358792386
+      Boulder (64x64)_14: -4753661480285127625
+      Boulder (64x64)_15: -4205655737418941264
+      Boulder (64x64)_16: -8146936670972157689
+      Boulder (64x64)_17: 1777209078387997163
+      Boulder (64x64)_18: -4008725704430882375
+      Boulder (64x64)_19: -3593701873352161419
+      Boulder (64x64)_2: -1159418031969993043
+      Boulder (64x64)_20: 6961985600503479260
+      Boulder (64x64)_3: 1542128296728005690
+      Boulder (64x64)_4: 8449097050688894902
+      Boulder (64x64)_5: 6405178569854140166
+      Boulder (64x64)_6: -8395549078352771626
+      Boulder (64x64)_7: -2337111683288467693
+      Boulder (64x64)_8: -3270919558193710582
+      Boulder (64x64)_9: 3559183073951068825
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

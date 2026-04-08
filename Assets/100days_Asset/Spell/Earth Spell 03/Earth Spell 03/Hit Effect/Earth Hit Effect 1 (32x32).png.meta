@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 56305fdf362c9ea44a16df2774401225
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6588116921287534808
+    second: Earth Hit Effect 1 (32x32)_0
+  - first:
+      213: -4525614141789705465
+    second: Earth Hit Effect 1 (32x32)_1
+  - first:
+      213: -8568384859707716322
+    second: Earth Hit Effect 1 (32x32)_2
+  - first:
+      213: 3761065206909087288
+    second: Earth Hit Effect 1 (32x32)_3
+  - first:
+      213: 4775142263437341732
+    second: Earth Hit Effect 1 (32x32)_4
+  - first:
+      213: -3606667417195071600
+    second: Earth Hit Effect 1 (32x32)_5
+  - first:
+      213: -6087510804646959996
+    second: Earth Hit Effect 1 (32x32)_6
+  - first:
+      213: 8983419665906463867
+    second: Earth Hit Effect 1 (32x32)_7
+  - first:
+      213: 4689555184798471358
+    second: Earth Hit Effect 1 (32x32)_8
+  - first:
+      213: 6470324692224334738
+    second: Earth Hit Effect 1 (32x32)_9
+  - first:
+      213: 5482203054125469818
+    second: Earth Hit Effect 1 (32x32)_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Earth Hit Effect 1 (32x32)_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d865104f61bd6b50800000000000000
+      internalID: 6588116921287534808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Hit Effect 1 (32x32)_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70be3207ae9c131c0800000000000000
+      internalID: -4525614141789705465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Hit Effect 1 (32x32)_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 8
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d494a0e5bf61980800000000000000
+      internalID: -8568384859707716322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Hit Effect 1 (32x32)_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 19
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ea5e2f0ecf13430800000000000000
+      internalID: 3761065206909087288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Hit Effect 1 (32x32)_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 10
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424332cb696b44240800000000000000
+      internalID: 4775142263437341732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Hit Effect 1 (32x32)_5
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 10
+        width: 53
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097bc1fc71b82fdc0800000000000000
+      internalID: -3606667417195071600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Hit Effect 1 (32x32)_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 5
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4846aaa1d21d48ba0800000000000000
+      internalID: -6087510804646959996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Hit Effect 1 (32x32)_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74fc9607948bac70800000000000000
+      internalID: 8983419665906463867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Hit Effect 1 (32x32)_8
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 5
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb411802895a41140800000000000000
+      internalID: 4689555184798471358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Hit Effect 1 (32x32)_9
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b587db6063bc950800000000000000
+      internalID: 6470324692224334738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Hit Effect 1 (32x32)_10
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70d5bbb1a2b41c40800000000000000
+      internalID: 5482203054125469818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Earth Hit Effect 1 (32x32)_0: 6588116921287534808
+      Earth Hit Effect 1 (32x32)_1: -4525614141789705465
+      Earth Hit Effect 1 (32x32)_10: 5482203054125469818
+      Earth Hit Effect 1 (32x32)_2: -8568384859707716322
+      Earth Hit Effect 1 (32x32)_3: 3761065206909087288
+      Earth Hit Effect 1 (32x32)_4: 4775142263437341732
+      Earth Hit Effect 1 (32x32)_5: -3606667417195071600
+      Earth Hit Effect 1 (32x32)_6: -6087510804646959996
+      Earth Hit Effect 1 (32x32)_7: 8983419665906463867
+      Earth Hit Effect 1 (32x32)_8: 4689555184798471358
+      Earth Hit Effect 1 (32x32)_9: 6470324692224334738
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

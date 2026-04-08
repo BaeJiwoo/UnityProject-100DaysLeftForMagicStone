@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 706c8bc2698e32c419460b2ed430d32b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3165763791589602568
+    second: Eletric bow wo blur_0
+  - first:
+      213: -5464504477444056836
+    second: Eletric bow wo blur_1
+  - first:
+      213: -6611019151248997934
+    second: Eletric bow wo blur_2
+  - first:
+      213: 2793569787905999009
+    second: Eletric bow wo blur_3
+  - first:
+      213: 6335195385616881866
+    second: Eletric bow wo blur_4
+  - first:
+      213: -5967670415773516406
+    second: Eletric bow wo blur_5
+  - first:
+      213: -7332608120467022136
+    second: Eletric bow wo blur_6
+  - first:
+      213: -6644506462350524806
+    second: Eletric bow wo blur_7
+  - first:
+      213: -5709156298636354785
+    second: Eletric bow wo blur_8
+  - first:
+      213: 4503687575099109566
+    second: Eletric bow wo blur_9
+  - first:
+      213: 5847122417381185539
+    second: Eletric bow wo blur_10
+  - first:
+      213: -6469081028193825819
+    second: Eletric bow wo blur_11
+  - first:
+      213: -682441733847977225
+    second: Eletric bow wo blur_12
+  - first:
+      213: 285502050804663650
+    second: Eletric bow wo blur_13
+  - first:
+      213: -3791297697120100127
+    second: Eletric bow wo blur_14
+  - first:
+      213: 1188473441941527528
+    second: Eletric bow wo blur_15
+  - first:
+      213: -7252506719229718771
+    second: Eletric bow wo blur_16
+  - first:
+      213: 8695860617008880105
+    second: Eletric bow wo blur_17
+  - first:
+      213: -6519115551773691323
+    second: Eletric bow wo blur_18
+  - first:
+      213: -3404793022396391694
+    second: Eletric bow wo blur_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Eletric bow wo blur_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 530
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa028fba92f014d0800000000000000
+      internalID: -3165763791589602568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow wo blur_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 515
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf85a64412e2a24b0800000000000000
+      internalID: -5464504477444056836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow wo blur_2
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 496
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1cf7ecb11f044a0800000000000000
+      internalID: -6611019151248997934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow wo blur_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 486
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0866fcbe0c4c620800000000000000
+      internalID: 2793569787905999009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow wo blur_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 457
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8536e43a22be750800000000000000
+      internalID: 6335195385616881866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow wo blur_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 428
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d363bff539e2da0800000000000000
+      internalID: -5967670415773516406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow wo blur_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 392
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce1b66a3c75d3a90800000000000000
+      internalID: -7332608120467022136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow wo blur_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 356
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e3fcb9398f9c3a0800000000000000
+      internalID: -6644506462350524806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow wo blur_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b9894489005c0b0800000000000000
+      internalID: -5709156298636354785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow wo blur_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb07f1decff408e30800000000000000
+      internalID: 4503687575099109566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow wo blur_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3089a36fbd6252150800000000000000
+      internalID: 5847122417381185539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow wo blur_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 231
+        width: 59
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebc94b54153936a0800000000000000
+      internalID: -6469081028193825819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow wo blur_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 199
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2f61adbda7786f0800000000000000
+      internalID: -682441733847977225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow wo blur_13
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 168
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2658bd04a9e46f300800000000000000
+      internalID: 285502050804663650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow wo blur_14
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 134
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e06665e4da926bc0800000000000000
+      internalID: -3791297697120100127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow wo blur_15
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 146
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb19e37c4e4e7010800000000000000
+      internalID: 1188473441941527528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow wo blur_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 142
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fcd25709be95b90800000000000000
+      internalID: -7252506719229718771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow wo blur_17
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 104
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e99f159827eda870800000000000000
+      internalID: 8695860617008880105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow wo blur_18
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 41
+        width: 35
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542fdc602f27785a0800000000000000
+      internalID: -6519115551773691323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric bow wo blur_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 109
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe955619cebfb0d0800000000000000
+      internalID: -3404793022396391694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Eletric bow wo blur_0: -3165763791589602568
+      Eletric bow wo blur_1: -5464504477444056836
+      Eletric bow wo blur_10: 5847122417381185539
+      Eletric bow wo blur_11: -6469081028193825819
+      Eletric bow wo blur_12: -682441733847977225
+      Eletric bow wo blur_13: 285502050804663650
+      Eletric bow wo blur_14: -3791297697120100127
+      Eletric bow wo blur_15: 1188473441941527528
+      Eletric bow wo blur_16: -7252506719229718771
+      Eletric bow wo blur_17: 8695860617008880105
+      Eletric bow wo blur_18: -6519115551773691323
+      Eletric bow wo blur_19: -3404793022396391694
+      Eletric bow wo blur_2: -6611019151248997934
+      Eletric bow wo blur_3: 2793569787905999009
+      Eletric bow wo blur_4: 6335195385616881866
+      Eletric bow wo blur_5: -5967670415773516406
+      Eletric bow wo blur_6: -7332608120467022136
+      Eletric bow wo blur_7: -6644506462350524806
+      Eletric bow wo blur_8: -5709156298636354785
+      Eletric bow wo blur_9: 4503687575099109566
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

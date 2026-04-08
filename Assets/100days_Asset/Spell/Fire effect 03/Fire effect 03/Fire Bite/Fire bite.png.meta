@@ -1,0 +1,1391 @@
+fileFormatVersion: 2
+guid: a6a2a1bc0e420ce4fb64c40fb96f9235
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4213566228960210020
+    second: Fire bite_0
+  - first:
+      213: 465468319036297286
+    second: Fire bite_1
+  - first:
+      213: 3059093382961054114
+    second: Fire bite_2
+  - first:
+      213: 7464100495772674469
+    second: Fire bite_3
+  - first:
+      213: 5594786815252704033
+    second: Fire bite_4
+  - first:
+      213: -3108762199353652009
+    second: Fire bite_5
+  - first:
+      213: 3815794029435801317
+    second: Fire bite_6
+  - first:
+      213: 1402020008105994833
+    second: Fire bite_7
+  - first:
+      213: 1510317482933657583
+    second: Fire bite_8
+  - first:
+      213: -1725266515585330765
+    second: Fire bite_9
+  - first:
+      213: 4636196532788310637
+    second: Fire bite_10
+  - first:
+      213: 8402918784065421506
+    second: Fire bite_11
+  - first:
+      213: -6275970444624490014
+    second: Fire bite_12
+  - first:
+      213: -2040590333440801902
+    second: Fire bite_13
+  - first:
+      213: 8832385406655512778
+    second: Fire bite_14
+  - first:
+      213: -2052752302357639118
+    second: Fire bite_15
+  - first:
+      213: -6856477189816765240
+    second: Fire bite_16
+  - first:
+      213: 4342473378729276800
+    second: Fire bite_17
+  - first:
+      213: -171914696188017370
+    second: Fire bite_18
+  - first:
+      213: 721188810207221729
+    second: Fire bite_19
+  - first:
+      213: 1619056479163235432
+    second: Fire bite_20
+  - first:
+      213: -7643503977174993183
+    second: Fire bite_21
+  - first:
+      213: 3528747906892129154
+    second: Fire bite_22
+  - first:
+      213: -3397075705742179392
+    second: Fire bite_23
+  - first:
+      213: -3207278725074953886
+    second: Fire bite_24
+  - first:
+      213: 2450772522813545497
+    second: Fire bite_25
+  - first:
+      213: 4876238473331240218
+    second: Fire bite_26
+  - first:
+      213: 6994541014702091523
+    second: Fire bite_27
+  - first:
+      213: 9147017371999791746
+    second: Fire bite_28
+  - first:
+      213: 3436071575345985091
+    second: Fire bite_29
+  - first:
+      213: -5059678373483549303
+    second: Fire bite_30
+  - first:
+      213: 6882489212421093131
+    second: Fire bite_31
+  - first:
+      213: -4464926765133509676
+    second: Fire bite_32
+  - first:
+      213: -6671300890431049730
+    second: Fire bite_33
+  - first:
+      213: 6792971854173534264
+    second: Fire bite_34
+  - first:
+      213: 6340419548536621025
+    second: Fire bite_35
+  - first:
+      213: 7871120831545417233
+    second: Fire bite_36
+  - first:
+      213: 4006266024290983656
+    second: Fire bite_37
+  - first:
+      213: 6561185247115398280
+    second: Fire bite_38
+  - first:
+      213: -2170074862602594710
+    second: Fire bite_39
+  - first:
+      213: 5871882658453271642
+    second: Fire bite_40
+  - first:
+      213: -7994304216983726017
+    second: Fire bite_41
+  - first:
+      213: 3060901964193648038
+    second: Fire bite_42
+  - first:
+      213: -4036388722518461439
+    second: Fire bite_43
+  - first:
+      213: 2059677913083316876
+    second: Fire bite_44
+  - first:
+      213: 5124769348470835245
+    second: Fire bite_45
+  - first:
+      213: -5662587174186128053
+    second: Fire bite_46
+  - first:
+      213: -1783859951910014739
+    second: Fire bite_47
+  - first:
+      213: 5049679004290014620
+    second: Fire bite_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fire bite_0
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 37
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c939e35d6d76685c0800000000000000
+      internalID: -4213566228960210020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_1
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 37
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6405b5258fca57600800000000000000
+      internalID: 465468319036297286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 11
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1442a5935147a20800000000000000
+      internalID: 3059093382961054114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_3
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 11
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9e85abadfc59760800000000000000
+      internalID: 7464100495772674469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_4
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 43
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b2d2d47fca4ad40800000000000000
+      internalID: 5594786815252704033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_5
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 38
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc0d5820457bd4d0800000000000000
+      internalID: -3108762199353652009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_6
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 44
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eec39ce37c64f430800000000000000
+      internalID: 3815794029435801317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_7
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 45
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ae527e4c9f47310800000000000000
+      internalID: 1402020008105994833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_8
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 10
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef925cafb9b5f410800000000000000
+      internalID: 1510317482933657583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_9
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 48
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b119a3be3f9e08e0800000000000000
+      internalID: -1725266515585330765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_10
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 10
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62beb5de24175040800000000000000
+      internalID: 4636196532788310637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_11
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 10
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c04da01d1a2d9470800000000000000
+      internalID: 8402918784065421506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_12
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 12
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e19e43d12647e8a0800000000000000
+      internalID: -6275970444624490014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_13
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 10
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2934a2b37ed5ea3e0800000000000000
+      internalID: -2040590333440801902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 15
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0cb0b3bbfe29a70800000000000000
+      internalID: 8832385406655512778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 14
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2309b1e28a82383e0800000000000000
+      internalID: -2052752302357639118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_16
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 12
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c43762b256e8d0a0800000000000000
+      internalID: -6856477189816765240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_17
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 12
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085bfb1d780934c30800000000000000
+      internalID: 4342473378729276800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_18
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 2
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6254b02ae7c3d9df0800000000000000
+      internalID: -171914696188017370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_19
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 35
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e75360e66d220a00800000000000000
+      internalID: 721188810207221729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_20
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 38
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cb1d72a4b087610800000000000000
+      internalID: 1619056479163235432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_21
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 35
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6f23931a1dce590800000000000000
+      internalID: -7643503977174993183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_22
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 11
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28365347681a8f030800000000000000
+      internalID: 3528747906892129154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_23
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 35
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3c024e4a92bd0d0800000000000000
+      internalID: -3397075705742179392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_24
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 35
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2695d301ef47d73d0800000000000000
+      internalID: -3207278725074953886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_25
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 33
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cd69fef94e20220800000000000000
+      internalID: 2450772522813545497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_26
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 10
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d600b5e01eba340800000000000000
+      internalID: 4876238473331240218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_27
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 23
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30de7348ef9911160800000000000000
+      internalID: 6994541014702091523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 21
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28aef5c36dbb0fe70800000000000000
+      internalID: 9147017371999791746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_29
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 16
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346705784e06faf20800000000000000
+      internalID: 3436071575345985091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_30
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 16
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d69ce935968c9b0800000000000000
+      internalID: -5059678373483549303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_31
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 14
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0731d44973838f50800000000000000
+      internalID: 6882489212421093131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_32
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 22
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db451863c46902c0800000000000000
+      internalID: -4464926765133509676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_33
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 10
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff2c1caf27ca63a0800000000000000
+      internalID: -6671300890431049730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_34
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 13
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8387d3129eb754e50800000000000000
+      internalID: 6792971854173534264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_35
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 26
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7c7758cf1bdf750800000000000000
+      internalID: 6340419548536621025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_36
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 11
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e117c71b6db3d60800000000000000
+      internalID: 7871120831545417233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_37
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 6
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee949519bd199730800000000000000
+      internalID: 4006266024290983656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_38
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 16
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88cc8d738330e0b50800000000000000
+      internalID: 6561185247115398280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_39
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 14
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a665196f86852e1e0800000000000000
+      internalID: -2170074862602594710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_40
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 12
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5432e3da2e1d7150800000000000000
+      internalID: 5871882658453271642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_41
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 13
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3817489ba68e0190800000000000000
+      internalID: -7994304216983726017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_42
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 13
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adce0c7e128a7a20800000000000000
+      internalID: 3060901964193648038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_43
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 13
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104f4e2b7dddbf7c0800000000000000
+      internalID: -4036388722518461439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_44
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 12
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a8c093622759c10800000000000000
+      internalID: 2059677913083316876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_45
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 12
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d280a6bf196de1740800000000000000
+      internalID: 5124769348470835245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_46
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 5
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4de3fc77f27a61b0800000000000000
+      internalID: -5662587174186128053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_47
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 4
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0bb5533d47e37e0800000000000000
+      internalID: -1783859951910014739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire bite_48
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 3
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d5470dc40141640800000000000000
+      internalID: 5049679004290014620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fire bite_0: -4213566228960210020
+      Fire bite_1: 465468319036297286
+      Fire bite_10: 4636196532788310637
+      Fire bite_11: 8402918784065421506
+      Fire bite_12: -6275970444624490014
+      Fire bite_13: -2040590333440801902
+      Fire bite_14: 8832385406655512778
+      Fire bite_15: -2052752302357639118
+      Fire bite_16: -6856477189816765240
+      Fire bite_17: 4342473378729276800
+      Fire bite_18: -171914696188017370
+      Fire bite_19: 721188810207221729
+      Fire bite_2: 3059093382961054114
+      Fire bite_20: 1619056479163235432
+      Fire bite_21: -7643503977174993183
+      Fire bite_22: 3528747906892129154
+      Fire bite_23: -3397075705742179392
+      Fire bite_24: -3207278725074953886
+      Fire bite_25: 2450772522813545497
+      Fire bite_26: 4876238473331240218
+      Fire bite_27: 6994541014702091523
+      Fire bite_28: 9147017371999791746
+      Fire bite_29: 3436071575345985091
+      Fire bite_3: 7464100495772674469
+      Fire bite_30: -5059678373483549303
+      Fire bite_31: 6882489212421093131
+      Fire bite_32: -4464926765133509676
+      Fire bite_33: -6671300890431049730
+      Fire bite_34: 6792971854173534264
+      Fire bite_35: 6340419548536621025
+      Fire bite_36: 7871120831545417233
+      Fire bite_37: 4006266024290983656
+      Fire bite_38: 6561185247115398280
+      Fire bite_39: -2170074862602594710
+      Fire bite_4: 5594786815252704033
+      Fire bite_40: 5871882658453271642
+      Fire bite_41: -7994304216983726017
+      Fire bite_42: 3060901964193648038
+      Fire bite_43: -4036388722518461439
+      Fire bite_44: 2059677913083316876
+      Fire bite_45: 5124769348470835245
+      Fire bite_46: -5662587174186128053
+      Fire bite_47: -1783859951910014739
+      Fire bite_48: 5049679004290014620
+      Fire bite_5: -3108762199353652009
+      Fire bite_6: 3815794029435801317
+      Fire bite_7: 1402020008105994833
+      Fire bite_8: 1510317482933657583
+      Fire bite_9: -1725266515585330765
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

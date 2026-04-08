@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b5ec30aedc649241a604bdc3b7c5fa3, type: 3}
+  m_Name: Ice
+  m_EditorClassIdentifier: 
+  weaponID: Icicle
+  weaponName: Icicle
+  weaponIcon: {fileID: 21300000, guid: 2e7cca8081c357845b8d963386984bd8, type: 3}
+  projectilePrefab: {fileID: 6572157233175404128, guid: f37222f11ffa1d84a9334c5aff23baec, type: 3}
+  baseDamage: 20
+  baseSpeed: 30
+  baseFireDelay: 1.5
+  baseManaCost: 30
+  basePierceCount: 3
+  baseLifeTime: 1
+  baseSpreadAngleHip: 30
+  baseSpreadAngleAim: 1
+  baseAimSlowdownRatio: 0.5
+  rotationOffset: 0
+  damageGrowth: 5
+  speedGrowth: 1
+  fireDelayReduction: 0.01
+  minFireDelay: 0.05
+  manaCostReduction: 0.5
+  minManaCost: 1
+  spreadReduction: 0.5
+  minSpreadAngle: 0
+  unlockCost: 1500
+  upgradeCostBase: 500
+  costMultiplier: 1.5

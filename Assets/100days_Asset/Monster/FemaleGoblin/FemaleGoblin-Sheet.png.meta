@@ -1,0 +1,2691 @@
+fileFormatVersion: 2
+guid: 85b80d8f3e5bdc64faa989817a46c943
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5276748246196655771
+    second: FemaleGoblin-Sheet_0
+  - first:
+      213: 5071640337101441554
+    second: FemaleGoblin-Sheet_1
+  - first:
+      213: 6844359325072076295
+    second: FemaleGoblin-Sheet_2
+  - first:
+      213: -7899665130036750403
+    second: FemaleGoblin-Sheet_3
+  - first:
+      213: -8631425128502215555
+    second: FemaleGoblin-Sheet_4
+  - first:
+      213: -6692035398438758410
+    second: FemaleGoblin-Sheet_5
+  - first:
+      213: 2666728994958716250
+    second: FemaleGoblin-Sheet_6
+  - first:
+      213: 1550142484188705342
+    second: FemaleGoblin-Sheet_7
+  - first:
+      213: 3225535586015541868
+    second: FemaleGoblin-Sheet_8
+  - first:
+      213: -8375986697048347629
+    second: FemaleGoblin-Sheet_9
+  - first:
+      213: 936989893333678296
+    second: FemaleGoblin-Sheet_10
+  - first:
+      213: 6473344580301391871
+    second: FemaleGoblin-Sheet_11
+  - first:
+      213: -9197485125926022582
+    second: FemaleGoblin-Sheet_12
+  - first:
+      213: 4073130167766023110
+    second: FemaleGoblin-Sheet_13
+  - first:
+      213: 2537071705687675
+    second: FemaleGoblin-Sheet_14
+  - first:
+      213: 8227513751192774876
+    second: FemaleGoblin-Sheet_15
+  - first:
+      213: 1254142148769843972
+    second: FemaleGoblin-Sheet_16
+  - first:
+      213: -4273802511079655902
+    second: FemaleGoblin-Sheet_17
+  - first:
+      213: 1408866217535809718
+    second: FemaleGoblin-Sheet_18
+  - first:
+      213: -6768890692754394488
+    second: FemaleGoblin-Sheet_19
+  - first:
+      213: -2134228104072478313
+    second: FemaleGoblin-Sheet_20
+  - first:
+      213: 5771721557050825682
+    second: FemaleGoblin-Sheet_21
+  - first:
+      213: -6820637244980045487
+    second: FemaleGoblin-Sheet_22
+  - first:
+      213: 4466665168198344321
+    second: FemaleGoblin-Sheet_23
+  - first:
+      213: -3280210647714483637
+    second: FemaleGoblin-Sheet_24
+  - first:
+      213: 1222199238871892309
+    second: FemaleGoblin-Sheet_25
+  - first:
+      213: 502138873449039
+    second: FemaleGoblin-Sheet_26
+  - first:
+      213: 4293885929820020154
+    second: FemaleGoblin-Sheet_27
+  - first:
+      213: -1633946594812305444
+    second: FemaleGoblin-Sheet_28
+  - first:
+      213: -7071085178975885567
+    second: FemaleGoblin-Sheet_29
+  - first:
+      213: -9209551587785536939
+    second: FemaleGoblin-Sheet_30
+  - first:
+      213: 5929150766054601174
+    second: FemaleGoblin-Sheet_31
+  - first:
+      213: 6055155723922591737
+    second: FemaleGoblin-Sheet_32
+  - first:
+      213: 1952519138661695386
+    second: FemaleGoblin-Sheet_33
+  - first:
+      213: -4989412831728822188
+    second: FemaleGoblin-Sheet_34
+  - first:
+      213: 6742732515240873993
+    second: FemaleGoblin-Sheet_35
+  - first:
+      213: 5480481229710372592
+    second: FemaleGoblin-Sheet_36
+  - first:
+      213: -7664380139698041253
+    second: FemaleGoblin-Sheet_37
+  - first:
+      213: -339312776422137747
+    second: FemaleGoblin-Sheet_38
+  - first:
+      213: 3452653469718214189
+    second: FemaleGoblin-Sheet_39
+  - first:
+      213: 8660867225649836500
+    second: FemaleGoblin-Sheet_40
+  - first:
+      213: -1870580754765877547
+    second: FemaleGoblin-Sheet_41
+  - first:
+      213: 971602434834752543
+    second: FemaleGoblin-Sheet_42
+  - first:
+      213: -2948897743023574647
+    second: FemaleGoblin-Sheet_43
+  - first:
+      213: 8959203813976723803
+    second: FemaleGoblin-Sheet_44
+  - first:
+      213: 6995520240479108998
+    second: FemaleGoblin-Sheet_45
+  - first:
+      213: -3294661438669503441
+    second: FemaleGoblin-Sheet_46
+  - first:
+      213: -5015357962632592648
+    second: FemaleGoblin-Sheet_47
+  - first:
+      213: 5490122730407349755
+    second: FemaleGoblin-Sheet_48
+  - first:
+      213: 6590059500071861214
+    second: FemaleGoblin-Sheet_49
+  - first:
+      213: 5754820126925858048
+    second: FemaleGoblin-Sheet_50
+  - first:
+      213: -4144599780114518181
+    second: FemaleGoblin-Sheet_51
+  - first:
+      213: 5382023396656196596
+    second: FemaleGoblin-Sheet_52
+  - first:
+      213: 2872470093659847225
+    second: FemaleGoblin-Sheet_53
+  - first:
+      213: 5717217612479451512
+    second: FemaleGoblin-Sheet_54
+  - first:
+      213: 6031549667617420109
+    second: FemaleGoblin-Sheet_55
+  - first:
+      213: -214210446971821738
+    second: FemaleGoblin-Sheet_56
+  - first:
+      213: -672007472137919528
+    second: FemaleGoblin-Sheet_57
+  - first:
+      213: -5358886523007106963
+    second: FemaleGoblin-Sheet_58
+  - first:
+      213: -7316291754698099969
+    second: FemaleGoblin-Sheet_59
+  - first:
+      213: 988659924532286219
+    second: FemaleGoblin-Sheet_60
+  - first:
+      213: 6517470983425702196
+    second: FemaleGoblin-Sheet_61
+  - first:
+      213: 5886018309866614773
+    second: FemaleGoblin-Sheet_62
+  - first:
+      213: 2511461758970165927
+    second: FemaleGoblin-Sheet_63
+  - first:
+      213: 8213165981003742404
+    second: FemaleGoblin-Sheet_64
+  - first:
+      213: 1415857069500260789
+    second: FemaleGoblin-Sheet_65
+  - first:
+      213: -810590126980896990
+    second: FemaleGoblin-Sheet_66
+  - first:
+      213: 8370105122039565106
+    second: FemaleGoblin-Sheet_67
+  - first:
+      213: 4241959874782118662
+    second: FemaleGoblin-Sheet_68
+  - first:
+      213: 126687568230143271
+    second: FemaleGoblin-Sheet_69
+  - first:
+      213: 8984227811057607265
+    second: FemaleGoblin-Sheet_70
+  - first:
+      213: 2223723781488079957
+    second: FemaleGoblin-Sheet_71
+  - first:
+      213: 5183122346452638008
+    second: FemaleGoblin-Sheet_72
+  - first:
+      213: 6547425449431943921
+    second: FemaleGoblin-Sheet_73
+  - first:
+      213: -9221624896272024615
+    second: FemaleGoblin-Sheet_74
+  - first:
+      213: -1545155515102738486
+    second: FemaleGoblin-Sheet_75
+  - first:
+      213: 1657015311259642966
+    second: FemaleGoblin-Sheet_76
+  - first:
+      213: 4588043856240279302
+    second: FemaleGoblin-Sheet_77
+  - first:
+      213: 4193068526069735360
+    second: FemaleGoblin-Sheet_78
+  - first:
+      213: -3850264190995019713
+    second: FemaleGoblin-Sheet_79
+  - first:
+      213: -246402829023307670
+    second: FemaleGoblin-Sheet_80
+  - first:
+      213: 3919214303538483919
+    second: FemaleGoblin-Sheet_81
+  - first:
+      213: -4988043064893097818
+    second: FemaleGoblin-Sheet_82
+  - first:
+      213: 6700735251476530499
+    second: FemaleGoblin-Sheet_83
+  - first:
+      213: 3854925055680284785
+    second: FemaleGoblin-Sheet_84
+  - first:
+      213: -682101212464503029
+    second: FemaleGoblin-Sheet_85
+  - first:
+      213: -3842688304494756071
+    second: FemaleGoblin-Sheet_86
+  - first:
+      213: 3420644618775376137
+    second: FemaleGoblin-Sheet_87
+  - first:
+      213: 306632727895538461
+    second: FemaleGoblin-Sheet_88
+  - first:
+      213: 8531082330219477382
+    second: FemaleGoblin-Sheet_89
+  - first:
+      213: 7302537094057577449
+    second: FemaleGoblin-Sheet_90
+  - first:
+      213: 6916675540871268674
+    second: FemaleGoblin-Sheet_91
+  - first:
+      213: -4105472159644167775
+    second: FemaleGoblin-Sheet_92
+  - first:
+      213: 4590535962313808241
+    second: FemaleGoblin-Sheet_93
+  - first:
+      213: -6064928551830042791
+    second: FemaleGoblin-Sheet_94
+  - first:
+      213: 606841405298436825
+    second: FemaleGoblin-Sheet_95
+  - first:
+      213: 7057112956621312633
+    second: FemaleGoblin-Sheet_96
+  - first:
+      213: 748620774562685312
+    second: FemaleGoblin-Sheet_97
+  - first:
+      213: 3931531073490476243
+    second: FemaleGoblin-Sheet_98
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 821
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9697bf8296ca3940800000000000000
+      internalID: 5276748246196655771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 821
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a49711406126640800000000000000
+      internalID: 5071640337101441554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 821
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ead0e0b8c0cfe50800000000000000
+      internalID: 6844359325072076295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 821
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db79e9f1b60ce5290800000000000000
+      internalID: -7899665130036750403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 821
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7cbe3ea394073880800000000000000
+      internalID: -8631425128502215555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 821
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7d7b3d24d1123a0800000000000000
+      internalID: -6692035398438758410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 821
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5dafb854ef120520800000000000000
+      internalID: 2666728994958716250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 820
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e323f495066338510800000000000000
+      internalID: 1550142484188705342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 740
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a76de968763cc20800000000000000
+      internalID: 3225535586015541868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 740
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c29071a7482cb80800000000000000
+      internalID: -8375986697048347629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 660
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8f846f75bd00d00800000000000000
+      internalID: 936989893333678296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 659
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff780993990f5d950800000000000000
+      internalID: 6473344580301391871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 659
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a429d322208fb5080800000000000000
+      internalID: -9197485125926022582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 659
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbfe95ae4aa68830800000000000000
+      internalID: 4073130167766023110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 660
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7689c90473090000800000000000000
+      internalID: 2537071705687675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 660
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8ac7c5a200e2270800000000000000
+      internalID: 8227513751192774876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 659
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b854bb3ab976110800000000000000
+      internalID: 1254142148769843972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 659
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226bcee724760b4c0800000000000000
+      internalID: -4273802511079655902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 659
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b825404c5c4d8310800000000000000
+      internalID: 1408866217535809718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 660
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8823dee27c11012a0800000000000000
+      internalID: -6768890692754394488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 578
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791ca13d8d2b162e0800000000000000
+      internalID: -2134228104072478313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 578
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db9a7e1d26491050800000000000000
+      internalID: 5771721557050825682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 497
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1595a2f109a3851a0800000000000000
+      internalID: -6820637244980045487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 499
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e92191e48ccfd30800000000000000
+      internalID: 4466665168198344321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 499
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4236829bc95a72d0800000000000000
+      internalID: -3280210647714483637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 499
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55146b57bbf16f010800000000000000
+      internalID: 1222199238871892309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 499
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a0e2151b8c10000800000000000000
+      internalID: 502138873449039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 501
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd58f0d082f69b30800000000000000
+      internalID: 4293885929820020154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 501
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfd042aa3e0359e0800000000000000
+      internalID: -1633946594812305444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 501
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107ec927e757edd90800000000000000
+      internalID: -7071085178975885567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 501
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a886d00a9113080800000000000000
+      internalID: -9209551587785536939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 496
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d17b6e2533984250800000000000000
+      internalID: 5929150766054601174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 497
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff4410ac0c380450800000000000000
+      internalID: 6055155723922591737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 497
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ff41dcfcdb81b10800000000000000
+      internalID: 1952519138661695386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 414
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458170fe67b02cab0800000000000000
+      internalID: -4989412831728822188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 416
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90098628f7ff29d50800000000000000
+      internalID: 6742732515240873993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 416
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe251f34a49e0c40800000000000000
+      internalID: 5480481229710372592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 416
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e4dbdded6a2a590800000000000000
+      internalID: -7664380139698041253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 416
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d606b9dd3d48a4bf0800000000000000
+      internalID: -339312776422137747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 416
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26f21ba90a4aef20800000000000000
+      internalID: 3452653469718214189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 416
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d17eafbad4913870800000000000000
+      internalID: 8660867225649836500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 413
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de6f7cd6bc5a06e0800000000000000
+      internalID: -1870580754765877547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 408
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14ea374443db7d00800000000000000
+      internalID: 971602434834752543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 408
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981f02c60296317d0800000000000000
+      internalID: -2948897743023574647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 407
+        width: 71
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b515862a66c755c70800000000000000
+      internalID: 8959203813976723803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 408
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fffc84894151160800000000000000
+      internalID: 6995520240479108998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 335
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f244dec90e20742d0800000000000000
+      internalID: -3294661438669503441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 335
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f28bd7618ed56ab0800000000000000
+      internalID: -5015357962632592648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 335
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd4a3f0985d03c40800000000000000
+      internalID: 5490122730407349755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 335
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbb87e1338947b50800000000000000
+      internalID: 6590059500071861214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 254
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0052fa34a6a3ddf40800000000000000
+      internalID: 5754820126925858048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 254
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fac12857c6b76c0800000000000000
+      internalID: -4144599780114518181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 254
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fba88a93c9c0ba40800000000000000
+      internalID: 5382023396656196596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 173
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a3788c4501dd720800000000000000
+      internalID: 2872470093659847225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 173
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871d17f9023a75f40800000000000000
+      internalID: 5717217612479451512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 173
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d433677577e54b350800000000000000
+      internalID: 6031549667617420109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 173
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6512111cbb8f60df0800000000000000
+      internalID: -214210446971821738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 173
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3afc8b3cc8ca6f0800000000000000
+      internalID: -672007472137919528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 171
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d608884991961a5b0800000000000000
+      internalID: -5358886523007106963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 168
+        width: 78
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2b918996f477a90800000000000000
+      internalID: -7316291754698099969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 173
+        width: 68
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03596596fc68bd00800000000000000
+      internalID: 988659924532286219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 173
+        width: 70
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43931011455b27a50800000000000000
+      internalID: 6517470983425702196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 172
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff6b05a7765fa150800000000000000
+      internalID: 5886018309866614773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 173
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aaf46ad9218ad220800000000000000
+      internalID: 2511461758970165927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 173
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccfc0bc1f60bf170800000000000000
+      internalID: 8213165981003742404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 173
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1e940d08226a310800000000000000
+      internalID: 1415857069500260789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 173
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2276ddef29430c4f0800000000000000
+      internalID: -810590126980896990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 173
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b88d30346982470800000000000000
+      internalID: 8370105122039565106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 173
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60349dff7087eda30800000000000000
+      internalID: 4241959874782118662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 173
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725d0dd0ca512c100800000000000000
+      internalID: 126687568230143271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 173
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162264bf7936eac70800000000000000
+      internalID: 8984227811057607265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 172
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5547f2a5ff04cde10800000000000000
+      internalID: 2223723781488079957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 91
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839d2bf00562ee740800000000000000
+      internalID: 5183122346452638008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 91
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa4ebaa1c02dda50800000000000000
+      internalID: 6547425449431943921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 19
+        width: 60
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbbecdd305360080800000000000000
+      internalID: -9221624896272024615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 16
+        width: 75
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7c09fde318e8ae0800000000000000
+      internalID: -1545155515102738486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 11
+        width: 85
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ca30775a6eef610800000000000000
+      internalID: 1657015311259642966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 5
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f7d1924910caf30800000000000000
+      internalID: 4588043856240279302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 7
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfd14fcb95c03a30800000000000000
+      internalID: 4193068526069735360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 0
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38c55c2e1d119ac0800000000000000
+      internalID: -3850264190995019713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 5
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a681a68bee9949cf0800000000000000
+      internalID: -246402829023307670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 5
+        width: 55
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc29a09e4a8d36630800000000000000
+      internalID: 3919214303538483919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 5
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a832b0a249e6cab0800000000000000
+      internalID: -4988043064893097818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 5
+        width: 59
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345423e853bcdfc50800000000000000
+      internalID: 6700735251476530499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 8
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1788393f9e17f7530800000000000000
+      internalID: 3854925055680284785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1
+        width: 57
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07a03aaf80b886f0800000000000000
+      internalID: -682101212464503029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 12
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fba04b8570caac0800000000000000
+      internalID: -3842688304494756071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1
+        width: 58
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90135fc4822987f20800000000000000
+      internalID: 3420644618775376137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 8
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bf8b667d0614400800000000000000
+      internalID: 306632727895538461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 0
+        width: 58
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689f7520e2e746670800000000000000
+      internalID: 8531082330219477382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 8
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb4a6aebc2d75560800000000000000
+      internalID: 7302537094057577449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 0
+        width: 58
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249c34022c7fcff50800000000000000
+      internalID: 6916675540871268674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 8
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1572192de6607c0800000000000000
+      internalID: -4105472159644167775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 0
+        width: 58
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179de52d22cd4bf30800000000000000
+      internalID: 4590535962313808241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 8
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957cb009d9b05dba0800000000000000
+      internalID: -6064928551830042791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 0
+        width: 58
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9daefcdfa0feb6800800000000000000
+      internalID: 606841405298436825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 8
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972583708d6efe160800000000000000
+      internalID: 7057112956621312633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 0
+        width: 58
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081694bc0a2a36a00800000000000000
+      internalID: 748620774562685312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleGoblin-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 8
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc5fc26eaa9f8630800000000000000
+      internalID: 3931531073490476243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FemaleGoblin-Sheet_0: 5276748246196655771
+      FemaleGoblin-Sheet_1: 5071640337101441554
+      FemaleGoblin-Sheet_10: 936989893333678296
+      FemaleGoblin-Sheet_11: 6473344580301391871
+      FemaleGoblin-Sheet_12: -9197485125926022582
+      FemaleGoblin-Sheet_13: 4073130167766023110
+      FemaleGoblin-Sheet_14: 2537071705687675
+      FemaleGoblin-Sheet_15: 8227513751192774876
+      FemaleGoblin-Sheet_16: 1254142148769843972
+      FemaleGoblin-Sheet_17: -4273802511079655902
+      FemaleGoblin-Sheet_18: 1408866217535809718
+      FemaleGoblin-Sheet_19: -6768890692754394488
+      FemaleGoblin-Sheet_2: 6844359325072076295
+      FemaleGoblin-Sheet_20: -2134228104072478313
+      FemaleGoblin-Sheet_21: 5771721557050825682
+      FemaleGoblin-Sheet_22: -6820637244980045487
+      FemaleGoblin-Sheet_23: 4466665168198344321
+      FemaleGoblin-Sheet_24: -3280210647714483637
+      FemaleGoblin-Sheet_25: 1222199238871892309
+      FemaleGoblin-Sheet_26: 502138873449039
+      FemaleGoblin-Sheet_27: 4293885929820020154
+      FemaleGoblin-Sheet_28: -1633946594812305444
+      FemaleGoblin-Sheet_29: -7071085178975885567
+      FemaleGoblin-Sheet_3: -7899665130036750403
+      FemaleGoblin-Sheet_30: -9209551587785536939
+      FemaleGoblin-Sheet_31: 5929150766054601174
+      FemaleGoblin-Sheet_32: 6055155723922591737
+      FemaleGoblin-Sheet_33: 1952519138661695386
+      FemaleGoblin-Sheet_34: -4989412831728822188
+      FemaleGoblin-Sheet_35: 6742732515240873993
+      FemaleGoblin-Sheet_36: 5480481229710372592
+      FemaleGoblin-Sheet_37: -7664380139698041253
+      FemaleGoblin-Sheet_38: -339312776422137747
+      FemaleGoblin-Sheet_39: 3452653469718214189
+      FemaleGoblin-Sheet_4: -8631425128502215555
+      FemaleGoblin-Sheet_40: 8660867225649836500
+      FemaleGoblin-Sheet_41: -1870580754765877547
+      FemaleGoblin-Sheet_42: 971602434834752543
+      FemaleGoblin-Sheet_43: -2948897743023574647
+      FemaleGoblin-Sheet_44: 8959203813976723803
+      FemaleGoblin-Sheet_45: 6995520240479108998
+      FemaleGoblin-Sheet_46: -3294661438669503441
+      FemaleGoblin-Sheet_47: -5015357962632592648
+      FemaleGoblin-Sheet_48: 5490122730407349755
+      FemaleGoblin-Sheet_49: 6590059500071861214
+      FemaleGoblin-Sheet_5: -6692035398438758410
+      FemaleGoblin-Sheet_50: 5754820126925858048
+      FemaleGoblin-Sheet_51: -4144599780114518181
+      FemaleGoblin-Sheet_52: 5382023396656196596
+      FemaleGoblin-Sheet_53: 2872470093659847225
+      FemaleGoblin-Sheet_54: 5717217612479451512
+      FemaleGoblin-Sheet_55: 6031549667617420109
+      FemaleGoblin-Sheet_56: -214210446971821738
+      FemaleGoblin-Sheet_57: -672007472137919528
+      FemaleGoblin-Sheet_58: -5358886523007106963
+      FemaleGoblin-Sheet_59: -7316291754698099969
+      FemaleGoblin-Sheet_6: 2666728994958716250
+      FemaleGoblin-Sheet_60: 988659924532286219
+      FemaleGoblin-Sheet_61: 6517470983425702196
+      FemaleGoblin-Sheet_62: 5886018309866614773
+      FemaleGoblin-Sheet_63: 2511461758970165927
+      FemaleGoblin-Sheet_64: 8213165981003742404
+      FemaleGoblin-Sheet_65: 1415857069500260789
+      FemaleGoblin-Sheet_66: -810590126980896990
+      FemaleGoblin-Sheet_67: 8370105122039565106
+      FemaleGoblin-Sheet_68: 4241959874782118662
+      FemaleGoblin-Sheet_69: 126687568230143271
+      FemaleGoblin-Sheet_7: 1550142484188705342
+      FemaleGoblin-Sheet_70: 8984227811057607265
+      FemaleGoblin-Sheet_71: 2223723781488079957
+      FemaleGoblin-Sheet_72: 5183122346452638008
+      FemaleGoblin-Sheet_73: 6547425449431943921
+      FemaleGoblin-Sheet_74: -9221624896272024615
+      FemaleGoblin-Sheet_75: -1545155515102738486
+      FemaleGoblin-Sheet_76: 1657015311259642966
+      FemaleGoblin-Sheet_77: 4588043856240279302
+      FemaleGoblin-Sheet_78: 4193068526069735360
+      FemaleGoblin-Sheet_79: -3850264190995019713
+      FemaleGoblin-Sheet_8: 3225535586015541868
+      FemaleGoblin-Sheet_80: -246402829023307670
+      FemaleGoblin-Sheet_81: 3919214303538483919
+      FemaleGoblin-Sheet_82: -4988043064893097818
+      FemaleGoblin-Sheet_83: 6700735251476530499
+      FemaleGoblin-Sheet_84: 3854925055680284785
+      FemaleGoblin-Sheet_85: -682101212464503029
+      FemaleGoblin-Sheet_86: -3842688304494756071
+      FemaleGoblin-Sheet_87: 3420644618775376137
+      FemaleGoblin-Sheet_88: 306632727895538461
+      FemaleGoblin-Sheet_89: 8531082330219477382
+      FemaleGoblin-Sheet_9: -8375986697048347629
+      FemaleGoblin-Sheet_90: 7302537094057577449
+      FemaleGoblin-Sheet_91: 6916675540871268674
+      FemaleGoblin-Sheet_92: -4105472159644167775
+      FemaleGoblin-Sheet_93: 4590535962313808241
+      FemaleGoblin-Sheet_94: -6064928551830042791
+      FemaleGoblin-Sheet_95: 606841405298436825
+      FemaleGoblin-Sheet_96: 7057112956621312633
+      FemaleGoblin-Sheet_97: 748620774562685312
+      FemaleGoblin-Sheet_98: 3931531073490476243
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

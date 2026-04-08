@@ -1,0 +1,3575 @@
+fileFormatVersion: 2
+guid: ff0c9e41b7118214d924bf0ff5697bf5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3662686251601363400
+    second: FighterGoblin-Sheet_0
+  - first:
+      213: 5425380179753150150
+    second: FighterGoblin-Sheet_1
+  - first:
+      213: -1107044504541138359
+    second: FighterGoblin-Sheet_2
+  - first:
+      213: -1976889659244452530
+    second: FighterGoblin-Sheet_3
+  - first:
+      213: -6407540135816560889
+    second: FighterGoblin-Sheet_4
+  - first:
+      213: -709744566167041369
+    second: FighterGoblin-Sheet_5
+  - first:
+      213: -6250916745400630509
+    second: FighterGoblin-Sheet_6
+  - first:
+      213: 8062418980248612778
+    second: FighterGoblin-Sheet_7
+  - first:
+      213: 5303961106156867380
+    second: FighterGoblin-Sheet_8
+  - first:
+      213: -4214048436424506757
+    second: FighterGoblin-Sheet_9
+  - first:
+      213: -7265271562999409947
+    second: FighterGoblin-Sheet_10
+  - first:
+      213: -6237901967544698191
+    second: FighterGoblin-Sheet_11
+  - first:
+      213: -7762890911719508114
+    second: FighterGoblin-Sheet_12
+  - first:
+      213: -1915634996358989705
+    second: FighterGoblin-Sheet_13
+  - first:
+      213: 2989360412054743660
+    second: FighterGoblin-Sheet_14
+  - first:
+      213: 1449735651306959452
+    second: FighterGoblin-Sheet_15
+  - first:
+      213: -5095000268512728839
+    second: FighterGoblin-Sheet_16
+  - first:
+      213: 2612836126541039018
+    second: FighterGoblin-Sheet_17
+  - first:
+      213: 1477078806524075438
+    second: FighterGoblin-Sheet_18
+  - first:
+      213: -5938602374131300487
+    second: FighterGoblin-Sheet_19
+  - first:
+      213: 991964299924626572
+    second: FighterGoblin-Sheet_20
+  - first:
+      213: -4203247911694600058
+    second: FighterGoblin-Sheet_21
+  - first:
+      213: 7607329151242615920
+    second: FighterGoblin-Sheet_22
+  - first:
+      213: 2981095546497053454
+    second: FighterGoblin-Sheet_23
+  - first:
+      213: 6839421350801128568
+    second: FighterGoblin-Sheet_24
+  - first:
+      213: 8150425412062493604
+    second: FighterGoblin-Sheet_25
+  - first:
+      213: -8963072990310714748
+    second: FighterGoblin-Sheet_26
+  - first:
+      213: 6189541304686328254
+    second: FighterGoblin-Sheet_27
+  - first:
+      213: 8805624314455733819
+    second: FighterGoblin-Sheet_28
+  - first:
+      213: 5524811755509580442
+    second: FighterGoblin-Sheet_29
+  - first:
+      213: 8365950900750398344
+    second: FighterGoblin-Sheet_30
+  - first:
+      213: 4200657942560994130
+    second: FighterGoblin-Sheet_31
+  - first:
+      213: 2003304341675784401
+    second: FighterGoblin-Sheet_32
+  - first:
+      213: 2802714905637169465
+    second: FighterGoblin-Sheet_33
+  - first:
+      213: 6697799358495099817
+    second: FighterGoblin-Sheet_34
+  - first:
+      213: 68264899064203575
+    second: FighterGoblin-Sheet_35
+  - first:
+      213: 1708316215198704910
+    second: FighterGoblin-Sheet_36
+  - first:
+      213: -7242589107215074886
+    second: FighterGoblin-Sheet_37
+  - first:
+      213: 4874668904205916483
+    second: FighterGoblin-Sheet_38
+  - first:
+      213: 6724901660033473864
+    second: FighterGoblin-Sheet_39
+  - first:
+      213: 5972298733931234663
+    second: FighterGoblin-Sheet_40
+  - first:
+      213: -4789704384131477632
+    second: FighterGoblin-Sheet_41
+  - first:
+      213: -8283323071001663791
+    second: FighterGoblin-Sheet_42
+  - first:
+      213: -2487358864856178426
+    second: FighterGoblin-Sheet_43
+  - first:
+      213: 639619318625208510
+    second: FighterGoblin-Sheet_44
+  - first:
+      213: -5444283870532093220
+    second: FighterGoblin-Sheet_45
+  - first:
+      213: -6834632528692191054
+    second: FighterGoblin-Sheet_46
+  - first:
+      213: -8706583491442991579
+    second: FighterGoblin-Sheet_47
+  - first:
+      213: -4531472136984242480
+    second: FighterGoblin-Sheet_48
+  - first:
+      213: 6357139631244659238
+    second: FighterGoblin-Sheet_49
+  - first:
+      213: -779661138441762577
+    second: FighterGoblin-Sheet_50
+  - first:
+      213: -3838553437167527104
+    second: FighterGoblin-Sheet_51
+  - first:
+      213: 5013624914343988079
+    second: FighterGoblin-Sheet_52
+  - first:
+      213: 6299215228457065895
+    second: FighterGoblin-Sheet_53
+  - first:
+      213: -4510588126992505079
+    second: FighterGoblin-Sheet_54
+  - first:
+      213: -8358972786442046655
+    second: FighterGoblin-Sheet_55
+  - first:
+      213: 6510688129054601473
+    second: FighterGoblin-Sheet_56
+  - first:
+      213: -6674415170014397238
+    second: FighterGoblin-Sheet_57
+  - first:
+      213: 7289406427176812323
+    second: FighterGoblin-Sheet_58
+  - first:
+      213: -679215660543743690
+    second: FighterGoblin-Sheet_59
+  - first:
+      213: 1482789178731059128
+    second: FighterGoblin-Sheet_60
+  - first:
+      213: -2865006656446182158
+    second: FighterGoblin-Sheet_61
+  - first:
+      213: 6291186319710125535
+    second: FighterGoblin-Sheet_62
+  - first:
+      213: 6617079635916727444
+    second: FighterGoblin-Sheet_63
+  - first:
+      213: -5030665254293297394
+    second: FighterGoblin-Sheet_64
+  - first:
+      213: 3752524364264478499
+    second: FighterGoblin-Sheet_65
+  - first:
+      213: 3731696194028231372
+    second: FighterGoblin-Sheet_66
+  - first:
+      213: 6823402757793105423
+    second: FighterGoblin-Sheet_67
+  - first:
+      213: 7123015821565097705
+    second: FighterGoblin-Sheet_68
+  - first:
+      213: -8258214108762409756
+    second: FighterGoblin-Sheet_69
+  - first:
+      213: 5717600781880008203
+    second: FighterGoblin-Sheet_70
+  - first:
+      213: -6954137102786341648
+    second: FighterGoblin-Sheet_71
+  - first:
+      213: -1529686162361463689
+    second: FighterGoblin-Sheet_72
+  - first:
+      213: -8378495155097508987
+    second: FighterGoblin-Sheet_73
+  - first:
+      213: -1414010132839227890
+    second: FighterGoblin-Sheet_74
+  - first:
+      213: 26673755991228623
+    second: FighterGoblin-Sheet_75
+  - first:
+      213: 7368688071215050024
+    second: FighterGoblin-Sheet_76
+  - first:
+      213: -4631555062281420762
+    second: FighterGoblin-Sheet_77
+  - first:
+      213: 4646653772490495565
+    second: FighterGoblin-Sheet_78
+  - first:
+      213: -5091851165770154066
+    second: FighterGoblin-Sheet_79
+  - first:
+      213: -7318597489373810745
+    second: FighterGoblin-Sheet_80
+  - first:
+      213: -3539038606241393911
+    second: FighterGoblin-Sheet_81
+  - first:
+      213: -4969441808151024639
+    second: FighterGoblin-Sheet_82
+  - first:
+      213: 165754795228462868
+    second: FighterGoblin-Sheet_83
+  - first:
+      213: -738318595230948677
+    second: FighterGoblin-Sheet_84
+  - first:
+      213: 8811881205084524646
+    second: FighterGoblin-Sheet_85
+  - first:
+      213: -8983333344301796426
+    second: FighterGoblin-Sheet_86
+  - first:
+      213: -374410353626680351
+    second: FighterGoblin-Sheet_87
+  - first:
+      213: 1969966651778752804
+    second: FighterGoblin-Sheet_88
+  - first:
+      213: 4794965706570843304
+    second: FighterGoblin-Sheet_89
+  - first:
+      213: -7550748433699250319
+    second: FighterGoblin-Sheet_90
+  - first:
+      213: 611882636459457120
+    second: FighterGoblin-Sheet_91
+  - first:
+      213: 4099182790350288080
+    second: FighterGoblin-Sheet_92
+  - first:
+      213: -4477227222348912253
+    second: FighterGoblin-Sheet_93
+  - first:
+      213: -8526982792678496454
+    second: FighterGoblin-Sheet_94
+  - first:
+      213: 9193545507365023293
+    second: FighterGoblin-Sheet_95
+  - first:
+      213: 30162450048220465
+    second: FighterGoblin-Sheet_96
+  - first:
+      213: -8040070548721641308
+    second: FighterGoblin-Sheet_97
+  - first:
+      213: -5845016156289123625
+    second: FighterGoblin-Sheet_98
+  - first:
+      213: -1356054062383796352
+    second: FighterGoblin-Sheet_99
+  - first:
+      213: 7634927263432408672
+    second: FighterGoblin-Sheet_100
+  - first:
+      213: -761498606272588747
+    second: FighterGoblin-Sheet_101
+  - first:
+      213: -3619035313059613385
+    second: FighterGoblin-Sheet_102
+  - first:
+      213: 8666740133855070582
+    second: FighterGoblin-Sheet_103
+  - first:
+      213: -5460776725581954786
+    second: FighterGoblin-Sheet_104
+  - first:
+      213: -7572501493594906626
+    second: FighterGoblin-Sheet_105
+  - first:
+      213: 5691449907998766456
+    second: FighterGoblin-Sheet_106
+  - first:
+      213: -8246578996483411501
+    second: FighterGoblin-Sheet_107
+  - first:
+      213: 1517724699383485385
+    second: FighterGoblin-Sheet_108
+  - first:
+      213: 5139880091195869250
+    second: FighterGoblin-Sheet_109
+  - first:
+      213: -2129751322707149273
+    second: FighterGoblin-Sheet_110
+  - first:
+      213: 127442593756590418
+    second: FighterGoblin-Sheet_111
+  - first:
+      213: 2809503732943618573
+    second: FighterGoblin-Sheet_112
+  - first:
+      213: 344813989268893174
+    second: FighterGoblin-Sheet_113
+  - first:
+      213: 4623273132228773012
+    second: FighterGoblin-Sheet_114
+  - first:
+      213: -2973649764315639382
+    second: FighterGoblin-Sheet_115
+  - first:
+      213: 1514854028600203545
+    second: FighterGoblin-Sheet_116
+  - first:
+      213: 5094035084850612236
+    second: FighterGoblin-Sheet_117
+  - first:
+      213: 7839149748514009482
+    second: FighterGoblin-Sheet_118
+  - first:
+      213: 1490284935886154793
+    second: FighterGoblin-Sheet_119
+  - first:
+      213: -9124089314153281914
+    second: FighterGoblin-Sheet_120
+  - first:
+      213: -1179184890258167684
+    second: FighterGoblin-Sheet_121
+  - first:
+      213: 1556868226988379413
+    second: FighterGoblin-Sheet_122
+  - first:
+      213: 4759918739953664625
+    second: FighterGoblin-Sheet_123
+  - first:
+      213: 6216981776069262297
+    second: FighterGoblin-Sheet_124
+  - first:
+      213: 2113916585051233202
+    second: FighterGoblin-Sheet_125
+  - first:
+      213: 6519015654422479172
+    second: FighterGoblin-Sheet_126
+  - first:
+      213: 4898691260856626905
+    second: FighterGoblin-Sheet_127
+  - first:
+      213: 7355851755079315640
+    second: FighterGoblin-Sheet_128
+  - first:
+      213: -4365426386974552469
+    second: FighterGoblin-Sheet_129
+  - first:
+      213: -6663434553295432400
+    second: FighterGoblin-Sheet_130
+  - first:
+      213: -4666576211908138063
+    second: FighterGoblin-Sheet_131
+  - first:
+      213: -5388306455335571326
+    second: FighterGoblin-Sheet_132
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 777
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ef79982468b2dc0800000000000000
+      internalID: -3662686251601363400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 777
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6a1a15782da4b40800000000000000
+      internalID: 5425380179753150150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 777
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942f64473ecf2a0f0800000000000000
+      internalID: -1107044504541138359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 777
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e456794345da094e0800000000000000
+      internalID: -1976889659244452530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 777
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f7890f138d317a0800000000000000
+      internalID: -6407540135816560889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 777
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa8954d31b7626f0800000000000000
+      internalID: -709744566167041369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 777
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313caddb6584049a0800000000000000
+      internalID: -6250916745400630509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 701
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafe514985773ef60800000000000000
+      internalID: 8062418980248612778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 702
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fc7f246847b9940800000000000000
+      internalID: 5303961106156867380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 703
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7280a82641b485c0800000000000000
+      internalID: -4214048436424506757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 704
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e25caaa1029c2b90800000000000000
+      internalID: -7265271562999409947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 702
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bab9c8d5358e69a0800000000000000
+      internalID: -6237901967544698191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 702
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67b9d868dba44490800000000000000
+      internalID: -7762890911719508114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 702
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77837bace1c4a65e0800000000000000
+      internalID: -1915634996358989705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 703
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a632ad4775c7920800000000000000
+      internalID: 2989360412054743660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 625
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52fe52d4ee7e1410800000000000000
+      internalID: 1449735651306959452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 625
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f867c0104cea49b0800000000000000
+      internalID: -5095000268512728839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 625
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa549ca1d98a24420800000000000000
+      internalID: 2612836126541039018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 549
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead10204953af7410800000000000000
+      internalID: 1477078806524075438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 550
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977cc93da98d59da0800000000000000
+      internalID: -5938602374131300487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 550
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c50ee664a24cd00800000000000000
+      internalID: 991964299924626572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 551
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6887a884b401ba5c0800000000000000
+      internalID: -4203247911694600058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 477
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c3a45ce89a29960800000000000000
+      internalID: 7607329151242615920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 477
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03b472ea9afe5920800000000000000
+      internalID: 2981095546497053454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 477
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c39b35b718aee50800000000000000
+      internalID: 6839421350801128568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 400
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab3d4ebab02c1170800000000000000
+      internalID: 8150425412062493604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 400
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482b1ac8a94cc9380800000000000000
+      internalID: -8963072990310714748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 400
+        width: 62
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9bf64e50ba5e550800000000000000
+      internalID: 6189541304686328254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b363da8e8acd33a70800000000000000
+      internalID: 8805624314455733819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 322
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a920d0a15031cac40800000000000000
+      internalID: 5524811755509580442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 322
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883369ff404d91470800000000000000
+      internalID: 8365950900750398344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 322
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2537549842cbb4a30800000000000000
+      internalID: 4200657942560994130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 321
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8359e4faa2dcb10800000000000000
+      internalID: 2003304341675784401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 245
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93922357b5e35e620800000000000000
+      internalID: 2802714905637169465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 246
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab80f3b70d53fc50800000000000000
+      internalID: 6697799358495099817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 246
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7398953609682f000800000000000000
+      internalID: 68264899064203575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 246
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0565f2fb8825b710800000000000000
+      internalID: 1708316215198704910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 246
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9f45274972d7b90800000000000000
+      internalID: -7242589107215074886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 246
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34916d09a8d46a340800000000000000
+      internalID: 4874668904205916483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 246
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ddab30e66a35d50800000000000000
+      internalID: 6724901660033473864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 284
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7658c705e0ed1e250800000000000000
+      internalID: 5972298733931234663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 246
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f46b45d3d878db0800000000000000
+      internalID: -4789704384131477632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 239
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6e529cd89bb0d80800000000000000
+      internalID: -8283323071001663791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 246
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601245f7a402b7dd0800000000000000
+      internalID: -2487358864856178426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 246
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb80226a16260e800800000000000000
+      internalID: 639619318625208510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 246
+        width: 65
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdabb803aa40274b0800000000000000
+      internalID: -5444283870532093220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 238
+        width: 83
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0e8f43de18621a0800000000000000
+      internalID: -6834632528692191054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 267
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e9249a1700c2780800000000000000
+      internalID: -8706583491442991579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 246
+        width: 72
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d65975a91afc11c0800000000000000
+      internalID: -4531472136984242480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 246
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a45e320d8193850800000000000000
+      internalID: 6357139631244659238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 270
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8800e43561e25f0800000000000000
+      internalID: -779661138441762577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 227
+        width: 85
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b56468cf7babac0800000000000000
+      internalID: -3838553437167527104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 227
+        width: 94
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b8588db49f39540800000000000000
+      internalID: 5013624914343988079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 246
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad1ae720ee4b6750800000000000000
+      internalID: 6299215228457065895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 246
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90764822ffb2761c0800000000000000
+      internalID: -4510588126992505079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 255
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143f6f8d986fefb80800000000000000
+      internalID: -8358972786442046655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 232
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101f6a7bb5c9a5a50800000000000000
+      internalID: 6510688129054601473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 232
+        width: 68
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc30d3f3c6bf53a0800000000000000
+      internalID: -6674415170014397238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 266
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fb25b468c292560800000000000000
+      internalID: 7289406427176812323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 254
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639686394f0f296f0800000000000000
+      internalID: -679215660543743690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 258
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7de03e6ece39410800000000000000
+      internalID: 1482789178731059128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 247
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc456b10a37d38d0800000000000000
+      internalID: -2865006656446182158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 247
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd7e1a20a8ce4750800000000000000
+      internalID: 6291186319710125535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 235
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494a94dbed694db50800000000000000
+      internalID: 6617079635916727444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 245
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07a2f5da9c7f2ab0800000000000000
+      internalID: -5030665254293297394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 248
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3279bfe0705a31430800000000000000
+      internalID: 3752524364264478499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 251
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccadab6cae5a9c330800000000000000
+      internalID: 3731696194028231372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 234
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06cda108a891be50800000000000000
+      internalID: 6823402757793105423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 239
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6ffdd76290ad260800000000000000
+      internalID: 7123015821565097705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 239
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4f810a50ee46d80800000000000000
+      internalID: -8258214108762409756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 172
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e14733e9ff85f40800000000000000
+      internalID: 5717600781880008203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 228
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f45e0d4621fd7f90800000000000000
+      internalID: -6954137102786341648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 172
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c4d9a3a8675cae0800000000000000
+      internalID: -1529686162361463689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 172
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583e4103c0b99bb80800000000000000
+      internalID: -8378495155097508987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 207
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e9053a64d606ce0800000000000000
+      internalID: -1414010132839227890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 221
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0cea6c3a3ce5000800000000000000
+      internalID: 26673755991228623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 169
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d6e6182c6d24660800000000000000
+      internalID: 7368688071215050024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 170
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620cd0bb53969bfb0800000000000000
+      internalID: -4631555062281420762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 170
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46568facfa3c7040800000000000000
+      internalID: 4646653772490495565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 171
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf7c1fa75c1659b0800000000000000
+      internalID: -5091851165770154066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 173
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfeec7eb5e1f6a90800000000000000
+      internalID: -7318597489373810745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 188
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9039694632fc2eec0800000000000000
+      internalID: -3539038606241393911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 162
+        width: 76
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cee25310ff80bb0800000000000000
+      internalID: -4969441808151024639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 194
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ff869ab11ec4200800000000000000
+      internalID: 165754795228462868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 162
+        width: 86
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2a1304627f0c5f0800000000000000
+      internalID: -738318595230948677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 162
+        width: 87
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6601108c4471a4a70800000000000000
+      internalID: 8811881205084524646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 162
+        width: 89
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b338f94be9c45380800000000000000
+      internalID: -8983333344301796426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 162
+        width: 88
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e37adf54c3ddcaf0800000000000000
+      internalID: -374410353626680351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 162
+        width: 74
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42163a28b3ab65b10800000000000000
+      internalID: 1969966651778752804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 169
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4c552c7e32b8240800000000000000
+      internalID: 4794965706570843304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 169
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fd40d1e4a563790800000000000000
+      internalID: -7550748433699250319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 169
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a35661408dd7800800000000000000
+      internalID: 611882636459457120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 169
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d43938870933e830800000000000000
+      internalID: 4099182790350288080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 169
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3892f290091bdd1c0800000000000000
+      internalID: -4477227222348912253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 162
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37a784f3521aa980800000000000000
+      internalID: -8526982792678496454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 170
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e61e0fde8069f70800000000000000
+      internalID: 9193545507365023293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 162
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13dfda8a6982b6000800000000000000
+      internalID: 30162450048220465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 170
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8dd5e1f6eeb6090800000000000000
+      internalID: -8040070548721641308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 162
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dab7f926c452eea0800000000000000
+      internalID: -5845016156289123625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 170
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f6363d3045e2de0800000000000000
+      internalID: -1356054062383796352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 162
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e75def4e5b4f960800000000000000
+      internalID: 7634927263432408672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 170
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534da2c5d0d9e65f0800000000000000
+      internalID: -761498606272588747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 162
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735bc77ae8a96cdc0800000000000000
+      internalID: -3619035313059613385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 170
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6798d0fbb32764870800000000000000
+      internalID: 8666740133855070582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 162
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1187f1208c6734b0800000000000000
+      internalID: -5460776725581954786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 170
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff192d230219e690800000000000000
+      internalID: -7572501493594906626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 170
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875323769871cfe40800000000000000
+      internalID: 5691449907998766456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 94
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1b86e48144e8d80800000000000000
+      internalID: -8246578996483411501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 94
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3d695a29a001510800000000000000
+      internalID: 1517724699383485385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 94
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24805dfe5b5845740800000000000000
+      internalID: 5139880091195869250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 94
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e3f16b47a9172e0800000000000000
+      internalID: -2129751322707149273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 18
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251bd122d54c4c100800000000000000
+      internalID: 127442593756590418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 18
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d020d3d72cc5df620800000000000000
+      internalID: 2809503732943618573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 18
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd25ff0f7609c400800000000000000
+      internalID: 344813989268893174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 18
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4948a1a2b6a292040800000000000000
+      internalID: 4623273132228773012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 18
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1da8f5b497bb6d0800000000000000
+      internalID: -2973649764315639382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 18
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919d84586b7d50510800000000000000
+      internalID: 1514854028600203545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 18
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08c5e99be5a1b640800000000000000
+      internalID: 5094035084850612236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 18
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a813545a9214acc60800000000000000
+      internalID: 7839149748514009482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 18
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c2c99d04e8ea410800000000000000
+      internalID: 1490284935886154793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 18
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686c4fa3c19b06180800000000000000
+      internalID: -9124089314153281914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 18
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7867a30791b2afe0800000000000000
+      internalID: -1179184890258167684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 18
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d0cbf576b1b9510800000000000000
+      internalID: 1556868226988379413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 18
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172c9a6ffd0ae0240800000000000000
+      internalID: 4759918739953664625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 10
+        width: 65
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db7fa18cf7274650800000000000000
+      internalID: 6216981776069262297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 11
+        width: 69
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb19c02fe3265d10800000000000000
+      internalID: 2113916585051233202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 10
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441001fc232387a50800000000000000
+      internalID: 6519015654422479172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 18
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de6ba35fb5abf340800000000000000
+      internalID: 4898691260856626905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 10
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0bfe1c23c351660800000000000000
+      internalID: 7355851755079315640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_129
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 17
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ec34f74d3ea63c0800000000000000
+      internalID: -4365426386974552469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_130
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 10
+        width: 73
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03513c20499b683a0800000000000000
+      internalID: -6663434553295432400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_131
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 10
+        width: 71
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb6debe8adfc3fb0800000000000000
+      internalID: -4666576211908138063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterGoblin-Sheet_132
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 10
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28077ccc3d3e835b0800000000000000
+      internalID: -5388306455335571326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FighterGoblin-Sheet_0: -3662686251601363400
+      FighterGoblin-Sheet_1: 5425380179753150150
+      FighterGoblin-Sheet_10: -7265271562999409947
+      FighterGoblin-Sheet_100: 7634927263432408672
+      FighterGoblin-Sheet_101: -761498606272588747
+      FighterGoblin-Sheet_102: -3619035313059613385
+      FighterGoblin-Sheet_103: 8666740133855070582
+      FighterGoblin-Sheet_104: -5460776725581954786
+      FighterGoblin-Sheet_105: -7572501493594906626
+      FighterGoblin-Sheet_106: 5691449907998766456
+      FighterGoblin-Sheet_107: -8246578996483411501
+      FighterGoblin-Sheet_108: 1517724699383485385
+      FighterGoblin-Sheet_109: 5139880091195869250
+      FighterGoblin-Sheet_11: -6237901967544698191
+      FighterGoblin-Sheet_110: -2129751322707149273
+      FighterGoblin-Sheet_111: 127442593756590418
+      FighterGoblin-Sheet_112: 2809503732943618573
+      FighterGoblin-Sheet_113: 344813989268893174
+      FighterGoblin-Sheet_114: 4623273132228773012
+      FighterGoblin-Sheet_115: -2973649764315639382
+      FighterGoblin-Sheet_116: 1514854028600203545
+      FighterGoblin-Sheet_117: 5094035084850612236
+      FighterGoblin-Sheet_118: 7839149748514009482
+      FighterGoblin-Sheet_119: 1490284935886154793
+      FighterGoblin-Sheet_12: -7762890911719508114
+      FighterGoblin-Sheet_120: -9124089314153281914
+      FighterGoblin-Sheet_121: -1179184890258167684
+      FighterGoblin-Sheet_122: 1556868226988379413
+      FighterGoblin-Sheet_123: 4759918739953664625
+      FighterGoblin-Sheet_124: 6216981776069262297
+      FighterGoblin-Sheet_125: 2113916585051233202
+      FighterGoblin-Sheet_126: 6519015654422479172
+      FighterGoblin-Sheet_127: 4898691260856626905
+      FighterGoblin-Sheet_128: 7355851755079315640
+      FighterGoblin-Sheet_129: -4365426386974552469
+      FighterGoblin-Sheet_13: -1915634996358989705
+      FighterGoblin-Sheet_130: -6663434553295432400
+      FighterGoblin-Sheet_131: -4666576211908138063
+      FighterGoblin-Sheet_132: -5388306455335571326
+      FighterGoblin-Sheet_14: 2989360412054743660
+      FighterGoblin-Sheet_15: 1449735651306959452
+      FighterGoblin-Sheet_16: -5095000268512728839
+      FighterGoblin-Sheet_17: 2612836126541039018
+      FighterGoblin-Sheet_18: 1477078806524075438
+      FighterGoblin-Sheet_19: -5938602374131300487
+      FighterGoblin-Sheet_2: -1107044504541138359
+      FighterGoblin-Sheet_20: 991964299924626572
+      FighterGoblin-Sheet_21: -4203247911694600058
+      FighterGoblin-Sheet_22: 7607329151242615920
+      FighterGoblin-Sheet_23: 2981095546497053454
+      FighterGoblin-Sheet_24: 6839421350801128568
+      FighterGoblin-Sheet_25: 8150425412062493604
+      FighterGoblin-Sheet_26: -8963072990310714748
+      FighterGoblin-Sheet_27: 6189541304686328254
+      FighterGoblin-Sheet_28: 8805624314455733819
+      FighterGoblin-Sheet_29: 5524811755509580442
+      FighterGoblin-Sheet_3: -1976889659244452530
+      FighterGoblin-Sheet_30: 8365950900750398344
+      FighterGoblin-Sheet_31: 4200657942560994130
+      FighterGoblin-Sheet_32: 2003304341675784401
+      FighterGoblin-Sheet_33: 2802714905637169465
+      FighterGoblin-Sheet_34: 6697799358495099817
+      FighterGoblin-Sheet_35: 68264899064203575
+      FighterGoblin-Sheet_36: 1708316215198704910
+      FighterGoblin-Sheet_37: -7242589107215074886
+      FighterGoblin-Sheet_38: 4874668904205916483
+      FighterGoblin-Sheet_39: 6724901660033473864
+      FighterGoblin-Sheet_4: -6407540135816560889
+      FighterGoblin-Sheet_40: 5972298733931234663
+      FighterGoblin-Sheet_41: -4789704384131477632
+      FighterGoblin-Sheet_42: -8283323071001663791
+      FighterGoblin-Sheet_43: -2487358864856178426
+      FighterGoblin-Sheet_44: 639619318625208510
+      FighterGoblin-Sheet_45: -5444283870532093220
+      FighterGoblin-Sheet_46: -6834632528692191054
+      FighterGoblin-Sheet_47: -8706583491442991579
+      FighterGoblin-Sheet_48: -4531472136984242480
+      FighterGoblin-Sheet_49: 6357139631244659238
+      FighterGoblin-Sheet_5: -709744566167041369
+      FighterGoblin-Sheet_50: -779661138441762577
+      FighterGoblin-Sheet_51: -3838553437167527104
+      FighterGoblin-Sheet_52: 5013624914343988079
+      FighterGoblin-Sheet_53: 6299215228457065895
+      FighterGoblin-Sheet_54: -4510588126992505079
+      FighterGoblin-Sheet_55: -8358972786442046655
+      FighterGoblin-Sheet_56: 6510688129054601473
+      FighterGoblin-Sheet_57: -6674415170014397238
+      FighterGoblin-Sheet_58: 7289406427176812323
+      FighterGoblin-Sheet_59: -679215660543743690
+      FighterGoblin-Sheet_6: -6250916745400630509
+      FighterGoblin-Sheet_60: 1482789178731059128
+      FighterGoblin-Sheet_61: -2865006656446182158
+      FighterGoblin-Sheet_62: 6291186319710125535
+      FighterGoblin-Sheet_63: 6617079635916727444
+      FighterGoblin-Sheet_64: -5030665254293297394
+      FighterGoblin-Sheet_65: 3752524364264478499
+      FighterGoblin-Sheet_66: 3731696194028231372
+      FighterGoblin-Sheet_67: 6823402757793105423
+      FighterGoblin-Sheet_68: 7123015821565097705
+      FighterGoblin-Sheet_69: -8258214108762409756
+      FighterGoblin-Sheet_7: 8062418980248612778
+      FighterGoblin-Sheet_70: 5717600781880008203
+      FighterGoblin-Sheet_71: -6954137102786341648
+      FighterGoblin-Sheet_72: -1529686162361463689
+      FighterGoblin-Sheet_73: -8378495155097508987
+      FighterGoblin-Sheet_74: -1414010132839227890
+      FighterGoblin-Sheet_75: 26673755991228623
+      FighterGoblin-Sheet_76: 7368688071215050024
+      FighterGoblin-Sheet_77: -4631555062281420762
+      FighterGoblin-Sheet_78: 4646653772490495565
+      FighterGoblin-Sheet_79: -5091851165770154066
+      FighterGoblin-Sheet_8: 5303961106156867380
+      FighterGoblin-Sheet_80: -7318597489373810745
+      FighterGoblin-Sheet_81: -3539038606241393911
+      FighterGoblin-Sheet_82: -4969441808151024639
+      FighterGoblin-Sheet_83: 165754795228462868
+      FighterGoblin-Sheet_84: -738318595230948677
+      FighterGoblin-Sheet_85: 8811881205084524646
+      FighterGoblin-Sheet_86: -8983333344301796426
+      FighterGoblin-Sheet_87: -374410353626680351
+      FighterGoblin-Sheet_88: 1969966651778752804
+      FighterGoblin-Sheet_89: 4794965706570843304
+      FighterGoblin-Sheet_9: -4214048436424506757
+      FighterGoblin-Sheet_90: -7550748433699250319
+      FighterGoblin-Sheet_91: 611882636459457120
+      FighterGoblin-Sheet_92: 4099182790350288080
+      FighterGoblin-Sheet_93: -4477227222348912253
+      FighterGoblin-Sheet_94: -8526982792678496454
+      FighterGoblin-Sheet_95: 9193545507365023293
+      FighterGoblin-Sheet_96: 30162450048220465
+      FighterGoblin-Sheet_97: -8040070548721641308
+      FighterGoblin-Sheet_98: -5845016156289123625
+      FighterGoblin-Sheet_99: -1356054062383796352
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

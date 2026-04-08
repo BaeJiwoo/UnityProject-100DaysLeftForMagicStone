@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 17f5e31428617fa41aa6237139dd62e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5863459529780584548
+    second: Thunder shield w blur_0
+  - first:
+      213: 1595131775318886992
+    second: Thunder shield w blur_1
+  - first:
+      213: 6953309068084413989
+    second: Thunder shield w blur_2
+  - first:
+      213: 3156081362230843118
+    second: Thunder shield w blur_3
+  - first:
+      213: -7174664554745084755
+    second: Thunder shield w blur_4
+  - first:
+      213: -3751048948080503417
+    second: Thunder shield w blur_5
+  - first:
+      213: 2758789812473198905
+    second: Thunder shield w blur_6
+  - first:
+      213: 7168925702326030007
+    second: Thunder shield w blur_7
+  - first:
+      213: 8197770659800470793
+    second: Thunder shield w blur_8
+  - first:
+      213: 4410564257973447960
+    second: Thunder shield w blur_9
+  - first:
+      213: -8494582925320335895
+    second: Thunder shield w blur_10
+  - first:
+      213: 6881226217802911620
+    second: Thunder shield w blur_11
+  - first:
+      213: -3610448374470893088
+    second: Thunder shield w blur_12
+  - first:
+      213: 4016964749876854876
+    second: Thunder shield w blur_13
+  - first:
+      213: 6132956165205777624
+    second: Thunder shield w blur_14
+  - first:
+      213: 4253726022186595285
+    second: Thunder shield w blur_15
+  - first:
+      213: 2316377905324522933
+    second: Thunder shield w blur_16
+  - first:
+      213: -1419158093708787160
+    second: Thunder shield w blur_17
+  - first:
+      213: -5422409416626458528
+    second: Thunder shield w blur_18
+  - first:
+      213: -7686273042537900382
+    second: Thunder shield w blur_19
+  - first:
+      213: -5858886304426213310
+    second: Thunder shield w blur_20
+  - first:
+      213: 4195884828307766977
+    second: Thunder shield w blur_21
+  - first:
+      213: 1212147218499844152
+    second: Thunder shield w blur_22
+  - first:
+      213: -1492570307550631859
+    second: Thunder shield w blur_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Thunder shield w blur_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 71
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f9c84af9ec0aea0800000000000000
+      internalID: -5863459529780584548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder shield w blur_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 66
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a02d5f5eb032610800000000000000
+      internalID: 1595131775318886992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder shield w blur_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 66
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5268ca8d1cd1f7060800000000000000
+      internalID: 6953309068084413989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder shield w blur_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 66
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6100ef647accb20800000000000000
+      internalID: 3156081362230843118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder shield w blur_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 65
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da445d7b9987e6c90800000000000000
+      internalID: -7174664554745084755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder shield w blur_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 65
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7851f8a0bd891fbc0800000000000000
+      internalID: -3751048948080503417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder shield w blur_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 65
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9397e6eb7b0394620800000000000000
+      internalID: 2758789812473198905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder shield w blur_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 33
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be8f4491f32d7360800000000000000
+      internalID: 7168925702326030007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder shield w blur_8
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 33
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905d68f3bf454c170800000000000000
+      internalID: 8197770659800470793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder shield w blur_9
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81daa8f03d8753d30800000000000000
+      internalID: 4410564257973447960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder shield w blur_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 33
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edce2de5dd2d1a80800000000000000
+      internalID: -8494582925320335895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder shield w blur_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 33
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f4f3b69c60f7f50800000000000000
+      internalID: 6881226217802911620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder shield w blur_12
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 33
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1a6c7155c15edc0800000000000000
+      internalID: -3610448374470893088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder shield w blur_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c500daf38202fb730800000000000000
+      internalID: 4016964749876854876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder shield w blur_14
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcd1227323ac1550800000000000000
+      internalID: 6132956165205777624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder shield w blur_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 3
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3744ca745480b30800000000000000
+      internalID: 4253726022186595285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder shield w blur_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 7
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd7e64ae6d652020800000000000000
+      internalID: 2316377905324522933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder shield w blur_17
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8220e589b332e4ce0800000000000000
+      internalID: -1419158093708787160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder shield w blur_18
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 15
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0603f3f5d5bbfb4b0800000000000000
+      internalID: -5422409416626458528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder shield w blur_19
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a61ed4346fd45590800000000000000
+      internalID: -7686273042537900382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder shield w blur_20
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 19
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2404645a2fd01bea0800000000000000
+      internalID: -5858886304426213310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder shield w blur_21
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 4
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce3cb54507ca3a30800000000000000
+      internalID: 4195884828307766977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder shield w blur_22
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 2
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8383926197962d010800000000000000
+      internalID: 1212147218499844152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder shield w blur_23
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 4
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4826289633594be0800000000000000
+      internalID: -1492570307550631859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Thunder shield w blur_0: -5863459529780584548
+      Thunder shield w blur_1: 1595131775318886992
+      Thunder shield w blur_10: -8494582925320335895
+      Thunder shield w blur_11: 6881226217802911620
+      Thunder shield w blur_12: -3610448374470893088
+      Thunder shield w blur_13: 4016964749876854876
+      Thunder shield w blur_14: 6132956165205777624
+      Thunder shield w blur_15: 4253726022186595285
+      Thunder shield w blur_16: 2316377905324522933
+      Thunder shield w blur_17: -1419158093708787160
+      Thunder shield w blur_18: -5422409416626458528
+      Thunder shield w blur_19: -7686273042537900382
+      Thunder shield w blur_2: 6953309068084413989
+      Thunder shield w blur_20: -5858886304426213310
+      Thunder shield w blur_21: 4195884828307766977
+      Thunder shield w blur_22: 1212147218499844152
+      Thunder shield w blur_23: -1492570307550631859
+      Thunder shield w blur_3: 3156081362230843118
+      Thunder shield w blur_4: -7174664554745084755
+      Thunder shield w blur_5: -3751048948080503417
+      Thunder shield w blur_6: 2758789812473198905
+      Thunder shield w blur_7: 7168925702326030007
+      Thunder shield w blur_8: 8197770659800470793
+      Thunder shield w blur_9: 4410564257973447960
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

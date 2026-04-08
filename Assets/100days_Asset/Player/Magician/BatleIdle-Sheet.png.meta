@@ -1,0 +1,876 @@
+fileFormatVersion: 2
+guid: dfa7917edacc79143957971abc5e4bbb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5001896029672798899
+    second: BatleIdle-Sheet_0
+  - first:
+      213: 3024276738502771230
+    second: BatleIdle-Sheet_1
+  - first:
+      213: 8623088102117826616
+    second: BatleIdle-Sheet_2
+  - first:
+      213: -2566914278384970938
+    second: BatleIdle-Sheet_3
+  - first:
+      213: -5839868024642587368
+    second: BatleIdle-Sheet_4
+  - first:
+      213: -743984373333459474
+    second: BatleIdle-Sheet_5
+  - first:
+      213: -1408182369883886802
+    second: BatleIdle-Sheet_6
+  - first:
+      213: 3540005221629132985
+    second: BatleIdle-Sheet_7
+  - first:
+      213: 2227244073577330876
+    second: BatleIdle-Sheet_8
+  - first:
+      213: 8548527358142909117
+    second: BatleIdle-Sheet_9
+  - first:
+      213: -7241786009134230920
+    second: BatleIdle-Sheet_10
+  - first:
+      213: -3045096275392749500
+    second: BatleIdle-Sheet_11
+  - first:
+      213: 4055703303873341882
+    second: BatleIdle-Sheet_12
+  - first:
+      213: 3287509059509588360
+    second: BatleIdle-Sheet_13
+  - first:
+      213: 7113158464155911693
+    second: BatleIdle-Sheet_14
+  - first:
+      213: 852567389662422736
+    second: BatleIdle-Sheet_15
+  - first:
+      213: 5820744876321259439
+    second: BatleIdle-Sheet_16
+  - first:
+      213: 4688945191968264595
+    second: BatleIdle-Sheet_17
+  - first:
+      213: -8564261701498459227
+    second: BatleIdle-Sheet_18
+  - first:
+      213: -760617731140907823
+    second: BatleIdle-Sheet_19
+  - first:
+      213: -1744344040219875532
+    second: BatleIdle-Sheet_20
+  - first:
+      213: -7276530087397558282
+    second: BatleIdle-Sheet_21
+  - first:
+      213: 3442606868246794456
+    second: BatleIdle-Sheet_22
+  - first:
+      213: -1865740780495722306
+    second: BatleIdle-Sheet_23
+  - first:
+      213: -3572278843061894490
+    second: BatleIdle-Sheet_24
+  - first:
+      213: -8450656001075320653
+    second: BatleIdle-Sheet_25
+  - first:
+      213: 1169046595866611232
+    second: BatleIdle-Sheet_26
+  - first:
+      213: 101475723872222402
+    second: BatleIdle-Sheet_27
+  - first:
+      213: -7787024485857640935
+    second: BatleIdle-Sheet_28
+  - first:
+      213: 777028857581740418
+    second: BatleIdle-Sheet_29
+  - first:
+      213: -3704661038235789741
+    second: BatleIdle-Sheet_30
+  - first:
+      213: 7348227681327686936
+    second: BatleIdle-Sheet_31
+  - first:
+      213: 6218849643442947220
+    second: BatleIdle-Sheet_32
+  - first:
+      213: -550422693183606019
+    second: BatleIdle-Sheet_33
+  - first:
+      213: -2736495012658493321
+    second: BatleIdle-Sheet_34
+  - first:
+      213: -6790983420272235544
+    second: BatleIdle-Sheet_35
+  - first:
+      213: 4795127176391169333
+    second: BatleIdle-Sheet_36
+  - first:
+      213: 4980251665359595567
+    second: BatleIdle-Sheet_37
+  - first:
+      213: -7118202984226318412
+    second: BatleIdle-Sheet_38
+  - first:
+      213: -403957042026807565
+    second: BatleIdle-Sheet_39
+  - first:
+      213: -8323661565586039335
+    second: BatleIdle-Sheet_40
+  - first:
+      213: 2436066719665407665
+    second: BatleIdle-Sheet_41
+  - first:
+      213: -2792321405291375603
+    second: BatleIdle-Sheet_42
+  - first:
+      213: 7972945478251429294
+    second: BatleIdle-Sheet_43
+  - first:
+      213: 3631721082582361077
+    second: BatleIdle-Sheet_44
+  - first:
+      213: -1703589911877400256
+    second: BatleIdle-Sheet_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BatleIdle-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 53
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d458aebef02b59ab0800000000000000
+      internalID: -5001896029672798899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatleIdle-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 124
+        width: 53
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e124fec9ba368f920800000000000000
+      internalID: 3024276738502771230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatleIdle-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 124
+        width: 53
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83061a911fc5ba770800000000000000
+      internalID: 8623088102117826616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatleIdle-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 124
+        width: 53
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6435cfb501d706cd0800000000000000
+      internalID: -2566914278384970938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatleIdle-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 124
+        width: 53
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8153408f8fe94fea0800000000000000
+      internalID: -5839868024642587368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatleIdle-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 124
+        width: 53
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed740d7726dca5f0800000000000000
+      internalID: -743984373333459474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatleIdle-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 124
+        width: 53
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b6a107891257ce0800000000000000
+      internalID: -1408182369883886802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatleIdle-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 124
+        width: 53
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b08b3a4eff902130800000000000000
+      internalID: 3540005221629132985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatleIdle-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 124
+        width: 53
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8bba93fa2c8ee10800000000000000
+      internalID: 2227244073577330876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatleIdle-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 124
+        width: 53
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba01d6175872a670800000000000000
+      internalID: 8548527358142909117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatleIdle-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 53
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872192a4ef1008b90800000000000000
+      internalID: -7241786009134230920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatleIdle-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 62
+        width: 53
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440a9563215adb5d0800000000000000
+      internalID: -3045096275392749500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatleIdle-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 62
+        width: 53
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9afb5baa0c84830800000000000000
+      internalID: 4055703303873341882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatleIdle-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 62
+        width: 53
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88192f752149f9d20800000000000000
+      internalID: 3287509059509588360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatleIdle-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 62
+        width: 53
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06831f9fe307b260800000000000000
+      internalID: 7113158464155911693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatleIdle-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 62
+        width: 53
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d629e7168de4db00800000000000000
+      internalID: 852567389662422736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatleIdle-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 62
+        width: 53
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafbd4910a077c050800000000000000
+      internalID: 5820744876321259439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatleIdle-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 62
+        width: 53
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3915b8a1fca721140800000000000000
+      internalID: 4688945191968264595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatleIdle-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 62
+        width: 53
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aba3be9b51a52980800000000000000
+      internalID: -8564261701498459227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatleIdle-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 53
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc8b75143eb175f0800000000000000
+      internalID: -760617731140907823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatleIdle-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 53
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437ef9c5658dac7e0800000000000000
+      internalID: -1744344040219875532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatleIdle-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 53
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7f93f2072940b90800000000000000
+      internalID: -7276530087397558282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatleIdle-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 53
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d09b2bf4b896cf20800000000000000
+      internalID: 3442606868246794456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatleIdle-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 53
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8a79f25ae8b16e0800000000000000
+      internalID: -1865740780495722306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatleIdle-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 53
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a207a8a157bc6ec0800000000000000
+      internalID: -3572278843061894490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatleIdle-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0
+        width: 53
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8e1e8f32d39ba80800000000000000
+      internalID: -8450656001075320653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatleIdle-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 0
+        width: 53
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e42806fa9493010800000000000000
+      internalID: 1169046595866611232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 09ba98bd9c147a744b4ee389cc1505db
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BatleIdle-Sheet_0: -5001896029672798899
+      BatleIdle-Sheet_1: 3024276738502771230
+      BatleIdle-Sheet_10: -7241786009134230920
+      BatleIdle-Sheet_11: -3045096275392749500
+      BatleIdle-Sheet_12: 4055703303873341882
+      BatleIdle-Sheet_13: 3287509059509588360
+      BatleIdle-Sheet_14: 7113158464155911693
+      BatleIdle-Sheet_15: 852567389662422736
+      BatleIdle-Sheet_16: 5820744876321259439
+      BatleIdle-Sheet_17: 4688945191968264595
+      BatleIdle-Sheet_18: -8564261701498459227
+      BatleIdle-Sheet_19: -760617731140907823
+      BatleIdle-Sheet_2: 8623088102117826616
+      BatleIdle-Sheet_20: -1744344040219875532
+      BatleIdle-Sheet_21: -7276530087397558282
+      BatleIdle-Sheet_22: 3442606868246794456
+      BatleIdle-Sheet_23: -1865740780495722306
+      BatleIdle-Sheet_24: -3572278843061894490
+      BatleIdle-Sheet_25: -8450656001075320653
+      BatleIdle-Sheet_26: 1169046595866611232
+      BatleIdle-Sheet_3: -2566914278384970938
+      BatleIdle-Sheet_4: -5839868024642587368
+      BatleIdle-Sheet_5: -743984373333459474
+      BatleIdle-Sheet_6: -1408182369883886802
+      BatleIdle-Sheet_7: 3540005221629132985
+      BatleIdle-Sheet_8: 2227244073577330876
+      BatleIdle-Sheet_9: 8548527358142909117
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

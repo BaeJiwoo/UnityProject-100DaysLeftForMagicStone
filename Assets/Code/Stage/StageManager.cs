@@ -89,7 +89,7 @@ public class StageManager : MonoBehaviour
             if (setup != null && setup.spawnWaves.Count > 0)
             {
                 activeSpawnersCount++;
-                spawner.StartWave(setup.spawnWaves, currentStageData.enemyHpMultiplier, currentStageData.enemyDamageMultiplier);
+                spawner.StartWave(setup.spawnWaves, currentStageData.enemyHpMultiplier, currentStageData.enemyDamageMultiplier, currentStageData.coinValueMultiplier);
             }
         }
 

@@ -1,0 +1,4121 @@
+fileFormatVersion: 2
+guid: 940f2d6326243cc4390050845df3a8f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6529205154435408671
+    second: MoveSet_7(ChargedAtks)-Sheet_0
+  - first:
+      213: -5172609668714141641
+    second: MoveSet_7(ChargedAtks)-Sheet_1
+  - first:
+      213: -4859698331958786295
+    second: MoveSet_7(ChargedAtks)-Sheet_2
+  - first:
+      213: -8388307996687199122
+    second: MoveSet_7(ChargedAtks)-Sheet_3
+  - first:
+      213: -2683112326530359957
+    second: MoveSet_7(ChargedAtks)-Sheet_4
+  - first:
+      213: 1859685862342436416
+    second: MoveSet_7(ChargedAtks)-Sheet_5
+  - first:
+      213: 1532445648230318503
+    second: MoveSet_7(ChargedAtks)-Sheet_6
+  - first:
+      213: -781709947724883294
+    second: MoveSet_7(ChargedAtks)-Sheet_7
+  - first:
+      213: -2243523344197584690
+    second: MoveSet_7(ChargedAtks)-Sheet_8
+  - first:
+      213: 4724849748421770178
+    second: MoveSet_7(ChargedAtks)-Sheet_9
+  - first:
+      213: 3860321947565210082
+    second: MoveSet_7(ChargedAtks)-Sheet_10
+  - first:
+      213: 8387725443082218451
+    second: MoveSet_7(ChargedAtks)-Sheet_11
+  - first:
+      213: -6021879847555568053
+    second: MoveSet_7(ChargedAtks)-Sheet_12
+  - first:
+      213: 7842474959112919692
+    second: MoveSet_7(ChargedAtks)-Sheet_13
+  - first:
+      213: -2639000415512624968
+    second: MoveSet_7(ChargedAtks)-Sheet_14
+  - first:
+      213: -8087176283285577625
+    second: MoveSet_7(ChargedAtks)-Sheet_15
+  - first:
+      213: -2113398702375410654
+    second: MoveSet_7(ChargedAtks)-Sheet_16
+  - first:
+      213: -3933279612311429082
+    second: MoveSet_7(ChargedAtks)-Sheet_17
+  - first:
+      213: 2900109879075424210
+    second: MoveSet_7(ChargedAtks)-Sheet_18
+  - first:
+      213: 5294729305112595059
+    second: MoveSet_7(ChargedAtks)-Sheet_19
+  - first:
+      213: -5742044756642705768
+    second: MoveSet_7(ChargedAtks)-Sheet_20
+  - first:
+      213: 396162461525957663
+    second: MoveSet_7(ChargedAtks)-Sheet_21
+  - first:
+      213: -30376482315794230
+    second: MoveSet_7(ChargedAtks)-Sheet_22
+  - first:
+      213: 2828127906510947386
+    second: MoveSet_7(ChargedAtks)-Sheet_23
+  - first:
+      213: 7840306675729030742
+    second: MoveSet_7(ChargedAtks)-Sheet_24
+  - first:
+      213: -5039110472843990949
+    second: MoveSet_7(ChargedAtks)-Sheet_25
+  - first:
+      213: 5458528209066982639
+    second: MoveSet_7(ChargedAtks)-Sheet_26
+  - first:
+      213: -1486872346471397251
+    second: MoveSet_7(ChargedAtks)-Sheet_27
+  - first:
+      213: -4372509945638133674
+    second: MoveSet_7(ChargedAtks)-Sheet_28
+  - first:
+      213: -2048798420810470970
+    second: MoveSet_7(ChargedAtks)-Sheet_29
+  - first:
+      213: -8363404581300836667
+    second: MoveSet_7(ChargedAtks)-Sheet_30
+  - first:
+      213: 2406734187158754010
+    second: MoveSet_7(ChargedAtks)-Sheet_31
+  - first:
+      213: 4982379447556335046
+    second: MoveSet_7(ChargedAtks)-Sheet_32
+  - first:
+      213: -6307785550540641253
+    second: MoveSet_7(ChargedAtks)-Sheet_33
+  - first:
+      213: 8116389186486927756
+    second: MoveSet_7(ChargedAtks)-Sheet_34
+  - first:
+      213: 5353749778451275475
+    second: MoveSet_7(ChargedAtks)-Sheet_35
+  - first:
+      213: -5950584243887218420
+    second: MoveSet_7(ChargedAtks)-Sheet_36
+  - first:
+      213: -5568468422825477127
+    second: MoveSet_7(ChargedAtks)-Sheet_37
+  - first:
+      213: 7979669808011187879
+    second: MoveSet_7(ChargedAtks)-Sheet_38
+  - first:
+      213: -2904372061077281897
+    second: MoveSet_7(ChargedAtks)-Sheet_39
+  - first:
+      213: 6376444419263116248
+    second: MoveSet_7(ChargedAtks)-Sheet_40
+  - first:
+      213: 4569725015041831508
+    second: MoveSet_7(ChargedAtks)-Sheet_41
+  - first:
+      213: -3277242086342227685
+    second: MoveSet_7(ChargedAtks)-Sheet_42
+  - first:
+      213: 3821102739207972304
+    second: MoveSet_7(ChargedAtks)-Sheet_43
+  - first:
+      213: -4309294837658844725
+    second: MoveSet_7(ChargedAtks)-Sheet_44
+  - first:
+      213: -8259425460623125152
+    second: MoveSet_7(ChargedAtks)-Sheet_45
+  - first:
+      213: 5577534294057272679
+    second: MoveSet_7(ChargedAtks)-Sheet_46
+  - first:
+      213: 949536236284398414
+    second: MoveSet_7(ChargedAtks)-Sheet_47
+  - first:
+      213: -5628102234342674501
+    second: MoveSet_7(ChargedAtks)-Sheet_48
+  - first:
+      213: -549273470528790960
+    second: MoveSet_7(ChargedAtks)-Sheet_49
+  - first:
+      213: -302694580525137649
+    second: MoveSet_7(ChargedAtks)-Sheet_50
+  - first:
+      213: -2110715172643072629
+    second: MoveSet_7(ChargedAtks)-Sheet_51
+  - first:
+      213: 5340905537620862234
+    second: MoveSet_7(ChargedAtks)-Sheet_52
+  - first:
+      213: -1546443885862255843
+    second: MoveSet_7(ChargedAtks)-Sheet_53
+  - first:
+      213: 2106690493745280246
+    second: MoveSet_7(ChargedAtks)-Sheet_54
+  - first:
+      213: -989323490894477050
+    second: MoveSet_7(ChargedAtks)-Sheet_55
+  - first:
+      213: 2610965069148479082
+    second: MoveSet_7(ChargedAtks)-Sheet_56
+  - first:
+      213: -8093040069915189783
+    second: MoveSet_7(ChargedAtks)-Sheet_57
+  - first:
+      213: 3875495004374227705
+    second: MoveSet_7(ChargedAtks)-Sheet_58
+  - first:
+      213: -1480811183148106846
+    second: MoveSet_7(ChargedAtks)-Sheet_59
+  - first:
+      213: 2232928550158812973
+    second: MoveSet_7(ChargedAtks)-Sheet_60
+  - first:
+      213: 650791349469342207
+    second: MoveSet_7(ChargedAtks)-Sheet_61
+  - first:
+      213: 5265159095717250667
+    second: MoveSet_7(ChargedAtks)-Sheet_62
+  - first:
+      213: 119998237868980753
+    second: MoveSet_7(ChargedAtks)-Sheet_63
+  - first:
+      213: -1971257917236214083
+    second: MoveSet_7(ChargedAtks)-Sheet_64
+  - first:
+      213: -3559668137496946925
+    second: MoveSet_7(ChargedAtks)-Sheet_65
+  - first:
+      213: 3339170503691558703
+    second: MoveSet_7(ChargedAtks)-Sheet_66
+  - first:
+      213: 1897724197418397545
+    second: MoveSet_7(ChargedAtks)-Sheet_67
+  - first:
+      213: 1250804347273054626
+    second: MoveSet_7(ChargedAtks)-Sheet_68
+  - first:
+      213: -4020140333269204006
+    second: MoveSet_7(ChargedAtks)-Sheet_69
+  - first:
+      213: -15309500301947627
+    second: MoveSet_7(ChargedAtks)-Sheet_70
+  - first:
+      213: -1913654241539919174
+    second: MoveSet_7(ChargedAtks)-Sheet_71
+  - first:
+      213: -1218800536000123962
+    second: MoveSet_7(ChargedAtks)-Sheet_72
+  - first:
+      213: -7350839538874890748
+    second: MoveSet_7(ChargedAtks)-Sheet_73
+  - first:
+      213: -2314469691714265924
+    second: MoveSet_7(ChargedAtks)-Sheet_74
+  - first:
+      213: -408995516364036624
+    second: MoveSet_7(ChargedAtks)-Sheet_75
+  - first:
+      213: -8024346199025292650
+    second: MoveSet_7(ChargedAtks)-Sheet_76
+  - first:
+      213: -7438441364910357136
+    second: MoveSet_7(ChargedAtks)-Sheet_77
+  - first:
+      213: -6045974801100765352
+    second: MoveSet_7(ChargedAtks)-Sheet_78
+  - first:
+      213: 7541909346072968946
+    second: MoveSet_7(ChargedAtks)-Sheet_79
+  - first:
+      213: 9148818537833202982
+    second: MoveSet_7(ChargedAtks)-Sheet_80
+  - first:
+      213: 5164762526229138772
+    second: MoveSet_7(ChargedAtks)-Sheet_81
+  - first:
+      213: 7652221359984387331
+    second: MoveSet_7(ChargedAtks)-Sheet_82
+  - first:
+      213: -5918615546271031425
+    second: MoveSet_7(ChargedAtks)-Sheet_83
+  - first:
+      213: -4665238901093417659
+    second: MoveSet_7(ChargedAtks)-Sheet_84
+  - first:
+      213: -8136246505932857482
+    second: MoveSet_7(ChargedAtks)-Sheet_85
+  - first:
+      213: -1549018895479515238
+    second: MoveSet_7(ChargedAtks)-Sheet_86
+  - first:
+      213: 418129671691449568
+    second: MoveSet_7(ChargedAtks)-Sheet_87
+  - first:
+      213: -7229815382710031313
+    second: MoveSet_7(ChargedAtks)-Sheet_88
+  - first:
+      213: 8783606161737090318
+    second: MoveSet_7(ChargedAtks)-Sheet_89
+  - first:
+      213: 2100314633117577474
+    second: MoveSet_7(ChargedAtks)-Sheet_90
+  - first:
+      213: -5961286373033631651
+    second: MoveSet_7(ChargedAtks)-Sheet_91
+  - first:
+      213: -5582830233584134505
+    second: MoveSet_7(ChargedAtks)-Sheet_92
+  - first:
+      213: -8021731713349932238
+    second: MoveSet_7(ChargedAtks)-Sheet_93
+  - first:
+      213: 3575323821342563683
+    second: MoveSet_7(ChargedAtks)-Sheet_94
+  - first:
+      213: 7095862629551443497
+    second: MoveSet_7(ChargedAtks)-Sheet_95
+  - first:
+      213: 7494128953878785825
+    second: MoveSet_7(ChargedAtks)-Sheet_96
+  - first:
+      213: -5360384906104132907
+    second: MoveSet_7(ChargedAtks)-Sheet_97
+  - first:
+      213: 7675382787608591785
+    second: MoveSet_7(ChargedAtks)-Sheet_98
+  - first:
+      213: 3644506260974069977
+    second: MoveSet_7(ChargedAtks)-Sheet_99
+  - first:
+      213: 3866688549295861463
+    second: MoveSet_7(ChargedAtks)-Sheet_100
+  - first:
+      213: 17679851693933694
+    second: MoveSet_7(ChargedAtks)-Sheet_101
+  - first:
+      213: -7688323702441855442
+    second: MoveSet_7(ChargedAtks)-Sheet_102
+  - first:
+      213: 6176302179378569625
+    second: MoveSet_7(ChargedAtks)-Sheet_103
+  - first:
+      213: 764797123649004089
+    second: MoveSet_7(ChargedAtks)-Sheet_104
+  - first:
+      213: 3228121560906938862
+    second: MoveSet_7(ChargedAtks)-Sheet_105
+  - first:
+      213: 4590087259403029751
+    second: MoveSet_7(ChargedAtks)-Sheet_106
+  - first:
+      213: 8310446392569145009
+    second: MoveSet_7(ChargedAtks)-Sheet_107
+  - first:
+      213: -6925124674660625709
+    second: MoveSet_7(ChargedAtks)-Sheet_108
+  - first:
+      213: -7186400076030952324
+    second: MoveSet_7(ChargedAtks)-Sheet_109
+  - first:
+      213: 3934809440094240807
+    second: MoveSet_7(ChargedAtks)-Sheet_110
+  - first:
+      213: 2539286769079144568
+    second: MoveSet_7(ChargedAtks)-Sheet_111
+  - first:
+      213: -5301683304760609273
+    second: MoveSet_7(ChargedAtks)-Sheet_112
+  - first:
+      213: -8446078519661873663
+    second: MoveSet_7(ChargedAtks)-Sheet_113
+  - first:
+      213: -3712916933538462129
+    second: MoveSet_7(ChargedAtks)-Sheet_114
+  - first:
+      213: -3694831864685673039
+    second: MoveSet_7(ChargedAtks)-Sheet_115
+  - first:
+      213: 1563004369363578807
+    second: MoveSet_7(ChargedAtks)-Sheet_116
+  - first:
+      213: -6019080059064659865
+    second: MoveSet_7(ChargedAtks)-Sheet_117
+  - first:
+      213: -2027954699664899308
+    second: MoveSet_7(ChargedAtks)-Sheet_118
+  - first:
+      213: 2471268425754146018
+    second: MoveSet_7(ChargedAtks)-Sheet_119
+  - first:
+      213: -8298243098402030294
+    second: MoveSet_7(ChargedAtks)-Sheet_120
+  - first:
+      213: -8614270890808803585
+    second: MoveSet_7(ChargedAtks)-Sheet_121
+  - first:
+      213: -8792556488354994262
+    second: MoveSet_7(ChargedAtks)-Sheet_122
+  - first:
+      213: -526271876215314513
+    second: MoveSet_7(ChargedAtks)-Sheet_123
+  - first:
+      213: 1507483016098182171
+    second: MoveSet_7(ChargedAtks)-Sheet_124
+  - first:
+      213: -3953559423510080511
+    second: MoveSet_7(ChargedAtks)-Sheet_125
+  - first:
+      213: -3642969101550413283
+    second: MoveSet_7(ChargedAtks)-Sheet_126
+  - first:
+      213: -5145630414530354120
+    second: MoveSet_7(ChargedAtks)-Sheet_127
+  - first:
+      213: -5709931981804757991
+    second: MoveSet_7(ChargedAtks)-Sheet_128
+  - first:
+      213: -2669251650129435072
+    second: MoveSet_7(ChargedAtks)-Sheet_129
+  - first:
+      213: 8892787299830158560
+    second: MoveSet_7(ChargedAtks)-Sheet_130
+  - first:
+      213: -3943508689860774161
+    second: MoveSet_7(ChargedAtks)-Sheet_131
+  - first:
+      213: -4026692561726184871
+    second: MoveSet_7(ChargedAtks)-Sheet_132
+  - first:
+      213: -5719265234014352457
+    second: MoveSet_7(ChargedAtks)-Sheet_133
+  - first:
+      213: 8006031252645109366
+    second: MoveSet_7(ChargedAtks)-Sheet_134
+  - first:
+      213: 6049274223688692142
+    second: MoveSet_7(ChargedAtks)-Sheet_135
+  - first:
+      213: -4329161229058036677
+    second: MoveSet_7(ChargedAtks)-Sheet_136
+  - first:
+      213: -3142690605482250982
+    second: MoveSet_7(ChargedAtks)-Sheet_137
+  - first:
+      213: -4994854953419906607
+    second: MoveSet_7(ChargedAtks)-Sheet_138
+  - first:
+      213: -5020743843759811495
+    second: MoveSet_7(ChargedAtks)-Sheet_139
+  - first:
+      213: 3139003802231887850
+    second: MoveSet_7(ChargedAtks)-Sheet_140
+  - first:
+      213: 1761843372990954351
+    second: MoveSet_7(ChargedAtks)-Sheet_141
+  - first:
+      213: -6006357731290335085
+    second: MoveSet_7(ChargedAtks)-Sheet_142
+  - first:
+      213: 3312670499909901972
+    second: MoveSet_7(ChargedAtks)-Sheet_143
+  - first:
+      213: 6816847722852153046
+    second: MoveSet_7(ChargedAtks)-Sheet_144
+  - first:
+      213: -8486773202502543117
+    second: MoveSet_7(ChargedAtks)-Sheet_145
+  - first:
+      213: -7670308676855362127
+    second: MoveSet_7(ChargedAtks)-Sheet_146
+  - first:
+      213: -4639814723966890636
+    second: MoveSet_7(ChargedAtks)-Sheet_147
+  - first:
+      213: 7526487192458245998
+    second: MoveSet_7(ChargedAtks)-Sheet_148
+  - first:
+      213: 1217943921272160450
+    second: MoveSet_7(ChargedAtks)-Sheet_149
+  - first:
+      213: 2818587036579404606
+    second: MoveSet_7(ChargedAtks)-Sheet_150
+  - first:
+      213: 2388250298436883155
+    second: MoveSet_7(ChargedAtks)-Sheet_151
+  - first:
+      213: -9073386606591011321
+    second: MoveSet_7(ChargedAtks)-Sheet_152
+  - first:
+      213: 7577700988046326794
+    second: MoveSet_7(ChargedAtks)-Sheet_153
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3111
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec5a38518a9365a0800000000000000
+      internalID: -6529205154435408671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 3111
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738ea8679e23738b0800000000000000
+      internalID: -5172609668714141641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 3111
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907c9086d12ee8cb0800000000000000
+      internalID: -4859698331958786295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 3111
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6414e6f15eb69b80800000000000000
+      internalID: -8388307996687199122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 3109
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d9fa40e8ba3cad0800000000000000
+      internalID: -2683112326530359957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 3108
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046acb2507eeec910800000000000000
+      internalID: 1859685862342436416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2982
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a18c54a237544510800000000000000
+      internalID: 1532445648230318503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2980
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa1878b1fec625f0800000000000000
+      internalID: -781709947724883294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2982
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec87ec7b7676dd0e0800000000000000
+      internalID: -2243523344197584690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 2982
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbf5c710d9029140800000000000000
+      internalID: 4724849748421770178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 2855
+        width: 64
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9b443cb5e929530800000000000000
+      internalID: 3860321947565210082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2855
+        width: 81
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbeb64b9df276470800000000000000
+      internalID: 8387725443082218451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 2855
+        width: 78
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4eed561f2cfd6ca0800000000000000
+      internalID: -6021879847555568053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2855
+        width: 78
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a52d19c6116dc60800000000000000
+      internalID: 7842474959112919692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2855
+        width: 78
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b00347aa13606bd0800000000000000
+      internalID: -2639000415512624968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2855
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760acce940494cf80800000000000000
+      internalID: -8087176283285577625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 2855
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2246424d313bba2e0800000000000000
+      internalID: -2113398702375410654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 2855
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62024e1380f2a69c0800000000000000
+      internalID: -3933279612311429082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 2855
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d744efc1924f3820800000000000000
+      internalID: 2900109879075424210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 2855
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a46151048aa7940800000000000000
+      internalID: 5294729305112595059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2727
+        width: 78
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ecaeb67b82050b0800000000000000
+      internalID: -5742044756642705768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2717
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c5998e8a37f7500800000000000000
+      internalID: 396162461525957663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 2720
+        width: 92
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac88a0210c4149ff0800000000000000
+      internalID: -30376482315794230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2761
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3444fec8578f3720800000000000000
+      internalID: 2828127906510947386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2727
+        width: 78
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ed3f0c16d5ecc60800000000000000
+      internalID: 7840306675729030742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2727
+        width: 78
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58ee2a29bb711ab0800000000000000
+      internalID: -5039110472843990949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 2713
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecf2e15c7690cb40800000000000000
+      internalID: 5458528209066982639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2599
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78883a8a719d5be0800000000000000
+      internalID: -1486872346471397251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2599
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6506069fe59b153c0800000000000000
+      internalID: -4372509945638133674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2471
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9e537f0b43193e0800000000000000
+      internalID: -2048798420810470970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 2471
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c660b238d73feb80800000000000000
+      internalID: -8363404581300836667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 2471
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2d266edff666120800000000000000
+      internalID: 2406734187158754010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 2471
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c56dc3b5b7f42540800000000000000
+      internalID: 4982379447556335046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2343
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ceeac367e3678a0800000000000000
+      internalID: -6307785550540641253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 2348
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81006f66f433a070800000000000000
+      internalID: 8116389186486927756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 2349
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de1ae0ee075c4a40800000000000000
+      internalID: 5353749778451275475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 2344
+        width: 77
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01e01168274b6da0800000000000000
+      internalID: -5950584243887218420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 2380
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbf182f873d8b2b0800000000000000
+      internalID: -5568468422825477127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 2373
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a69a6b896b7dbe60800000000000000
+      internalID: 7979669808011187879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 2344
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7936beb9ff891b7d0800000000000000
+      internalID: -2904372061077281897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2344
+        width: 68
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3333c5a6ead7850800000000000000
+      internalID: 6376444419263116248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 2344
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452f8c290bcea6f30800000000000000
+      internalID: 4569725015041831508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 2343
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b198c90afa5e482d0800000000000000
+      internalID: -3277242086342227685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 2358
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d563cc32b8470530800000000000000
+      internalID: 3821102739207972304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 2347
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc18be04d2f4234c0800000000000000
+      internalID: -4309294837658844725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2214
+        width: 75
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065ddbacd40a06d80800000000000000
+      internalID: -8259425460623125152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 2252
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765c7dfa3e1676d40800000000000000
+      internalID: 5577534294057272679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 2217
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bc7111d2e6d2d00800000000000000
+      internalID: 949536236284398414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 2214
+        width: 78
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf2c6a36d6f4e1b0800000000000000
+      internalID: -5628102234342674501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 2214
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ed59050b69068f0800000000000000
+      internalID: -549273470528790960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2256
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f010d5cf1ec9ccbf0800000000000000
+      internalID: -302694580525137649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2239
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b851598cbbb35b2e0800000000000000
+      internalID: -2110715172643072629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 2240
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15eec40a45be1a40800000000000000
+      internalID: 5340905537620862234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 2214
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d130b1eaa7de98ae0800000000000000
+      internalID: -1546443885862255843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 2221
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f43163a7d77c3d10800000000000000
+      internalID: 2106690493745280246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2214
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6090945d6873542f0800000000000000
+      internalID: -989323490894477050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2240
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e5c8b95e20c3420800000000000000
+      internalID: 2610965069148479082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 2231
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edd3b76feebfaf80800000000000000
+      internalID: -8093040069915189783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2214
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fad6885c2688c530800000000000000
+      internalID: 3875495004374227705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2220
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abf709131a137be0800000000000000
+      internalID: -1480811183148106846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2212
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d274b019fa4fcfe10800000000000000
+      internalID: 2232928550158812973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2214
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff96408c843180900800000000000000
+      internalID: 650791349469342207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 2214
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66c4223d4a911940800000000000000
+      internalID: 5265159095717250667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 2215
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a7ad5f2c15aa100800000000000000
+      internalID: 119998237868980753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2089
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db685725e5fa4a4e0800000000000000
+      internalID: -1971257917236214083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 2091
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317d73a50b4899ec0800000000000000
+      internalID: -3559668137496946925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1965
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f5ff4a1ed175e20800000000000000
+      internalID: 3339170503691558703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1965
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f69cc5a12165a10800000000000000
+      internalID: 1897724197418397545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1965
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a989b24defbb5110800000000000000
+      internalID: 1250804347273054626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1965
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3c440aaa79538c0800000000000000
+      internalID: -4020140333269204006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1818
+        width: 30
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d40d0371c99cff0800000000000000
+      internalID: -15309500301947627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1686
+        width: 21
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2f7163b955175e0800000000000000
+      internalID: -1913654241539919174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1686
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb28a7be53f51fe0800000000000000
+      internalID: -1218800536000123962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1686
+        width: 21
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4064774c2629cf990800000000000000
+      internalID: -7350839538874890748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1572
+        width: 104
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc96f5f31a51efd0800000000000000
+      internalID: -2314469691714265924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1572
+        width: 108
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5e46caeb4f25af0800000000000000
+      internalID: -408995516364036624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1572
+        width: 71
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a675495abc3a090800000000000000
+      internalID: -8024346199025292650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1602
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07542f93df855c890800000000000000
+      internalID: -7438441364910357136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1592
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8570d6b83f1681ca0800000000000000
+      internalID: -6045974801100765352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1596
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2feb0ec679e3aa860800000000000000
+      internalID: 7541909346072968946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1574
+        width: 99
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6258e06dcf127fe70800000000000000
+      internalID: 9148818537833202982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1574
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d032d472ceca740800000000000000
+      internalID: 5164762526229138772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1574
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305a680a8c6223a60800000000000000
+      internalID: 7652221359984387331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1574
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f1962d48adcdda0800000000000000
+      internalID: -5918615546271031425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1574
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d3efbdfedb14fb0800000000000000
+      internalID: -4665238901093417659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1574
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fdbd819ee361f80800000000000000
+      internalID: -8136246505932857482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1574
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9753988587c08ae0800000000000000
+      internalID: -1549018895479515238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 1574
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4383798be7dc500800000000000000
+      internalID: 418129671691449568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1573
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ce9e1f6398aab90800000000000000
+      internalID: -7229815382710031313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1574
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05854d3443a5e970800000000000000
+      internalID: 8783606161737090318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1580
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2013787e701d52d10800000000000000
+      internalID: 2100314633117577474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1580
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5024f2c0a1454da0800000000000000
+      internalID: -5961286373033631651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1574
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79618ed4b7dc582b0800000000000000
+      internalID: -5582830233584134505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1573
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23baa46f1851da090800000000000000
+      internalID: -8021731713349932238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1429
+        width: 20
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d9d18921a1e9130800000000000000
+      internalID: 3575323821342563683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1438
+        width: 20
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e02615771997260800000000000000
+      internalID: 7095862629551443497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1318
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f2ae4f39e700860800000000000000
+      internalID: 7494128953878785825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1317
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da2c4414561c95b0800000000000000
+      internalID: -5360384906104132907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1175
+        width: 120
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9adbe8abaff648a60800000000000000
+      internalID: 7675382787608591785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1179
+        width: 126
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8eb0b8223e39230800000000000000
+      internalID: 3644506260974069977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1181
+        width: 133
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dea9ddbfbc39a530800000000000000
+      internalID: 3866688549295861463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1181
+        width: 125
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7406ef3bbfce3000800000000000000
+      internalID: 17679851693933694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1181
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26bcbdb3569d4590800000000000000
+      internalID: -7688323702441855442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1062
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991a453db12a6b550800000000000000
+      internalID: 6176302179378569625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1062
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932e6509eea1d9a00800000000000000
+      internalID: 764797123649004089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1096
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee933a1d4779ccc20800000000000000
+      internalID: 3228121560906938862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1105
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc83c80b0443bf30800000000000000
+      internalID: 4590087259403029751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 1063
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6a202a6f2a45370800000000000000
+      internalID: 8310446392569145009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1062
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d29f8d9cc305ef90800000000000000
+      internalID: -6925124674660625709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1062
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cb55eb437c44c90800000000000000
+      internalID: -7186400076030952324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1062
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720cba796504b9630800000000000000
+      internalID: 3934809440094240807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1062
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870dfcddcdb5d3320800000000000000
+      internalID: 2539286769079144568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1062
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706ff14bf13ac66b0800000000000000
+      internalID: -5301683304760609273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1062
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1063f7ae55089ca80800000000000000
+      internalID: -8446078519661873663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1062
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4648e788b1197cc0800000000000000
+      internalID: -3712916933538462129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1062
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5cd90cef159bcc0800000000000000
+      internalID: -3694831864685673039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1061
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfac4a5138e0b510800000000000000
+      internalID: 1563004369363578807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 934
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76050d4a39ee77ca0800000000000000
+      internalID: -6019080059064659865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 806
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413c3e9f1f14bd3e0800000000000000
+      internalID: -2027954699664899308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 806
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4f6b53a85bb4220800000000000000
+      internalID: 2471268425754146018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 806
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2df8e33ed7b6dc80800000000000000
+      internalID: -8298243098402030294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 806
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe7a52e346f37880800000000000000
+      internalID: -8614270890808803585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 682
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa76b0475709af580800000000000000
+      internalID: -8792556488354994262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 684
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa768e2548e42b8f0800000000000000
+      internalID: -526271876215314513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 683
+        width: 69
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14777fe0d7abe410800000000000000
+      internalID: 1507483016098182171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 683
+        width: 69
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1049843b6a22229c0800000000000000
+      internalID: -3953559423510080511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 684
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a1d5647e2917dc0800000000000000
+      internalID: -3642969101550413283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 693
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834e874966c0798b0800000000000000
+      internalID: -5145630414530354120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 692
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c92e47d1f32c0b0800000000000000
+      internalID: -5709931981804757991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_129
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 689
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046e8e934c9e4fad0800000000000000
+      internalID: -2669251650129435072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_130
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 682
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e45b75eee6896b70800000000000000
+      internalID: 8892787299830158560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_131
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 677
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6be2c7db7d549c0800000000000000
+      internalID: -3943508689860774161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_132
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 565
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9526a9e03705e18c0800000000000000
+      internalID: -4026692561726184871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_133
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 424
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb4556529611a0b0800000000000000
+      internalID: -5719265234014352457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_134
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 421
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e569aa1032b1f60800000000000000
+      internalID: 8006031252645109366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_135
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 420
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea134e32bd653f350800000000000000
+      internalID: 6049274223688692142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_136
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 294
+        width: 64
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c2a9e8ccabbe3c0800000000000000
+      internalID: -4329161229058036677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_137
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 292
+        width: 60
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1de5458b8be264d0800000000000000
+      internalID: -3142690605482250982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_138
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 294
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d16ecc32e5beaab0800000000000000
+      internalID: -4994854953419906607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_139
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 294
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954977c331cb25ab0800000000000000
+      internalID: -5020743843759811495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_140
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 294
+        width: 64
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7d1a4b35bff8b20800000000000000
+      internalID: 3139003802231887850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_141
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 164
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b700d8633537810800000000000000
+      internalID: 1761843372990954351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_142
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 68
+        width: 38
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398b488677125aca0800000000000000
+      internalID: -6006357731290335085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_143
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 176
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e9b05b448f8fd20800000000000000
+      internalID: 3312670499909901972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_144
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 176
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6788003ee4a9e50800000000000000
+      internalID: 6816847722852153046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_145
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 176
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f81887bcbce83a80800000000000000
+      internalID: -8486773202502543117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_146
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 176
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd807eb5e69d8590800000000000000
+      internalID: -7670308676855362127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_147
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 176
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d835267111c9fb0800000000000000
+      internalID: -4639814723966890636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_148
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 55
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6730097934737860800000000000000
+      internalID: 7526487192458245998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_149
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 36
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c006cf1b8107e010800000000000000
+      internalID: 1217943921272160450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_150
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 48
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b16dbe9f1ad1720800000000000000
+      internalID: 2818587036579404606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_151
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 48
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d21d013ef4c42120800000000000000
+      internalID: 2388250298436883155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_152
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 48
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7061b5444fad41280800000000000000
+      internalID: -9073386606591011321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveSet_7(ChargedAtks)-Sheet_153
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 48
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cb0a676e6692960800000000000000
+      internalID: 7577700988046326794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MoveSet_7(ChargedAtks)-Sheet_0: -6529205154435408671
+      MoveSet_7(ChargedAtks)-Sheet_1: -5172609668714141641
+      MoveSet_7(ChargedAtks)-Sheet_10: 3860321947565210082
+      MoveSet_7(ChargedAtks)-Sheet_100: 3866688549295861463
+      MoveSet_7(ChargedAtks)-Sheet_101: 17679851693933694
+      MoveSet_7(ChargedAtks)-Sheet_102: -7688323702441855442
+      MoveSet_7(ChargedAtks)-Sheet_103: 6176302179378569625
+      MoveSet_7(ChargedAtks)-Sheet_104: 764797123649004089
+      MoveSet_7(ChargedAtks)-Sheet_105: 3228121560906938862
+      MoveSet_7(ChargedAtks)-Sheet_106: 4590087259403029751
+      MoveSet_7(ChargedAtks)-Sheet_107: 8310446392569145009
+      MoveSet_7(ChargedAtks)-Sheet_108: -6925124674660625709
+      MoveSet_7(ChargedAtks)-Sheet_109: -7186400076030952324
+      MoveSet_7(ChargedAtks)-Sheet_11: 8387725443082218451
+      MoveSet_7(ChargedAtks)-Sheet_110: 3934809440094240807
+      MoveSet_7(ChargedAtks)-Sheet_111: 2539286769079144568
+      MoveSet_7(ChargedAtks)-Sheet_112: -5301683304760609273
+      MoveSet_7(ChargedAtks)-Sheet_113: -8446078519661873663
+      MoveSet_7(ChargedAtks)-Sheet_114: -3712916933538462129
+      MoveSet_7(ChargedAtks)-Sheet_115: -3694831864685673039
+      MoveSet_7(ChargedAtks)-Sheet_116: 1563004369363578807
+      MoveSet_7(ChargedAtks)-Sheet_117: -6019080059064659865
+      MoveSet_7(ChargedAtks)-Sheet_118: -2027954699664899308
+      MoveSet_7(ChargedAtks)-Sheet_119: 2471268425754146018
+      MoveSet_7(ChargedAtks)-Sheet_12: -6021879847555568053
+      MoveSet_7(ChargedAtks)-Sheet_120: -8298243098402030294
+      MoveSet_7(ChargedAtks)-Sheet_121: -8614270890808803585
+      MoveSet_7(ChargedAtks)-Sheet_122: -8792556488354994262
+      MoveSet_7(ChargedAtks)-Sheet_123: -526271876215314513
+      MoveSet_7(ChargedAtks)-Sheet_124: 1507483016098182171
+      MoveSet_7(ChargedAtks)-Sheet_125: -3953559423510080511
+      MoveSet_7(ChargedAtks)-Sheet_126: -3642969101550413283
+      MoveSet_7(ChargedAtks)-Sheet_127: -5145630414530354120
+      MoveSet_7(ChargedAtks)-Sheet_128: -5709931981804757991
+      MoveSet_7(ChargedAtks)-Sheet_129: -2669251650129435072
+      MoveSet_7(ChargedAtks)-Sheet_13: 7842474959112919692
+      MoveSet_7(ChargedAtks)-Sheet_130: 8892787299830158560
+      MoveSet_7(ChargedAtks)-Sheet_131: -3943508689860774161
+      MoveSet_7(ChargedAtks)-Sheet_132: -4026692561726184871
+      MoveSet_7(ChargedAtks)-Sheet_133: -5719265234014352457
+      MoveSet_7(ChargedAtks)-Sheet_134: 8006031252645109366
+      MoveSet_7(ChargedAtks)-Sheet_135: 6049274223688692142
+      MoveSet_7(ChargedAtks)-Sheet_136: -4329161229058036677
+      MoveSet_7(ChargedAtks)-Sheet_137: -3142690605482250982
+      MoveSet_7(ChargedAtks)-Sheet_138: -4994854953419906607
+      MoveSet_7(ChargedAtks)-Sheet_139: -5020743843759811495
+      MoveSet_7(ChargedAtks)-Sheet_14: -2639000415512624968
+      MoveSet_7(ChargedAtks)-Sheet_140: 3139003802231887850
+      MoveSet_7(ChargedAtks)-Sheet_141: 1761843372990954351
+      MoveSet_7(ChargedAtks)-Sheet_142: -6006357731290335085
+      MoveSet_7(ChargedAtks)-Sheet_143: 3312670499909901972
+      MoveSet_7(ChargedAtks)-Sheet_144: 6816847722852153046
+      MoveSet_7(ChargedAtks)-Sheet_145: -8486773202502543117
+      MoveSet_7(ChargedAtks)-Sheet_146: -7670308676855362127
+      MoveSet_7(ChargedAtks)-Sheet_147: -4639814723966890636
+      MoveSet_7(ChargedAtks)-Sheet_148: 7526487192458245998
+      MoveSet_7(ChargedAtks)-Sheet_149: 1217943921272160450
+      MoveSet_7(ChargedAtks)-Sheet_15: -8087176283285577625
+      MoveSet_7(ChargedAtks)-Sheet_150: 2818587036579404606
+      MoveSet_7(ChargedAtks)-Sheet_151: 2388250298436883155
+      MoveSet_7(ChargedAtks)-Sheet_152: -9073386606591011321
+      MoveSet_7(ChargedAtks)-Sheet_153: 7577700988046326794
+      MoveSet_7(ChargedAtks)-Sheet_16: -2113398702375410654
+      MoveSet_7(ChargedAtks)-Sheet_17: -3933279612311429082
+      MoveSet_7(ChargedAtks)-Sheet_18: 2900109879075424210
+      MoveSet_7(ChargedAtks)-Sheet_19: 5294729305112595059
+      MoveSet_7(ChargedAtks)-Sheet_2: -4859698331958786295
+      MoveSet_7(ChargedAtks)-Sheet_20: -5742044756642705768
+      MoveSet_7(ChargedAtks)-Sheet_21: 396162461525957663
+      MoveSet_7(ChargedAtks)-Sheet_22: -30376482315794230
+      MoveSet_7(ChargedAtks)-Sheet_23: 2828127906510947386
+      MoveSet_7(ChargedAtks)-Sheet_24: 7840306675729030742
+      MoveSet_7(ChargedAtks)-Sheet_25: -5039110472843990949
+      MoveSet_7(ChargedAtks)-Sheet_26: 5458528209066982639
+      MoveSet_7(ChargedAtks)-Sheet_27: -1486872346471397251
+      MoveSet_7(ChargedAtks)-Sheet_28: -4372509945638133674
+      MoveSet_7(ChargedAtks)-Sheet_29: -2048798420810470970
+      MoveSet_7(ChargedAtks)-Sheet_3: -8388307996687199122
+      MoveSet_7(ChargedAtks)-Sheet_30: -8363404581300836667
+      MoveSet_7(ChargedAtks)-Sheet_31: 2406734187158754010
+      MoveSet_7(ChargedAtks)-Sheet_32: 4982379447556335046
+      MoveSet_7(ChargedAtks)-Sheet_33: -6307785550540641253
+      MoveSet_7(ChargedAtks)-Sheet_34: 8116389186486927756
+      MoveSet_7(ChargedAtks)-Sheet_35: 5353749778451275475
+      MoveSet_7(ChargedAtks)-Sheet_36: -5950584243887218420
+      MoveSet_7(ChargedAtks)-Sheet_37: -5568468422825477127
+      MoveSet_7(ChargedAtks)-Sheet_38: 7979669808011187879
+      MoveSet_7(ChargedAtks)-Sheet_39: -2904372061077281897
+      MoveSet_7(ChargedAtks)-Sheet_4: -2683112326530359957
+      MoveSet_7(ChargedAtks)-Sheet_40: 6376444419263116248
+      MoveSet_7(ChargedAtks)-Sheet_41: 4569725015041831508
+      MoveSet_7(ChargedAtks)-Sheet_42: -3277242086342227685
+      MoveSet_7(ChargedAtks)-Sheet_43: 3821102739207972304
+      MoveSet_7(ChargedAtks)-Sheet_44: -4309294837658844725
+      MoveSet_7(ChargedAtks)-Sheet_45: -8259425460623125152
+      MoveSet_7(ChargedAtks)-Sheet_46: 5577534294057272679
+      MoveSet_7(ChargedAtks)-Sheet_47: 949536236284398414
+      MoveSet_7(ChargedAtks)-Sheet_48: -5628102234342674501
+      MoveSet_7(ChargedAtks)-Sheet_49: -549273470528790960
+      MoveSet_7(ChargedAtks)-Sheet_5: 1859685862342436416
+      MoveSet_7(ChargedAtks)-Sheet_50: -302694580525137649
+      MoveSet_7(ChargedAtks)-Sheet_51: -2110715172643072629
+      MoveSet_7(ChargedAtks)-Sheet_52: 5340905537620862234
+      MoveSet_7(ChargedAtks)-Sheet_53: -1546443885862255843
+      MoveSet_7(ChargedAtks)-Sheet_54: 2106690493745280246
+      MoveSet_7(ChargedAtks)-Sheet_55: -989323490894477050
+      MoveSet_7(ChargedAtks)-Sheet_56: 2610965069148479082
+      MoveSet_7(ChargedAtks)-Sheet_57: -8093040069915189783
+      MoveSet_7(ChargedAtks)-Sheet_58: 3875495004374227705
+      MoveSet_7(ChargedAtks)-Sheet_59: -1480811183148106846
+      MoveSet_7(ChargedAtks)-Sheet_6: 1532445648230318503
+      MoveSet_7(ChargedAtks)-Sheet_60: 2232928550158812973
+      MoveSet_7(ChargedAtks)-Sheet_61: 650791349469342207
+      MoveSet_7(ChargedAtks)-Sheet_62: 5265159095717250667
+      MoveSet_7(ChargedAtks)-Sheet_63: 119998237868980753
+      MoveSet_7(ChargedAtks)-Sheet_64: -1971257917236214083
+      MoveSet_7(ChargedAtks)-Sheet_65: -3559668137496946925
+      MoveSet_7(ChargedAtks)-Sheet_66: 3339170503691558703
+      MoveSet_7(ChargedAtks)-Sheet_67: 1897724197418397545
+      MoveSet_7(ChargedAtks)-Sheet_68: 1250804347273054626
+      MoveSet_7(ChargedAtks)-Sheet_69: -4020140333269204006
+      MoveSet_7(ChargedAtks)-Sheet_7: -781709947724883294
+      MoveSet_7(ChargedAtks)-Sheet_70: -15309500301947627
+      MoveSet_7(ChargedAtks)-Sheet_71: -1913654241539919174
+      MoveSet_7(ChargedAtks)-Sheet_72: -1218800536000123962
+      MoveSet_7(ChargedAtks)-Sheet_73: -7350839538874890748
+      MoveSet_7(ChargedAtks)-Sheet_74: -2314469691714265924
+      MoveSet_7(ChargedAtks)-Sheet_75: -408995516364036624
+      MoveSet_7(ChargedAtks)-Sheet_76: -8024346199025292650
+      MoveSet_7(ChargedAtks)-Sheet_77: -7438441364910357136
+      MoveSet_7(ChargedAtks)-Sheet_78: -6045974801100765352
+      MoveSet_7(ChargedAtks)-Sheet_79: 7541909346072968946
+      MoveSet_7(ChargedAtks)-Sheet_8: -2243523344197584690
+      MoveSet_7(ChargedAtks)-Sheet_80: 9148818537833202982
+      MoveSet_7(ChargedAtks)-Sheet_81: 5164762526229138772
+      MoveSet_7(ChargedAtks)-Sheet_82: 7652221359984387331
+      MoveSet_7(ChargedAtks)-Sheet_83: -5918615546271031425
+      MoveSet_7(ChargedAtks)-Sheet_84: -4665238901093417659
+      MoveSet_7(ChargedAtks)-Sheet_85: -8136246505932857482
+      MoveSet_7(ChargedAtks)-Sheet_86: -1549018895479515238
+      MoveSet_7(ChargedAtks)-Sheet_87: 418129671691449568
+      MoveSet_7(ChargedAtks)-Sheet_88: -7229815382710031313
+      MoveSet_7(ChargedAtks)-Sheet_89: 8783606161737090318
+      MoveSet_7(ChargedAtks)-Sheet_9: 4724849748421770178
+      MoveSet_7(ChargedAtks)-Sheet_90: 2100314633117577474
+      MoveSet_7(ChargedAtks)-Sheet_91: -5961286373033631651
+      MoveSet_7(ChargedAtks)-Sheet_92: -5582830233584134505
+      MoveSet_7(ChargedAtks)-Sheet_93: -8021731713349932238
+      MoveSet_7(ChargedAtks)-Sheet_94: 3575323821342563683
+      MoveSet_7(ChargedAtks)-Sheet_95: 7095862629551443497
+      MoveSet_7(ChargedAtks)-Sheet_96: 7494128953878785825
+      MoveSet_7(ChargedAtks)-Sheet_97: -5360384906104132907
+      MoveSet_7(ChargedAtks)-Sheet_98: 7675382787608591785
+      MoveSet_7(ChargedAtks)-Sheet_99: 3644506260974069977
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

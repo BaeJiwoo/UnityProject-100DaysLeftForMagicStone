@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 3e3d195501ae7f3458fe8e35feb48614
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2456378262820744727
+    second: Water magic circle - SpriteSheet_0
+  - first:
+      213: -8741905122957305196
+    second: Water magic circle - SpriteSheet_1
+  - first:
+      213: -5446779334942212217
+    second: Water magic circle - SpriteSheet_2
+  - first:
+      213: 993925368733166553
+    second: Water magic circle - SpriteSheet_3
+  - first:
+      213: -664417489952897400
+    second: Water magic circle - SpriteSheet_4
+  - first:
+      213: -1560484368585872866
+    second: Water magic circle - SpriteSheet_5
+  - first:
+      213: -6999100329900429975
+    second: Water magic circle - SpriteSheet_6
+  - first:
+      213: -6141805027235611891
+    second: Water magic circle - SpriteSheet_7
+  - first:
+      213: -9088615091894291423
+    second: Water magic circle - SpriteSheet_8
+  - first:
+      213: 6415701514615104256
+    second: Water magic circle - SpriteSheet_9
+  - first:
+      213: 1147063691053954089
+    second: Water magic circle - SpriteSheet_10
+  - first:
+      213: 1234134813771393757
+    second: Water magic circle - SpriteSheet_11
+  - first:
+      213: -1670793431312203280
+    second: Water magic circle - SpriteSheet_12
+  - first:
+      213: 4898545686501299956
+    second: Water magic circle - SpriteSheet_13
+  - first:
+      213: -7294259457396601742
+    second: Water magic circle - SpriteSheet_14
+  - first:
+      213: 1901639193944657892
+    second: Water magic circle - SpriteSheet_15
+  - first:
+      213: 31192033918459943
+    second: Water magic circle - SpriteSheet_16
+  - first:
+      213: -1140348168243617384
+    second: Water magic circle - SpriteSheet_17
+  - first:
+      213: -5760905542226503618
+    second: Water magic circle - SpriteSheet_18
+  - first:
+      213: 3396664412109757484
+    second: Water magic circle - SpriteSheet_19
+  - first:
+      213: -1002940055731406519
+    second: Water magic circle - SpriteSheet_20
+  - first:
+      213: 8245592232090449937
+    second: Water magic circle - SpriteSheet_21
+  - first:
+      213: -384455832304351798
+    second: Water magic circle - SpriteSheet_22
+  - first:
+      213: -8705994246271704530
+    second: Water magic circle - SpriteSheet_23
+  - first:
+      213: 5521371210827518628
+    second: Water magic circle - SpriteSheet_24
+  - first:
+      213: 2531818551513246676
+    second: Water magic circle - SpriteSheet_25
+  - first:
+      213: 1571356087526086468
+    second: Water magic circle - SpriteSheet_26
+  - first:
+      213: 1816467563852531441
+    second: Water magic circle - SpriteSheet_27
+  - first:
+      213: -287303612982974896
+    second: Water magic circle - SpriteSheet_28
+  - first:
+      213: 8100211756319098711
+    second: Water magic circle - SpriteSheet_29
+  - first:
+      213: -5898158603382039323
+    second: Water magic circle - SpriteSheet_30
+  - first:
+      213: 4910095865287138888
+    second: Water magic circle - SpriteSheet_31
+  - first:
+      213: 207197873200518972
+    second: Water magic circle - SpriteSheet_32
+  - first:
+      213: -3838375018442570862
+    second: Water magic circle - SpriteSheet_33
+  - first:
+      213: -8263671709474145710
+    second: Water magic circle - SpriteSheet_34
+  - first:
+      213: 4894219839734463951
+    second: Water magic circle - SpriteSheet_35
+  - first:
+      213: -7343573062992879312
+    second: Water magic circle - SpriteSheet_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Water magic circle - SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 36
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71eeb6df30fc61220800000000000000
+      internalID: 2456378262820744727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water magic circle - SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a56f57b938ea680800000000000000
+      internalID: -8741905122957305196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water magic circle - SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 69
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fb4da9d072964b0800000000000000
+      internalID: -5446779334942212217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water magic circle - SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 73
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbe6985bd12bcd00800000000000000
+      internalID: 993925368733166553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water magic circle - SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 69
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8860dc820d387c6f0800000000000000
+      internalID: -664417489952897400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water magic circle - SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1aa3ec0cbb085ae0800000000000000
+      internalID: -1560484368585872866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water magic circle - SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 71
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d27f035533ede90800000000000000
+      internalID: -6999100329900429975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water magic circle - SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 69
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bb9ef4edce3caa0800000000000000
+      internalID: -6141805027235611891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water magic circle - SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 73
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124f26b3ab0ced180800000000000000
+      internalID: -9088615091894291423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water magic circle - SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 69
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003a1932986290950800000000000000
+      internalID: 6415701514615104256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water magic circle - SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 71
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924f40089503bef00800000000000000
+      internalID: 1147063691053954089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water magic circle - SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 69
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda69cb0317802110800000000000000
+      internalID: 1234134813771393757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water magic circle - SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 73
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f18499f93620d8e0800000000000000
+      internalID: -1670793431312203280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water magic circle - SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 69
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f69ee729512bf340800000000000000
+      internalID: 4898545686501299956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water magic circle - SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 69
+        width: 50
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c875e8ba595ca90800000000000000
+      internalID: -7294259457396601742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water magic circle - SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 69
+        width: 50
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef080685caf36a10800000000000000
+      internalID: 1901639193944657892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water magic circle - SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 69
+        width: 50
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72028855df0de6000800000000000000
+      internalID: 31192033918459943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water magic circle - SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 6
+        width: 87
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891629ff16bac20f0800000000000000
+      internalID: -1140348168243617384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water magic circle - SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 9
+        width: 56
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3892039ee62d00b0800000000000000
+      internalID: -5760905542226503618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water magic circle - SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 9
+        width: 56
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c53095940632f20800000000000000
+      internalID: 3396664412109757484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water magic circle - SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 69
+        width: 50
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9497e174557d412f0800000000000000
+      internalID: -1002940055731406519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water magic circle - SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 69
+        width: 50
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118b874b27a3e6270800000000000000
+      internalID: 8245592232090449937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water magic circle - SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 36
+        width: 52
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac50cab15732aaaf0800000000000000
+      internalID: -384455832304351798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water magic circle - SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 4
+        width: 52
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22616efb581e2780800000000000000
+      internalID: -8705994246271704530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water magic circle - SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 4
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2517edcd9df9c40800000000000000
+      internalID: 5521371210827518628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water magic circle - SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 4
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbe0b6fe83d22320800000000000000
+      internalID: 2531818551513246676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water magic circle - SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 4
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447d3a449049ec510800000000000000
+      internalID: 1571356087526086468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water magic circle - SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6037110a3653910800000000000000
+      internalID: 1816467563852531441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water magic circle - SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 4
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056a67dd2ea430cf0800000000000000
+      internalID: -287303612982974896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water magic circle - SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 4
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757c7d4fcabb96070800000000000000
+      internalID: 8100211756319098711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water magic circle - SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 4
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecdf700008852ea0800000000000000
+      internalID: -5898158603382039323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water magic circle - SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 9
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84edd87bc2a242440800000000000000
+      internalID: 4910095865287138888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water magic circle - SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 5
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37555e2e5d10e200800000000000000
+      internalID: 207197873200518972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water magic circle - SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 5
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2934ffed14a5bbac0800000000000000
+      internalID: -3838375018442570862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water magic circle - SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 5
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a3950fc5a815d80800000000000000
+      internalID: -8263671709474145710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water magic circle - SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 5
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdba087303cbe340800000000000000
+      internalID: 4894219839734463951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water magic circle - SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 5
+        width: 43
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031ae260533661a90800000000000000
+      internalID: -7343573062992879312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Water magic circle - SpriteSheet_0: 2456378262820744727
+      Water magic circle - SpriteSheet_1: -8741905122957305196
+      Water magic circle - SpriteSheet_10: 1147063691053954089
+      Water magic circle - SpriteSheet_11: 1234134813771393757
+      Water magic circle - SpriteSheet_12: -1670793431312203280
+      Water magic circle - SpriteSheet_13: 4898545686501299956
+      Water magic circle - SpriteSheet_14: -7294259457396601742
+      Water magic circle - SpriteSheet_15: 1901639193944657892
+      Water magic circle - SpriteSheet_16: 31192033918459943
+      Water magic circle - SpriteSheet_17: -1140348168243617384
+      Water magic circle - SpriteSheet_18: -5760905542226503618
+      Water magic circle - SpriteSheet_19: 3396664412109757484
+      Water magic circle - SpriteSheet_2: -5446779334942212217
+      Water magic circle - SpriteSheet_20: -1002940055731406519
+      Water magic circle - SpriteSheet_21: 8245592232090449937
+      Water magic circle - SpriteSheet_22: -384455832304351798
+      Water magic circle - SpriteSheet_23: -8705994246271704530
+      Water magic circle - SpriteSheet_24: 5521371210827518628
+      Water magic circle - SpriteSheet_25: 2531818551513246676
+      Water magic circle - SpriteSheet_26: 1571356087526086468
+      Water magic circle - SpriteSheet_27: 1816467563852531441
+      Water magic circle - SpriteSheet_28: -287303612982974896
+      Water magic circle - SpriteSheet_29: 8100211756319098711
+      Water magic circle - SpriteSheet_3: 993925368733166553
+      Water magic circle - SpriteSheet_30: -5898158603382039323
+      Water magic circle - SpriteSheet_31: 4910095865287138888
+      Water magic circle - SpriteSheet_32: 207197873200518972
+      Water magic circle - SpriteSheet_33: -3838375018442570862
+      Water magic circle - SpriteSheet_34: -8263671709474145710
+      Water magic circle - SpriteSheet_35: 4894219839734463951
+      Water magic circle - SpriteSheet_36: -7343573062992879312
+      Water magic circle - SpriteSheet_4: -664417489952897400
+      Water magic circle - SpriteSheet_5: -1560484368585872866
+      Water magic circle - SpriteSheet_6: -6999100329900429975
+      Water magic circle - SpriteSheet_7: -6141805027235611891
+      Water magic circle - SpriteSheet_8: -9088615091894291423
+      Water magic circle - SpriteSheet_9: 6415701514615104256
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

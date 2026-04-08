@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 47ab06a326328d14bafcbc7d45be2c98
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7782690882794587482
+    second: Holy VFX 10(16x16)_0
+  - first:
+      213: 6806341683292271549
+    second: Holy VFX 10(16x16)_1
+  - first:
+      213: -9183690000279380546
+    second: Holy VFX 10(16x16)_2
+  - first:
+      213: 1694946929427009873
+    second: Holy VFX 10(16x16)_3
+  - first:
+      213: 7506601481759245200
+    second: Holy VFX 10(16x16)_4
+  - first:
+      213: 459448648365176208
+    second: Holy VFX 10(16x16)_5
+  - first:
+      213: 8457295568040297278
+    second: Holy VFX 10(16x16)_6
+  - first:
+      213: -4068244356782571792
+    second: Holy VFX 10(16x16)_7
+  - first:
+      213: -6291402129689933148
+    second: Holy VFX 10(16x16)_8
+  - first:
+      213: -356758533844132572
+    second: Holy VFX 10(16x16)_9
+  - first:
+      213: -2379660688410494720
+    second: Holy VFX 10(16x16)_10
+  - first:
+      213: -2968516676836077376
+    second: Holy VFX 10(16x16)_11
+  - first:
+      213: 4774169760897903257
+    second: Holy VFX 10(16x16)_12
+  - first:
+      213: -366214003703769864
+    second: Holy VFX 10(16x16)_13
+  - first:
+      213: -2656183114902145829
+    second: Holy VFX 10(16x16)_14
+  - first:
+      213: -3419475376541503087
+    second: Holy VFX 10(16x16)_15
+  - first:
+      213: -6994707841086295405
+    second: Holy VFX 10(16x16)_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Holy VFX 10(16x16)_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 6
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa7b5660e35ef390800000000000000
+      internalID: -7782690882794587482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy VFX 10(16x16)_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3f19c03bbf47e50800000000000000
+      internalID: 6806341683292271549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy VFX 10(16x16)_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 5
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd5a0e1a9afc8080800000000000000
+      internalID: -9183690000279380546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy VFX 10(16x16)_3
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151d2a98049a58710800000000000000
+      internalID: 1694946929427009873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy VFX 10(16x16)_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 5
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0934ea6a64ecc2860800000000000000
+      internalID: 7506601481759245200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy VFX 10(16x16)_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 3
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095f6568c1a406600800000000000000
+      internalID: 459448648365176208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy VFX 10(16x16)_6
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33078da2895e5570800000000000000
+      internalID: 8457295568040297278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy VFX 10(16x16)_7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 6
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0febc7edf41ba87c0800000000000000
+      internalID: -4068244356782571792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy VFX 10(16x16)_8
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 3
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa02b8a81370b8a0800000000000000
+      internalID: -6291402129689933148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy VFX 10(16x16)_9
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d91afe00a8c0bf0800000000000000
+      internalID: -356758533844132572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy VFX 10(16x16)_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009b45d363fb9fed0800000000000000
+      internalID: -2379660688410494720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy VFX 10(16x16)_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0dc5f6fc5bdc6d0800000000000000
+      internalID: -2968516676836077376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy VFX 10(16x16)_12
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a2bb75a12414240800000000000000
+      internalID: 4774169760897903257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy VFX 10(16x16)_13
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4967dcd42faeaf0800000000000000
+      internalID: -366214003703769864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy VFX 10(16x16)_14
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4fdd1b787532bd0800000000000000
+      internalID: -2656183114902145829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy VFX 10(16x16)_15
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 3
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1917c0f13459b80d0800000000000000
+      internalID: -3419475376541503087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy VFX 10(16x16)_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3927960374ecdee90800000000000000
+      internalID: -6994707841086295405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Holy VFX 10(16x16)_0: -7782690882794587482
+      Holy VFX 10(16x16)_1: 6806341683292271549
+      Holy VFX 10(16x16)_10: -2379660688410494720
+      Holy VFX 10(16x16)_11: -2968516676836077376
+      Holy VFX 10(16x16)_12: 4774169760897903257
+      Holy VFX 10(16x16)_13: -366214003703769864
+      Holy VFX 10(16x16)_14: -2656183114902145829
+      Holy VFX 10(16x16)_15: -3419475376541503087
+      Holy VFX 10(16x16)_16: -6994707841086295405
+      Holy VFX 10(16x16)_2: -9183690000279380546
+      Holy VFX 10(16x16)_3: 1694946929427009873
+      Holy VFX 10(16x16)_4: 7506601481759245200
+      Holy VFX 10(16x16)_5: 459448648365176208
+      Holy VFX 10(16x16)_6: 8457295568040297278
+      Holy VFX 10(16x16)_7: -4068244356782571792
+      Holy VFX 10(16x16)_8: -6291402129689933148
+      Holy VFX 10(16x16)_9: -356758533844132572
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

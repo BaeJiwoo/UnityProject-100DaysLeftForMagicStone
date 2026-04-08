@@ -124,9 +124,14 @@ public class SuicideEnemy : BaseAI
 
             // 스스로 자폭할 때는 코인을 주지 않도록 한다.
             maxCoinCount = 0;
-
+            minCoinCount = 0;
             // 3. 자폭 즉사 처리 (9999 데미지)
-            TakeDamage(maxHealth + 99999f);
+            //TakeDamage(maxHealth + 99999f);
+            // [수정] 플로팅 데미지를 띄우는 TakeDamage 대신,
+            // 체력을 0으로 만들고 즉시 Die()를 호출하여 깔끔하게 제거합니다.
+            // ==========================================
+            currentHealth = 0f;
+            Die();
         }
     }
 }

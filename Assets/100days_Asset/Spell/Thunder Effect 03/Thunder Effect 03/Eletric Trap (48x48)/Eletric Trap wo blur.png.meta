@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: a1233b0b49d9661428e25ec4167b9368
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -316523118528160412
+    second: Eletric Trap wo blur_0
+  - first:
+      213: -8940672974961984455
+    second: Eletric Trap wo blur_1
+  - first:
+      213: 4521607752452784027
+    second: Eletric Trap wo blur_2
+  - first:
+      213: 8963772193293935438
+    second: Eletric Trap wo blur_3
+  - first:
+      213: -5386732803714763657
+    second: Eletric Trap wo blur_4
+  - first:
+      213: -6265707028304118164
+    second: Eletric Trap wo blur_5
+  - first:
+      213: -4302223079502063242
+    second: Eletric Trap wo blur_6
+  - first:
+      213: 1221176037122094595
+    second: Eletric Trap wo blur_7
+  - first:
+      213: 1112851920536290331
+    second: Eletric Trap wo blur_8
+  - first:
+      213: 2368250042588326752
+    second: Eletric Trap wo blur_9
+  - first:
+      213: 6668034076530033700
+    second: Eletric Trap wo blur_10
+  - first:
+      213: -1386383855898921039
+    second: Eletric Trap wo blur_11
+  - first:
+      213: 2716896045875100390
+    second: Eletric Trap wo blur_12
+  - first:
+      213: 3304749966094718374
+    second: Eletric Trap wo blur_13
+  - first:
+      213: 7353316589881284182
+    second: Eletric Trap wo blur_14
+  - first:
+      213: 8646211939190451559
+    second: Eletric Trap wo blur_15
+  - first:
+      213: 3801781106236227693
+    second: Eletric Trap wo blur_16
+  - first:
+      213: 8843755600917978679
+    second: Eletric Trap wo blur_17
+  - first:
+      213: 6368704702849990073
+    second: Eletric Trap wo blur_18
+  - first:
+      213: 8944192766677013071
+    second: Eletric Trap wo blur_19
+  - first:
+      213: -1656480785110420835
+    second: Eletric Trap wo blur_20
+  - first:
+      213: 3894858641657883580
+    second: Eletric Trap wo blur_21
+  - first:
+      213: -678019475843945066
+    second: Eletric Trap wo blur_22
+  - first:
+      213: 4996174296539304820
+    second: Eletric Trap wo blur_23
+  - first:
+      213: -5458555907767531613
+    second: Eletric Trap wo blur_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Eletric Trap wo blur_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d1ee496eb7b9bf0800000000000000
+      internalID: -316523118528160412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric Trap wo blur_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 62
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cb47a8c495ce380800000000000000
+      internalID: -8940672974961984455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric Trap wo blur_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fb99a5b4affbe30800000000000000
+      internalID: 4521607752452784027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric Trap wo blur_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 62
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e432fc45157b56c70800000000000000
+      internalID: 8963772193293935438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric Trap wo blur_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 65
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77433ae1e0b7e35b0800000000000000
+      internalID: -5386732803714763657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric Trap wo blur_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6eb347a7acbb09a0800000000000000
+      internalID: -6265707028304118164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric Trap wo blur_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 6
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679dac147ee6b44c0800000000000000
+      internalID: -4302223079502063242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric Trap wo blur_7
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 30
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306b1ecb22d72f010800000000000000
+      internalID: 1221176037122094595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric Trap wo blur_8
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 5
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b144d23fce4a17f00800000000000000
+      internalID: 1112851920536290331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric Trap wo blur_9
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06be7cfbdd6bdd020800000000000000
+      internalID: 2368250042588326752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric Trap wo blur_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 26
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424c5c1f9ad998c50800000000000000
+      internalID: 6668034076530033700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric Trap wo blur_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7feca7a3392cce0800000000000000
+      internalID: -1386383855898921039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric Trap wo blur_12
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 26
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea7c0a1f8a54b520800000000000000
+      internalID: 2716896045875100390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric Trap wo blur_13
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 5
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a55f88b594dcdd20800000000000000
+      internalID: 3304749966094718374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric Trap wo blur_14
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 7
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6565cdc9a7a3c0660800000000000000
+      internalID: 7353316589881284182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric Trap wo blur_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 35
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d2038f2f38df770800000000000000
+      internalID: 8646211939190451559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric Trap wo blur_16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60800ff5c3a2c430800000000000000
+      internalID: 3801781106236227693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric Trap wo blur_17
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 24
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e5611ecd45bba70800000000000000
+      internalID: 8843755600917978679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric Trap wo blur_18
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 12
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdbbb43f2f226850800000000000000
+      internalID: 6368704702849990073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric Trap wo blur_19
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 19
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42d664dee7202c70800000000000000
+      internalID: 8944192766677013071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric Trap wo blur_20
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92bb3a908ff209e0800000000000000
+      internalID: -1656480785110420835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric Trap wo blur_21
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 16
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbe06a7c415d0630800000000000000
+      internalID: 3894858641657883580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric Trap wo blur_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d668701e03796f0800000000000000
+      internalID: -678019475843945066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric Trap wo blur_23
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 7
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47399254d0af55540800000000000000
+      internalID: 4996174296539304820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletric Trap wo blur_24
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 7
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a708e292505f34b0800000000000000
+      internalID: -5458555907767531613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Eletric Trap wo blur_0: -316523118528160412
+      Eletric Trap wo blur_1: -8940672974961984455
+      Eletric Trap wo blur_10: 6668034076530033700
+      Eletric Trap wo blur_11: -1386383855898921039
+      Eletric Trap wo blur_12: 2716896045875100390
+      Eletric Trap wo blur_13: 3304749966094718374
+      Eletric Trap wo blur_14: 7353316589881284182
+      Eletric Trap wo blur_15: 8646211939190451559
+      Eletric Trap wo blur_16: 3801781106236227693
+      Eletric Trap wo blur_17: 8843755600917978679
+      Eletric Trap wo blur_18: 6368704702849990073
+      Eletric Trap wo blur_19: 8944192766677013071
+      Eletric Trap wo blur_2: 4521607752452784027
+      Eletric Trap wo blur_20: -1656480785110420835
+      Eletric Trap wo blur_21: 3894858641657883580
+      Eletric Trap wo blur_22: -678019475843945066
+      Eletric Trap wo blur_23: 4996174296539304820
+      Eletric Trap wo blur_24: -5458555907767531613
+      Eletric Trap wo blur_3: 8963772193293935438
+      Eletric Trap wo blur_4: -5386732803714763657
+      Eletric Trap wo blur_5: -6265707028304118164
+      Eletric Trap wo blur_6: -4302223079502063242
+      Eletric Trap wo blur_7: 1221176037122094595
+      Eletric Trap wo blur_8: 1112851920536290331
+      Eletric Trap wo blur_9: 2368250042588326752
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

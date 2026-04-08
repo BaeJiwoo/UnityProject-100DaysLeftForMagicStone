@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 09e23e3a2cc6d544ea50e7f34c8f6202
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6153533755802489152
+    second: Volcano(NoGlow)11_0
+  - first:
+      213: -6173741278867371141
+    second: Volcano(NoGlow)11_1
+  - first:
+      213: -9131549659053852799
+    second: Volcano(NoGlow)11_2
+  - first:
+      213: 3310283003095454521
+    second: Volcano(NoGlow)11_3
+  - first:
+      213: 3392582206935208140
+    second: Volcano(NoGlow)11_4
+  - first:
+      213: 7039103010247439101
+    second: Volcano(NoGlow)11_5
+  - first:
+      213: -6560281438551667231
+    second: Volcano(NoGlow)11_6
+  - first:
+      213: -2424917000702522510
+    second: Volcano(NoGlow)11_7
+  - first:
+      213: 3847549082477493169
+    second: Volcano(NoGlow)11_8
+  - first:
+      213: 4041729120188540438
+    second: Volcano(NoGlow)11_9
+  - first:
+      213: 6686611176498383549
+    second: Volcano(NoGlow)11_10
+  - first:
+      213: -1649907409136112559
+    second: Volcano(NoGlow)11_11
+  - first:
+      213: -7833889105067413110
+    second: Volcano(NoGlow)11_12
+  - first:
+      213: 7582223974372779848
+    second: Volcano(NoGlow)11_13
+  - first:
+      213: -4332089336861554911
+    second: Volcano(NoGlow)11_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Volcano(NoGlow)11_0
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 73
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce6404e6a14a9aa0800000000000000
+      internalID: -6153533755802489152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano(NoGlow)11_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 86
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bc1f94407725aa0800000000000000
+      internalID: -6173741278867371141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano(NoGlow)11_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 80
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187714357f7364180800000000000000
+      internalID: -9131549659053852799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano(NoGlow)11_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 60
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93394894adc70fd20800000000000000
+      internalID: 3310283003095454521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano(NoGlow)11_4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 47
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc01fa3ea8fd41f20800000000000000
+      internalID: 3392582206935208140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano(NoGlow)11_5
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 58
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df27e2f94eaefa160800000000000000
+      internalID: 7039103010247439101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano(NoGlow)11_6
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 49
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed0a8c1ac235f4a0800000000000000
+      internalID: -6560281438551667231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano(NoGlow)11_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 57
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b025be5d6f85ed0800000000000000
+      internalID: -2424917000702522510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano(NoGlow)11_8
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 42
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb73fc518d356530800000000000000
+      internalID: 3847549082477493169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano(NoGlow)11_9
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 40
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616a037883b171830800000000000000
+      internalID: 4041729120188540438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano(NoGlow)11_10
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 45
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbac756107d9bcc50800000000000000
+      internalID: 6686611176498383549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano(NoGlow)11_11
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 35
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c2826f3f95a19e0800000000000000
+      internalID: -1649907409136112559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano(NoGlow)11_12
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1
+        width: 84
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8177aa5d5f684390800000000000000
+      internalID: -7833889105067413110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano(NoGlow)11_13
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847a0f74888793960800000000000000
+      internalID: 7582223974372779848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcano(NoGlow)11_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 29
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1270c1553b351e3c0800000000000000
+      internalID: -4332089336861554911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Volcano(NoGlow)11_0: -6153533755802489152
+      Volcano(NoGlow)11_1: -6173741278867371141
+      Volcano(NoGlow)11_10: 6686611176498383549
+      Volcano(NoGlow)11_11: -1649907409136112559
+      Volcano(NoGlow)11_12: -7833889105067413110
+      Volcano(NoGlow)11_13: 7582223974372779848
+      Volcano(NoGlow)11_14: -4332089336861554911
+      Volcano(NoGlow)11_2: -9131549659053852799
+      Volcano(NoGlow)11_3: 3310283003095454521
+      Volcano(NoGlow)11_4: 3392582206935208140
+      Volcano(NoGlow)11_5: 7039103010247439101
+      Volcano(NoGlow)11_6: -6560281438551667231
+      Volcano(NoGlow)11_7: -2424917000702522510
+      Volcano(NoGlow)11_8: 3847549082477493169
+      Volcano(NoGlow)11_9: 4041729120188540438
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

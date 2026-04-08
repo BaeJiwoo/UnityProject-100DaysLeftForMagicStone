@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 1fb5e87f34fb3504b8120028d275cecb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4015440211500828451
+    second: Ice VFX 8 Repeatable (48x32)_0
+  - first:
+      213: -7743917150792541227
+    second: Ice VFX 8 Repeatable (48x32)_1
+  - first:
+      213: -40915095783204170
+    second: Ice VFX 8 Repeatable (48x32)_2
+  - first:
+      213: 6943862744100775707
+    second: Ice VFX 8 Repeatable (48x32)_3
+  - first:
+      213: 3895352684298294004
+    second: Ice VFX 8 Repeatable (48x32)_4
+  - first:
+      213: -5387498332406075532
+    second: Ice VFX 8 Repeatable (48x32)_5
+  - first:
+      213: 5349389217598610276
+    second: Ice VFX 8 Repeatable (48x32)_6
+  - first:
+      213: 8068344824572060267
+    second: Ice VFX 8 Repeatable (48x32)_7
+  - first:
+      213: 8432936048928645138
+    second: Ice VFX 8 Repeatable (48x32)_8
+  - first:
+      213: 8881193390496604958
+    second: Ice VFX 8 Repeatable (48x32)_9
+  - first:
+      213: -8301924240335827540
+    second: Ice VFX 8 Repeatable (48x32)_10
+  - first:
+      213: 694987699089747440
+    second: Ice VFX 8 Repeatable (48x32)_11
+  - first:
+      213: -6067279257915992221
+    second: Ice VFX 8 Repeatable (48x32)_12
+  - first:
+      213: 3771605603299852274
+    second: Ice VFX 8 Repeatable (48x32)_13
+  - first:
+      213: -5175434190986851715
+    second: Ice VFX 8 Repeatable (48x32)_14
+  - first:
+      213: -4926775688544365178
+    second: Ice VFX 8 Repeatable (48x32)_15
+  - first:
+      213: 4048720494718657027
+    second: Ice VFX 8 Repeatable (48x32)_16
+  - first:
+      213: 7106941295156489654
+    second: Ice VFX 8 Repeatable (48x32)_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ice VFX 8 Repeatable (48x32)_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 9
+        width: 43
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd87ca0076a4648c0800000000000000
+      internalID: -4015440211500828451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 8 Repeatable (48x32)_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 22
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db94f06164188490800000000000000
+      internalID: -7743917150792541227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 8 Repeatable (48x32)_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 10
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba14e9efe3ae6ff0800000000000000
+      internalID: -40915095783204170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 8 Repeatable (48x32)_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 22
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b172237206e8d5060800000000000000
+      internalID: 6943862744100775707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 8 Repeatable (48x32)_4
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 10
+        width: 43
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2d67eb0a21f0630800000000000000
+      internalID: 3895352684298294004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 8 Repeatable (48x32)_5
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 9
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f2de49fc2cb35b0800000000000000
+      internalID: -5387498332406075532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 8 Repeatable (48x32)_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 9
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b1540b629dc3a40800000000000000
+      internalID: 5349389217598610276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 8 Repeatable (48x32)_7
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 9
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62aaf9bed488ff60800000000000000
+      internalID: 8068344824572060267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 8 Repeatable (48x32)_8
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 9
+        width: 43
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2106af928aec70570800000000000000
+      internalID: 8432936048928645138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 8 Repeatable (48x32)_9
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 22
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13e8168556504b70800000000000000
+      internalID: 8881193390496604958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 8 Repeatable (48x32)_10
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 9
+        width: 42
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad049e83e3a9cc80800000000000000
+      internalID: -8301924240335827540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 8 Repeatable (48x32)_11
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fda28f41a715a900800000000000000
+      internalID: 694987699089747440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 8 Repeatable (48x32)_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36752d629a1bccba0800000000000000
+      internalID: -6067279257915992221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 8 Repeatable (48x32)_13
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff7f89305f675430800000000000000
+      internalID: 3771605603299852274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 8 Repeatable (48x32)_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 6
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a41df160a2d28b0800000000000000
+      internalID: -5175434190986851715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 8 Repeatable (48x32)_15
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 6
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685584c4d9390abb0800000000000000
+      internalID: -4926775688544365178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 8 Repeatable (48x32)_16
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 8
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302ac82c6d1ff2830800000000000000
+      internalID: 4048720494718657027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice VFX 8 Repeatable (48x32)_17
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 6
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd6b59247de0a260800000000000000
+      internalID: 7106941295156489654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ice VFX 8 Repeatable (48x32)_0: -4015440211500828451
+      Ice VFX 8 Repeatable (48x32)_1: -7743917150792541227
+      Ice VFX 8 Repeatable (48x32)_10: -8301924240335827540
+      Ice VFX 8 Repeatable (48x32)_11: 694987699089747440
+      Ice VFX 8 Repeatable (48x32)_12: -6067279257915992221
+      Ice VFX 8 Repeatable (48x32)_13: 3771605603299852274
+      Ice VFX 8 Repeatable (48x32)_14: -5175434190986851715
+      Ice VFX 8 Repeatable (48x32)_15: -4926775688544365178
+      Ice VFX 8 Repeatable (48x32)_16: 4048720494718657027
+      Ice VFX 8 Repeatable (48x32)_17: 7106941295156489654
+      Ice VFX 8 Repeatable (48x32)_2: -40915095783204170
+      Ice VFX 8 Repeatable (48x32)_3: 6943862744100775707
+      Ice VFX 8 Repeatable (48x32)_4: 3895352684298294004
+      Ice VFX 8 Repeatable (48x32)_5: -5387498332406075532
+      Ice VFX 8 Repeatable (48x32)_6: 5349389217598610276
+      Ice VFX 8 Repeatable (48x32)_7: 8068344824572060267
+      Ice VFX 8 Repeatable (48x32)_8: 8432936048928645138
+      Ice VFX 8 Repeatable (48x32)_9: 8881193390496604958
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

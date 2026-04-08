@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: d005b355d25dd8d49857ba19e3cc5aec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -136396517470828866
+    second: Thunder Spell Circle w blur_0
+  - first:
+      213: -7975451399966524705
+    second: Thunder Spell Circle w blur_1
+  - first:
+      213: 2940505260011128995
+    second: Thunder Spell Circle w blur_2
+  - first:
+      213: -258098960760586409
+    second: Thunder Spell Circle w blur_3
+  - first:
+      213: -760361315766125264
+    second: Thunder Spell Circle w blur_4
+  - first:
+      213: -8302868422275828478
+    second: Thunder Spell Circle w blur_5
+  - first:
+      213: 7938374557151899432
+    second: Thunder Spell Circle w blur_6
+  - first:
+      213: 3608312541170049355
+    second: Thunder Spell Circle w blur_7
+  - first:
+      213: 4533285348133100545
+    second: Thunder Spell Circle w blur_8
+  - first:
+      213: 5334224083336014911
+    second: Thunder Spell Circle w blur_9
+  - first:
+      213: 7131682519400687524
+    second: Thunder Spell Circle w blur_10
+  - first:
+      213: 1062141132132993235
+    second: Thunder Spell Circle w blur_11
+  - first:
+      213: -7692598122452550830
+    second: Thunder Spell Circle w blur_12
+  - first:
+      213: 4414017091503188349
+    second: Thunder Spell Circle w blur_13
+  - first:
+      213: 1985818401059369922
+    second: Thunder Spell Circle w blur_14
+  - first:
+      213: 8405767026942862633
+    second: Thunder Spell Circle w blur_15
+  - first:
+      213: -26380820192330033
+    second: Thunder Spell Circle w blur_16
+  - first:
+      213: 4473978207585814325
+    second: Thunder Spell Circle w blur_17
+  - first:
+      213: 2443641129462307247
+    second: Thunder Spell Circle w blur_18
+  - first:
+      213: -7866125055581150326
+    second: Thunder Spell Circle w blur_19
+  - first:
+      213: -4583638449730468968
+    second: Thunder Spell Circle w blur_20
+  - first:
+      213: 6103161317252393872
+    second: Thunder Spell Circle w blur_21
+  - first:
+      213: -4906400335044102586
+    second: Thunder Spell Circle w blur_22
+  - first:
+      213: 1171946549479954553
+    second: Thunder Spell Circle w blur_23
+  - first:
+      213: -6170797102311446194
+    second: Thunder Spell Circle w blur_24
+  - first:
+      213: -5044838919366042366
+    second: Thunder Spell Circle w blur_25
+  - first:
+      213: 8835729777334175864
+    second: Thunder Spell Circle w blur_26
+  - first:
+      213: -9102884716423993429
+    second: Thunder Spell Circle w blur_27
+  - first:
+      213: 3624186956745680826
+    second: Thunder Spell Circle w blur_28
+  - first:
+      213: -2780975391779538479
+    second: Thunder Spell Circle w blur_29
+  - first:
+      213: -2324982455843155640
+    second: Thunder Spell Circle w blur_30
+  - first:
+      213: -7577532246030614841
+    second: Thunder Spell Circle w blur_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Thunder Spell Circle w blur_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 64
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb60d8b071c6b1ef0800000000000000
+      internalID: -136396517470828866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Spell Circle w blur_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 63
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda7a9d1531815190800000000000000
+      internalID: -7975451399966524705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Spell Circle w blur_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 63
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8812b54f5cec820800000000000000
+      internalID: 2940505260011128995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Spell Circle w blur_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 63
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fb7f6dc5c0b6cf0800000000000000
+      internalID: -258098960760586409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Spell Circle w blur_4
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 63
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03dbfc07967a275f0800000000000000
+      internalID: -760361315766125264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Spell Circle w blur_5
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 64
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205f071192946cc80800000000000000
+      internalID: -8302868422275828478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Spell Circle w blur_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 64
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fa905b995ca2e60800000000000000
+      internalID: 7938374557151899432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Spell Circle w blur_7
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 64
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b412707732d431230800000000000000
+      internalID: 3608312541170049355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Spell Circle w blur_8
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 63
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cd4f8710779ee30800000000000000
+      internalID: 4533285348133100545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Spell Circle w blur_9
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 64
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ca397ba88f60a40800000000000000
+      internalID: 5334224083336014911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Spell Circle w blur_10
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 78
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7adb35773d8f260800000000000000
+      internalID: 7131682519400687524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Spell Circle w blur_11
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 64
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d84e127bbb7dbe00800000000000000
+      internalID: 1062141132132993235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Spell Circle w blur_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 66
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bf067c3c66e3590800000000000000
+      internalID: -7692598122452550830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Spell Circle w blur_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 31
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79ec83882db14d30800000000000000
+      internalID: 4414017091503188349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Spell Circle w blur_14
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 32
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3f39f705b0f8b10800000000000000
+      internalID: 1985818401059369922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Spell Circle w blur_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 31
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925ee99439847a470800000000000000
+      internalID: 8405767026942862633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Spell Circle w blur_16
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 32
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce7d87a8c642aff0800000000000000
+      internalID: -26380820192330033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Spell Circle w blur_17
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 31
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537cdf3c973c61e30800000000000000
+      internalID: 4473978207585814325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Spell Circle w blur_18
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 32
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9922809ae89e120800000000000000
+      internalID: 2443641129462307247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Spell Circle w blur_19
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83294f30f8e5d290800000000000000
+      internalID: -7866125055581150326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Spell Circle w blur_20
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8934ef87d15a360c0800000000000000
+      internalID: -4583638449730468968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Spell Circle w blur_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bebb1d1e8c2b450800000000000000
+      internalID: 6103161317252393872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Spell Circle w blur_22
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646b6d7f3e6f8ebb0800000000000000
+      internalID: -4906400335044102586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Spell Circle w blur_23
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9785f717d27934010800000000000000
+      internalID: 1171946549479954553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Spell Circle w blur_24
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4967bfcabcec5aa0800000000000000
+      internalID: -6170797102311446194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Spell Circle w blur_25
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 0
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d1f164bb12df9b0800000000000000
+      internalID: -5044838919366042366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Spell Circle w blur_26
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 0
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87848553b61de9a70800000000000000
+      internalID: 8835729777334175864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Spell Circle w blur_27
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7273e549e0ca180800000000000000
+      internalID: -9102884716423993429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Spell Circle w blur_28
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab72e6cd5d2bb4230800000000000000
+      internalID: 3624186956745680826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Spell Circle w blur_29
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9b0eb8d9df769d0800000000000000
+      internalID: -2780975391779538479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Spell Circle w blur_30
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841147256c00cbfd0800000000000000
+      internalID: -2324982455843155640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder Spell Circle w blur_31
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 2
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cef649d19237d690800000000000000
+      internalID: -7577532246030614841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Thunder Spell Circle w blur_0: -136396517470828866
+      Thunder Spell Circle w blur_1: -7975451399966524705
+      Thunder Spell Circle w blur_10: 7131682519400687524
+      Thunder Spell Circle w blur_11: 1062141132132993235
+      Thunder Spell Circle w blur_12: -7692598122452550830
+      Thunder Spell Circle w blur_13: 4414017091503188349
+      Thunder Spell Circle w blur_14: 1985818401059369922
+      Thunder Spell Circle w blur_15: 8405767026942862633
+      Thunder Spell Circle w blur_16: -26380820192330033
+      Thunder Spell Circle w blur_17: 4473978207585814325
+      Thunder Spell Circle w blur_18: 2443641129462307247
+      Thunder Spell Circle w blur_19: -7866125055581150326
+      Thunder Spell Circle w blur_2: 2940505260011128995
+      Thunder Spell Circle w blur_20: -4583638449730468968
+      Thunder Spell Circle w blur_21: 6103161317252393872
+      Thunder Spell Circle w blur_22: -4906400335044102586
+      Thunder Spell Circle w blur_23: 1171946549479954553
+      Thunder Spell Circle w blur_24: -6170797102311446194
+      Thunder Spell Circle w blur_25: -5044838919366042366
+      Thunder Spell Circle w blur_26: 8835729777334175864
+      Thunder Spell Circle w blur_27: -9102884716423993429
+      Thunder Spell Circle w blur_28: 3624186956745680826
+      Thunder Spell Circle w blur_29: -2780975391779538479
+      Thunder Spell Circle w blur_3: -258098960760586409
+      Thunder Spell Circle w blur_30: -2324982455843155640
+      Thunder Spell Circle w blur_31: -7577532246030614841
+      Thunder Spell Circle w blur_4: -760361315766125264
+      Thunder Spell Circle w blur_5: -8302868422275828478
+      Thunder Spell Circle w blur_6: 7938374557151899432
+      Thunder Spell Circle w blur_7: 3608312541170049355
+      Thunder Spell Circle w blur_8: 4533285348133100545
+      Thunder Spell Circle w blur_9: 5334224083336014911
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
